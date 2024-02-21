@@ -68,5 +68,5 @@ jobs:
           git add .
           git commit -m "Generate $TAG icons"
           git push
-          git tag $TAG
-          git push origin $TAG
+          git tag 0.7.0
+          git push origin 0.7.0
