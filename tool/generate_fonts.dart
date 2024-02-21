@@ -6,15 +6,6 @@ import 'dart:io';
 import 'package:recase/recase.dart';
 
 void main(List<String> args) {
-  updateAssets();
-  generateIcons();
-}
-
-void updateAssets() {
-  //
-}
-
-void generateIcons() {
   final fontsInfoFile = File('./assets/info.json');
   final fontsInfo = jsonDecode(
     fontsInfoFile.readAsStringSync(),

@@ -17,9 +17,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update font based on the latest release
+        id: vars
         run: |
           RELEASE=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
           TAG=$(printf "%s" $RELEASE | jq -r .tag_name)
+          echo "TAG=$TAG" >> $GITHUB_ENV
           echo "Latest tag: $TAG" 
 
           if [ $(git tag -l "$TAG") ]; then
@@ -52,12 +54,17 @@ jobs:
       - name: Generate icons
         run: dart run tool/generate_fonts.dart
 
+      - name: Bump package version
+        run: |
+          sed -i "s/version: .*/version: $TAG/" pubspec.yaml
+
       - name: Push changes
         run: |
+          # See for more details: https://github.com/actions/checkout/pull/1184
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Release $TAG"
           git push
-          git tag 0.5.0
-          git push origin 0.5.0
+          git tag 0.6.0
+          git push origin 0.6.0
