@@ -20,7 +20,7 @@ jobs:
         run: |
           RELEASE=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
           TAG=$(echo $RELEASE | jq -r .tag_name)
-          echo $TAG
+          echo "Latest tag: $TAG" 
 
           if [ $(git tag -l "$TAG") ]; then
               echo "No changes since the latest release - aborting."
