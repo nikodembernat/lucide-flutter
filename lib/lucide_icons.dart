@@ -21,11 +21,6 @@ class LucideIcons {
   static const IconData alarmClock = _IconData(0x57402);
   static const IconData alarmSmoke = _IconData(0x58751);
   static const IconData album = _IconData(0x57403);
-  static const IconData alertCircle = _IconData(0x57404);
-  static const IconData alertOctagon = _IconData(0x57405);
-  static const IconData alertTriangle = _IconData(0x57406);
-  static const IconData alignCenterHorizontal = _IconData(0x57955);
-  static const IconData alignCenterVertical = _IconData(0x57956);
   static const IconData alignCenter = _IconData(0x57407);
   static const IconData alignEndHorizontal = _IconData(0x57957);
   static const IconData alignEndVertical = _IconData(0x57958);
