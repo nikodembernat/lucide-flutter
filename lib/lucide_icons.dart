@@ -9,7 +9,6 @@ class LucideIcons {
   static const IconData aArrowDown = _IconData(0x58761);
   static const IconData aArrowUp = _IconData(0x58762);
   static const IconData aLargeSmall = _IconData(0x58763);
-  static const IconData accessibility = _IconData(0x57998);
   static const IconData activitySquare = _IconData(0x58548);
   static const IconData activity = _IconData(0x57400);
   static const IconData airVent = _IconData(0x58184);

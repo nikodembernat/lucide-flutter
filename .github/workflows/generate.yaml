@@ -29,8 +29,8 @@ jobs:
 
           if [ $(git tag -l "$TAG") ]; then
               echo "No changes since the latest release - aborting."
-              echo "EXISTS=true" >> $GITHUB_ENV
-              exit 0
+              # echo "EXISTS=true" >> $GITHUB_ENV
+              # exit 0
           fi
 
           URL=$(printf "%s" $RELEASE | jq -r '.assets[] | select(.name | startswith("lucide-font")) | .browser_download_url')
@@ -75,5 +75,5 @@ jobs:
           git add .
           git commit -m "Generate $TAG icons"
           git push
-          git tag 0.7.0
-          git push origin 0.7.0
+          git tag 0.8.0
+          git push origin 0.8.0
