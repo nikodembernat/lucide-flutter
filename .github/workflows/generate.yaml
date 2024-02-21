@@ -46,6 +46,9 @@ jobs:
         with:
           channel: "stable"
 
+      - name: Install dependencies
+        run: flutter pub get
+
       - name: Generate icons
         run: dart run tool/generate_fonts.dart
 
