@@ -16,11 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Sync release branch with main
-        run: |
-          git checkout release
-          git reset --hard sandbox
-
       - name: Update font based on the latest release
         run: |
           RELEASE=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
