@@ -20,4 +20,4 @@ jobs:
         run: |
           release=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
           tag=$(echo $release | jq -r .tag_name)
-          print($tag)
+          echo $tag
