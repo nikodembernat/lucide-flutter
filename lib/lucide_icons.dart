@@ -11,7 +11,9 @@ class LucideIcons {
   static const IconData aLargeSmall = _IconData(0x58763);
   static const IconData accessibility = _IconData(0x57998);
   static const IconData activitySquare = _IconData(0x58548);
+  static const IconData activity = _IconData(0x57400);
   static const IconData airVent = _IconData(0x58184);
+  static const IconData airplay = _IconData(0x57401);
   static const IconData alarmClockCheck = _IconData(0x57826);
   static const IconData alarmClockMinus = _IconData(0x57827);
   static const IconData alarmClockOff = _IconData(0x57906);
@@ -19,6 +21,7 @@ class LucideIcons {
   static const IconData alarmClock = _IconData(0x57402);
   static const IconData alarmSmoke = _IconData(0x58751);
   static const IconData album = _IconData(0x57403);
+  static const IconData alertCircle = _IconData(0x57404);
   static const IconData alertOctagon = _IconData(0x57405);
   static const IconData alertTriangle = _IconData(0x57406);
   static const IconData alignCenterHorizontal = _IconData(0x57955);
