@@ -54,10 +54,8 @@ jobs:
 
       - name: Push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
           git add .
           git commit -m "Release $TAG"
           git push
-          git tag 0.3.0
-          git push origin 0.3.0
+          git tag 0.4.0
+          git push origin 0.4.0
