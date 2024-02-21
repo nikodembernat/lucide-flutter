@@ -63,6 +63,8 @@ jobs:
       - name: Push changes
         run: |
           # See for more details: https://github.com/actions/checkout/pull/1184
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Generate $TAG icons"
           git push
