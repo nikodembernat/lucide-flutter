@@ -19,7 +19,7 @@ jobs:
       - name: Update font based on the latest release
         run: |
           RELEASE=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
-          TAG=$(echo $RELEASE | jq -r .tag_name)
+          TAG=$(printf "%s" $RELEASE | jq -r .tag_name)
           echo "Latest tag: $TAG" 
 
           if [ $(git tag -l "$TAG") ]; then
@@ -27,7 +27,7 @@ jobs:
               exit 1
           fi
 
-          URL=$(echo $RELEASE | jq -r '.assets[] | select(.name | startswith("lucide-font")) | .browser_download_url)
+          URL=$(printf "%s" $RELEASE | jq -r '.assets[] | select(.name | startswith("lucide-font")) | .browser_download_url')
 
           echo "Downloading $URL" 
           curl -vLJO -H 'Accept: application/octet-stream' $URL
