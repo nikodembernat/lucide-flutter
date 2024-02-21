@@ -1,0 +1,23 @@
+name: Generate new icons
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - main
+      - sandbox
+
+jobs:
+  build:
+    timeout-minutes: 5
+    name: Generate new icons
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get the latest release
+        run: |
+          release=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
+          tag=$(echo $release | jq -r .tag_name)
+          print($tag)
