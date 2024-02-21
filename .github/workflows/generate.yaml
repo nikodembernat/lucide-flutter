@@ -16,8 +16,43 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Get the latest release
+      - name: Update font based on the latest release
         run: |
-          release=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
-          tag=$(echo $release | jq -r .tag_name)
-          echo $tag
+          RELEASE=$(curl -s "https://api.github.com/repos/lucide-icons/lucide/releases/latest")
+          TAG=$(echo $RELEASE | jq -r .tag_name)
+          echo $TAG
+
+          if [ $(git tag -l "$TAG") ]; then
+              echo "No changes since the latest release - aborting."
+              exit 1
+          fi
+
+          URL=$(echo $RELEASE | jq -r '.assets[] | select(.name | startswith("lucide-font")) | .browser_download_url)
+
+          echo "Downloading $URL" 
+          curl -vLJO -H 'Accept: application/octet-stream' $URL
+          unzip -o lucide-font-*.zip
+
+          echo "Updating assets"
+          mv lucide-font/info.json assets/info.json
+          mv lucide-font/lucide.ttf assets/lucide.ttf
+
+          echo "Removing leftovers"
+          rm -rf lucide-font
+          rm -f lucide-font-*.zip
+
+      - name: Install Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: "stable"
+
+      - name: Generate icons
+        run: dart run tool/generate_fonts.dart
+
+      - name: Push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Release $TAG"
+          git push
