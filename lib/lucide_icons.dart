@@ -11,7 +11,9 @@ class LucideIcons {
   static const IconData aLargeSmall = _IconData(0x58763);
   static const IconData accessibility = _IconData(0x57998);
   static const IconData activitySquare = _IconData(0x58548);
+  static const IconData activity = _IconData(0x57400);
   static const IconData airVent = _IconData(0x58184);
+  static const IconData airplay = _IconData(0x57401);
   static const IconData alarmClockCheck = _IconData(0x57826);
   static const IconData alarmClockMinus = _IconData(0x57827);
   static const IconData alarmClockOff = _IconData(0x57906);
