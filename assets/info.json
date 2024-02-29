@@ -1415,6 +1415,12 @@
     "className": "icon-boom-box",
     "unicode": "&#58610;"
   },
+  "bot-message-square": {
+    "encodedCode": "\\e5d2",
+    "prefix": "icon",
+    "className": "icon-bot-message-square",
+    "unicode": "&#58834;"
+  },
   "bot": {
     "encodedCode": "\\e1b1",
     "prefix": "icon",

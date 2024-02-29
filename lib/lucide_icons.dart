@@ -244,6 +244,7 @@ class LucideIcons {
   static const IconData bookmarkX = LucideIconData(58660);
   static const IconData bookmark = LucideIconData(57453);
   static const IconData boomBox = LucideIconData(58610);
+  static const IconData botMessageSquare = LucideIconData(58834);
   static const IconData bot = LucideIconData(57777);
   static const IconData boxSelect = LucideIconData(57778);
   static const IconData box = LucideIconData(57454);
