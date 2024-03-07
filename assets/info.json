@@ -317,6 +317,12 @@
     "className": "icon-aperture",
     "unicode": "&#57415;"
   },
+  "app-window-mac": {
+    "encodedCode": "\\e5d6",
+    "prefix": "icon",
+    "className": "icon-app-window-mac",
+    "unicode": "&#58838;"
+  },
   "app-window": {
     "encodedCode": "\\e422",
     "prefix": "icon",
@@ -1703,6 +1709,12 @@
     "className": "icon-candy",
     "unicode": "&#58252;"
   },
+  "cannabis": {
+    "encodedCode": "\\e5d8",
+    "prefix": "icon",
+    "className": "icon-cannabis",
+    "unicode": "&#58840;"
+  },
   "captions-off": {
     "encodedCode": "\\e5c5",
     "prefix": "icon",
@@ -2800,6 +2812,12 @@
     "prefix": "icon",
     "className": "icon-dna",
     "unicode": "&#58254;"
+  },
+  "dock": {
+    "encodedCode": "\\e5d7",
+    "prefix": "icon",
+    "className": "icon-dock",
+    "unicode": "&#58839;"
   },
   "dog": {
     "encodedCode": "\\e388",
@@ -6317,6 +6335,12 @@
     "className": "icon-projector",
     "unicode": "&#58543;"
   },
+  "proportions": {
+    "encodedCode": "\\e5d3",
+    "prefix": "icon",
+    "className": "icon-proportions",
+    "unicode": "&#58835;"
+  },
   "puzzle": {
     "encodedCode": "\\e293",
     "prefix": "icon",
@@ -6623,11 +6647,23 @@
     "className": "icon-rotate-3d",
     "unicode": "&#58081;"
   },
+  "rotate-ccw-square": {
+    "encodedCode": "\\e5d4",
+    "prefix": "icon",
+    "className": "icon-rotate-ccw-square",
+    "unicode": "&#58836;"
+  },
   "rotate-ccw": {
     "encodedCode": "\\e14a",
     "prefix": "icon",
     "className": "icon-rotate-ccw",
     "unicode": "&#57674;"
+  },
+  "rotate-cw-square": {
+    "encodedCode": "\\e5d5",
+    "prefix": "icon",
+    "className": "icon-rotate-cw-square",
+    "unicode": "&#58837;"
   },
   "rotate-cw": {
     "encodedCode": "\\e14b",

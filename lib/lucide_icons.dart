@@ -61,6 +61,7 @@ class LucideIcons {
   static const IconData antenna = LucideIconData(58598);
   static const IconData anvil = LucideIconData(58756);
   static const IconData aperture = LucideIconData(57415);
+  static const IconData appWindowMac = LucideIconData(58838);
   static const IconData appWindow = LucideIconData(58402);
   static const IconData apple = LucideIconData(58185);
   static const IconData archiveRestore = LucideIconData(58052);
@@ -292,6 +293,7 @@ class LucideIcons {
   static const IconData candyCane = LucideIconData(58554);
   static const IconData candyOff = LucideIconData(58253);
   static const IconData candy = LucideIconData(58252);
+  static const IconData cannabis = LucideIconData(58840);
   static const IconData captionsOff = LucideIconData(58821);
   static const IconData captions = LucideIconData(58271);
   static const IconData carFront = LucideIconData(58625);
@@ -475,6 +477,7 @@ class LucideIcons {
   static const IconData divide = LucideIconData(57514);
   static const IconData dnaOff = LucideIconData(58255);
   static const IconData dna = LucideIconData(58254);
+  static const IconData dock = LucideIconData(58839);
   static const IconData dog = LucideIconData(58248);
   static const IconData dollarSign = LucideIconData(57517);
   static const IconData donut = LucideIconData(58556);
@@ -1061,6 +1064,7 @@ class LucideIcons {
   static const IconData presentation = LucideIconData(58542);
   static const IconData printer = LucideIconData(57667);
   static const IconData projector = LucideIconData(58543);
+  static const IconData proportions = LucideIconData(58835);
   static const IconData puzzle = LucideIconData(58003);
   static const IconData pyramid = LucideIconData(58672);
   static const IconData qrCode = LucideIconData(57813);
@@ -1112,7 +1116,9 @@ class LucideIcons {
   static const IconData rockingChair = LucideIconData(57898);
   static const IconData rollerCoaster = LucideIconData(58496);
   static const IconData rotate3d = LucideIconData(58081);
+  static const IconData rotateCcwSquare = LucideIconData(58836);
   static const IconData rotateCcw = LucideIconData(57674);
+  static const IconData rotateCwSquare = LucideIconData(58837);
   static const IconData rotateCw = LucideIconData(57675);
   static const IconData routeOff = LucideIconData(58691);
   static const IconData route = LucideIconData(58690);
