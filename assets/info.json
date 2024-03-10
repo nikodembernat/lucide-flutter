@@ -4049,6 +4049,12 @@
     "className": "icon-guitar",
     "unicode": "&#58723;"
   },
+  "ham": {
+    "encodedCode": "\\e5db",
+    "prefix": "icon",
+    "className": "icon-ham",
+    "unicode": "&#58843;"
+  },
   "hammer": {
     "encodedCode": "\\e0ec",
     "prefix": "icon",

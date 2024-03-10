@@ -683,6 +683,7 @@ class LucideIcons {
   static const IconData grip = LucideIconData(58292);
   static const IconData group = LucideIconData(58472);
   static const IconData guitar = LucideIconData(58723);
+  static const IconData ham = LucideIconData(58843);
   static const IconData hammer = LucideIconData(57580);
   static const IconData handCoins = LucideIconData(58812);
   static const IconData handHeart = LucideIconData(58813);
