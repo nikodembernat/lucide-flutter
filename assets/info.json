@@ -4271,6 +4271,12 @@
     "className": "icon-hop",
     "unicode": "&#58266;"
   },
+  "hospital": {
+    "encodedCode": "\\e5dc",
+    "prefix": "icon",
+    "className": "icon-hospital",
+    "unicode": "&#58844;"
+  },
   "hotel": {
     "encodedCode": "\\e3e5",
     "prefix": "icon",

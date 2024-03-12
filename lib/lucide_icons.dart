@@ -720,6 +720,7 @@ class LucideIcons {
   static const IconData home = LucideIconData(57589);
   static const IconData hopOff = LucideIconData(58267);
   static const IconData hop = LucideIconData(58266);
+  static const IconData hospital = LucideIconData(58844);
   static const IconData hotel = LucideIconData(58341);
   static const IconData hourglass = LucideIconData(58005);
   static const IconData iceCreamBowl = LucideIconData(58282);
