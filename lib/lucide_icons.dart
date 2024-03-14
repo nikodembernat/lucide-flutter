@@ -162,6 +162,7 @@ class LucideIcons {
   static const IconData bedSingle = LucideIconData(58050);
   static const IconData bed = LucideIconData(58048);
   static const IconData beef = LucideIconData(58280);
+  static const IconData beerOff = LucideIconData(58845);
   static const IconData beer = LucideIconData(58062);
   static const IconData bellDot = LucideIconData(58415);
   static const IconData bellElectric = LucideIconData(58752);

@@ -923,6 +923,12 @@
     "className": "icon-beef",
     "unicode": "&#58280;"
   },
+  "beer-off": {
+    "encodedCode": "\\e5dd",
+    "prefix": "icon",
+    "className": "icon-beer-off",
+    "unicode": "&#58845;"
+  },
   "beer": {
     "encodedCode": "\\e2ce",
     "prefix": "icon",
