@@ -8627,6 +8627,12 @@
     "className": "icon-workflow",
     "unicode": "&#58409;"
   },
+  "worm": {
+    "encodedCode": "\\e5de",
+    "prefix": "icon",
+    "className": "icon-worm",
+    "unicode": "&#58846;"
+  },
   "wrap-text": {
     "encodedCode": "\\e247",
     "prefix": "icon",

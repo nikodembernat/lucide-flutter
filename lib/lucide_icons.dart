@@ -1446,6 +1446,7 @@ class LucideIcons {
   static const IconData wineOff = LucideIconData(58275);
   static const IconData wine = LucideIconData(58103);
   static const IconData workflow = LucideIconData(58409);
+  static const IconData worm = LucideIconData(58846);
   static const IconData wrapText = LucideIconData(57927);
   static const IconData wrench = LucideIconData(57775);
   static const IconData x = LucideIconData(57776);
