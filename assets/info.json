@@ -5333,6 +5333,12 @@
     "className": "icon-mountain",
     "unicode": "&#57904;"
   },
+  "mouse-off": {
+    "encodedCode": "\\e5df",
+    "prefix": "icon",
+    "className": "icon-mouse-off",
+    "unicode": "&#58847;"
+  },
   "mouse-pointer-2": {
     "encodedCode": "\\e1c2",
     "prefix": "icon",

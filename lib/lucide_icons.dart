@@ -897,6 +897,7 @@ class LucideIcons {
   static const IconData moon = LucideIconData(57631);
   static const IconData mountainSnow = LucideIconData(57905);
   static const IconData mountain = LucideIconData(57904);
+  static const IconData mouseOff = LucideIconData(58847);
   static const IconData mousePointer2 = LucideIconData(57794);
   static const IconData mousePointerClick = LucideIconData(57633);
   static const IconData mousePointer = LucideIconData(57632);
