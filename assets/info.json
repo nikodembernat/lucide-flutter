@@ -5969,6 +5969,18 @@
     "className": "icon-piggy-bank",
     "unicode": "&#57660;"
   },
+  "pilcrow-left": {
+    "encodedCode": "\\e5e0",
+    "prefix": "icon",
+    "className": "icon-pilcrow-left",
+    "unicode": "&#58848;"
+  },
+  "pilcrow-right": {
+    "encodedCode": "\\e5e1",
+    "prefix": "icon",
+    "className": "icon-pilcrow-right",
+    "unicode": "&#58849;"
+  },
   "pilcrow": {
     "encodedCode": "\\e3a6",
     "prefix": "icon",

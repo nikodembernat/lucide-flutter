@@ -1003,6 +1003,8 @@ class LucideIcons {
   static const IconData pictureInPicture = LucideIconData(58289);
   static const IconData pieChart = LucideIconData(57659);
   static const IconData piggyBank = LucideIconData(57660);
+  static const IconData pilcrowLeft = LucideIconData(58848);
+  static const IconData pilcrowRight = LucideIconData(58849);
   static const IconData pilcrow = LucideIconData(58278);
   static const IconData pill = LucideIconData(58304);
   static const IconData pinOff = LucideIconData(58037);
