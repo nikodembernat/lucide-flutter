@@ -752,6 +752,7 @@ class LucideIcons {
   static const IconData keySquare = LucideIconData(58536);
   static const IconData key = LucideIconData(57599);
   static const IconData keyboardMusic = LucideIconData(58724);
+  static const IconData keyboardOff = LucideIconData(58850);
   static const IconData keyboard = LucideIconData(57987);
   static const IconData lampCeiling = LucideIconData(58072);
   static const IconData lampDesk = LucideIconData(58073);
