@@ -4325,6 +4325,12 @@
     "className": "icon-image-off",
     "unicode": "&#57791;"
   },
+  "image-play": {
+    "encodedCode": "\\e5e3",
+    "prefix": "icon",
+    "className": "icon-image-play",
+    "unicode": "&#58851;"
+  },
   "image-plus": {
     "encodedCode": "\\e1f5",
     "prefix": "icon",
