@@ -1283,6 +1283,12 @@
     "className": "icon-bot-message-square",
     "unicode": "&#58834;"
   },
+  "bot-off": {
+    "encodedCode": "\\e5e4",
+    "prefix": "icon",
+    "className": "icon-bot-off",
+    "unicode": "&#58852;"
+  },
   "bot": {
     "encodedCode": "\\e1b9",
     "prefix": "icon",
