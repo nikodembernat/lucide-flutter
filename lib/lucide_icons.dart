@@ -455,7 +455,9 @@ class LucideIcons {
   static const IconData delete = LucideIconData(57519);
   static const IconData dessert = LucideIconData(58559);
   static const IconData diameter = LucideIconData(58666);
+  static const IconData diamondMinus = LucideIconData(58853);
   static const IconData diamondPercent = LucideIconData(58655);
+  static const IconData diamondPlus = LucideIconData(58854);
   static const IconData diamond = LucideIconData(58065);
   static const IconData dice1 = LucideIconData(57990);
   static const IconData dice2 = LucideIconData(57991);

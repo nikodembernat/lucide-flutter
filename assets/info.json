@@ -2681,11 +2681,23 @@
     "className": "icon-diameter",
     "unicode": "&#58666;"
   },
+  "diamond-minus": {
+    "encodedCode": "\\e5e5",
+    "prefix": "icon",
+    "className": "icon-diamond-minus",
+    "unicode": "&#58853;"
+  },
   "diamond-percent": {
     "encodedCode": "\\e51f",
     "prefix": "icon",
     "className": "icon-diamond-percent",
     "unicode": "&#58655;"
+  },
+  "diamond-plus": {
+    "encodedCode": "\\e5e6",
+    "prefix": "icon",
+    "className": "icon-diamond-plus",
+    "unicode": "&#58854;"
   },
   "diamond": {
     "encodedCode": "\\e2d1",
