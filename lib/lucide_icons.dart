@@ -946,6 +946,7 @@ class LucideIcons {
   static const IconData octagon = LucideIconData(57639);
   static const IconData option = LucideIconData(57846);
   static const IconData orbit = LucideIconData(58346);
+  static const IconData origami = LucideIconData(58855);
   static const IconData package2 = LucideIconData(58179);
   static const IconData packageCheck = LucideIconData(57957);
   static const IconData packageMinus = LucideIconData(57958);

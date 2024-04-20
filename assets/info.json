@@ -5627,6 +5627,12 @@
     "className": "icon-orbit",
     "unicode": "&#58346;"
   },
+  "origami": {
+    "encodedCode": "\\e5e7",
+    "prefix": "icon",
+    "className": "icon-origami",
+    "unicode": "&#58855;"
+  },
   "package-2": {
     "encodedCode": "\\e343",
     "prefix": "icon",
