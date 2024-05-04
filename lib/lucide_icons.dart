@@ -812,6 +812,7 @@ class LucideIcons {
   static const IconData listX = LucideIconData(57919);
   static const IconData list = LucideIconData(57609);
   static const IconData loaderCircle = LucideIconData(57611);
+  static const IconData loaderPinwheel = LucideIconData(58858);
   static const IconData loader = LucideIconData(57610);
   static const IconData locateFixed = LucideIconData(57817);
   static const IconData locateOff = LucideIconData(57985);
@@ -906,6 +907,7 @@ class LucideIcons {
   static const IconData mountain = LucideIconData(57904);
   static const IconData mouseOff = LucideIconData(58847);
   static const IconData mousePointer2 = LucideIconData(57794);
+  static const IconData mousePointerBan = LucideIconData(58859);
   static const IconData mousePointerClick = LucideIconData(57633);
   static const IconData mousePointer = LucideIconData(57632);
   static const IconData mouse = LucideIconData(57997);
