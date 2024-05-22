@@ -961,7 +961,7 @@ class LucideIcons {
   static const IconData package = LucideIconData(57642);
   static const IconData paintBucket = LucideIconData(58085);
   static const IconData paintRoller = LucideIconData(58786);
-  static const IconData paintbrush2 = LucideIconData(58087);
+  static const IconData paintbrushVertical = LucideIconData(58087);
   static const IconData paintbrush = LucideIconData(58086);
   static const IconData palette = LucideIconData(57819);
   static const IconData panelBottomClose = LucideIconData(58417);
