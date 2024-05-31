@@ -4661,6 +4661,12 @@
     "className": "icon-leafy-green",
     "unicode": "&#58483;"
   },
+  "lectern": {
+    "encodedCode": "\\e5ed",
+    "prefix": "icon",
+    "className": "icon-lectern",
+    "unicode": "&#58861;"
+  },
   "library-big": {
     "encodedCode": "\\e552",
     "prefix": "icon",
@@ -6784,6 +6790,12 @@
     "prefix": "icon",
     "className": "icon-search",
     "unicode": "&#57683;"
+  },
+  "section": {
+    "encodedCode": "\\e5ec",
+    "prefix": "icon",
+    "className": "icon-section",
+    "unicode": "&#58860;"
   },
   "send-horizontal": {
     "encodedCode": "\\e4f6",

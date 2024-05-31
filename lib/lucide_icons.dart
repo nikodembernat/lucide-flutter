@@ -785,6 +785,7 @@ class LucideIcons {
   static const IconData layoutTemplate = LucideIconData(57861);
   static const IconData leaf = LucideIconData(58077);
   static const IconData leafyGreen = LucideIconData(58483);
+  static const IconData lectern = LucideIconData(58861);
   static const IconData libraryBig = LucideIconData(58706);
   static const IconData library = LucideIconData(57603);
   static const IconData lifeBuoy = LucideIconData(57604);
@@ -1139,6 +1140,7 @@ class LucideIcons {
   static const IconData searchSlash = LucideIconData(58544);
   static const IconData searchX = LucideIconData(58545);
   static const IconData search = LucideIconData(57683);
+  static const IconData section = LucideIconData(58860);
   static const IconData sendHorizontal = LucideIconData(58614);
   static const IconData sendToBack = LucideIconData(58615);
   static const IconData send = LucideIconData(57684);
