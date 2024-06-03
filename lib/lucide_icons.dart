@@ -1017,6 +1017,7 @@ class LucideIcons {
   static const IconData pilcrowLeft = LucideIconData(58848);
   static const IconData pilcrowRight = LucideIconData(58849);
   static const IconData pilcrow = LucideIconData(58278);
+  static const IconData pillBottle = LucideIconData(58862);
   static const IconData pill = LucideIconData(58304);
   static const IconData pinOff = LucideIconData(58037);
   static const IconData pin = LucideIconData(57944);

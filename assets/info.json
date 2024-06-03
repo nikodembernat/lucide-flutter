@@ -6053,6 +6053,12 @@
     "className": "icon-pilcrow",
     "unicode": "&#58278;"
   },
+  "pill-bottle": {
+    "encodedCode": "\\e5ee",
+    "prefix": "icon",
+    "className": "icon-pill-bottle",
+    "unicode": "&#58862;"
+  },
   "pill": {
     "encodedCode": "\\e3c0",
     "prefix": "icon",
