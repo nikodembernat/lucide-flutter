@@ -1001,6 +1001,12 @@
     "className": "icon-between-vertical-start",
     "unicode": "&#58776;"
   },
+  "biceps-flexed": {
+    "encodedCode": "\\e5ef",
+    "prefix": "icon",
+    "className": "icon-biceps-flexed",
+    "unicode": "&#58863;"
+  },
   "bike": {
     "encodedCode": "\\e1d0",
     "prefix": "icon",
@@ -1468,6 +1474,12 @@
     "prefix": "icon",
     "className": "icon-calendar-clock",
     "unicode": "&#58115;"
+  },
+  "calendar-cog": {
+    "encodedCode": "\\e5f1",
+    "prefix": "icon",
+    "className": "icon-calendar-cog",
+    "unicode": "&#58865;"
   },
   "calendar-days": {
     "encodedCode": "\\e2b8",
@@ -8249,10 +8261,16 @@
     "className": "icon-turtle",
     "unicode": "&#58621;"
   },
-  "tv-2": {
+  "tv-minimal-play": {
+    "encodedCode": "\\e5f0",
+    "prefix": "icon",
+    "className": "icon-tv-minimal-play",
+    "unicode": "&#58864;"
+  },
+  "tv-minimal": {
     "encodedCode": "\\e201",
     "prefix": "icon",
-    "className": "icon-tv-2",
+    "className": "icon-tv-minimal",
     "unicode": "&#57857;"
   },
   "tv": {

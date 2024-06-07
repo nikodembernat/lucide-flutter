@@ -175,6 +175,7 @@ class LucideIcons {
   static const IconData betweenHorizontalStart = LucideIconData(58774);
   static const IconData betweenVerticalEnd = LucideIconData(58775);
   static const IconData betweenVerticalStart = LucideIconData(58776);
+  static const IconData bicepsFlexed = LucideIconData(58863);
   static const IconData bike = LucideIconData(57808);
   static const IconData binary = LucideIconData(57840);
   static const IconData biohazard = LucideIconData(58437);
@@ -253,6 +254,7 @@ class LucideIcons {
   static const IconData calendarCheck2 = LucideIconData(58039);
   static const IconData calendarCheck = LucideIconData(58038);
   static const IconData calendarClock = LucideIconData(58115);
+  static const IconData calendarCog = LucideIconData(58865);
   static const IconData calendarDays = LucideIconData(58040);
   static const IconData calendarFold = LucideIconData(58808);
   static const IconData calendarHeart = LucideIconData(58116);
@@ -1383,7 +1385,8 @@ class LucideIcons {
   static const IconData trophy = LucideIconData(58230);
   static const IconData truck = LucideIconData(57746);
   static const IconData turtle = LucideIconData(58621);
-  static const IconData tv2 = LucideIconData(57857);
+  static const IconData tvMinimalPlay = LucideIconData(58864);
+  static const IconData tvMinimal = LucideIconData(57857);
   static const IconData tv = LucideIconData(57747);
   static const IconData twitch = LucideIconData(57748);
   static const IconData twitter = LucideIconData(57749);
