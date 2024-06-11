@@ -994,9 +994,11 @@ class LucideIcons {
   static const IconData pawPrint = LucideIconData(58617);
   static const IconData pcCase = LucideIconData(58442);
   static const IconData penLine = LucideIconData(57649);
+  static const IconData penOff = LucideIconData(58866);
   static const IconData penTool = LucideIconData(57650);
   static const IconData pen = LucideIconData(57648);
   static const IconData pencilLine = LucideIconData(58612);
+  static const IconData pencilOff = LucideIconData(58867);
   static const IconData pencilRuler = LucideIconData(58613);
   static const IconData pencil = LucideIconData(57847);
   static const IconData pentagon = LucideIconData(58671);

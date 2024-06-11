@@ -5915,6 +5915,12 @@
     "className": "icon-pen-line",
     "unicode": "&#57649;"
   },
+  "pen-off": {
+    "encodedCode": "\\e5f2",
+    "prefix": "icon",
+    "className": "icon-pen-off",
+    "unicode": "&#58866;"
+  },
   "pen-tool": {
     "encodedCode": "\\e132",
     "prefix": "icon",
@@ -5932,6 +5938,12 @@
     "prefix": "icon",
     "className": "icon-pencil-line",
     "unicode": "&#58612;"
+  },
+  "pencil-off": {
+    "encodedCode": "\\e5f3",
+    "prefix": "icon",
+    "className": "icon-pencil-off",
+    "unicode": "&#58867;"
   },
   "pencil-ruler": {
     "encodedCode": "\\e4f5",
