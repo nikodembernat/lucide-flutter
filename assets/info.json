@@ -4301,12 +4301,6 @@
     "className": "icon-history",
     "unicode": "&#57843;"
   },
-  "home": {
-    "encodedCode": "\\e0f5",
-    "prefix": "icon",
-    "className": "icon-home",
-    "unicode": "&#57589;"
-  },
   "hop-off": {
     "encodedCode": "\\e39b",
     "prefix": "icon",
@@ -4336,6 +4330,24 @@
     "prefix": "icon",
     "className": "icon-hourglass",
     "unicode": "&#58005;"
+  },
+  "house-plug": {
+    "encodedCode": "\\e5f4",
+    "prefix": "icon",
+    "className": "icon-house-plug",
+    "unicode": "&#58868;"
+  },
+  "house-plus": {
+    "encodedCode": "\\e5f5",
+    "prefix": "icon",
+    "className": "icon-house-plus",
+    "unicode": "&#58869;"
+  },
+  "house": {
+    "encodedCode": "\\e0f5",
+    "prefix": "icon",
+    "className": "icon-house",
+    "unicode": "&#57589;"
   },
   "ice-cream-bowl": {
     "encodedCode": "\\e3aa",

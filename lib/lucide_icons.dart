@@ -725,12 +725,14 @@ class LucideIcons {
   static const IconData hexagon = LucideIconData(57587);
   static const IconData highlighter = LucideIconData(57588);
   static const IconData history = LucideIconData(57843);
-  static const IconData home = LucideIconData(57589);
   static const IconData hopOff = LucideIconData(58267);
   static const IconData hop = LucideIconData(58266);
   static const IconData hospital = LucideIconData(58844);
   static const IconData hotel = LucideIconData(58341);
   static const IconData hourglass = LucideIconData(58005);
+  static const IconData housePlug = LucideIconData(58868);
+  static const IconData housePlus = LucideIconData(58869);
+  static const IconData house = LucideIconData(57589);
   static const IconData iceCreamBowl = LucideIconData(58282);
   static const IconData iceCreamCone = LucideIconData(58198);
   static const IconData imageDown = LucideIconData(58688);
