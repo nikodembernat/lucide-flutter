@@ -7103,6 +7103,12 @@
     "className": "icon-signal",
     "unicode": "&#57950;"
   },
+  "signature": {
+    "encodedCode": "\\e5f6",
+    "prefix": "icon",
+    "className": "icon-signature",
+    "unicode": "&#58870;"
+  },
   "signpost-big": {
     "encodedCode": "\\e545",
     "prefix": "icon",

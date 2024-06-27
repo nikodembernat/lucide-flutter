@@ -1192,6 +1192,7 @@ class LucideIcons {
   static const IconData signalMedium = LucideIconData(57953);
   static const IconData signalZero = LucideIconData(57954);
   static const IconData signal = LucideIconData(57950);
+  static const IconData signature = LucideIconData(58870);
   static const IconData signpostBig = LucideIconData(58693);
   static const IconData signpost = LucideIconData(58692);
   static const IconData siren = LucideIconData(58094);
