@@ -828,6 +828,7 @@ class LucideIcons {
   static const IconData lock = LucideIconData(57612);
   static const IconData logIn = LucideIconData(57614);
   static const IconData logOut = LucideIconData(57615);
+  static const IconData logs = LucideIconData(58872);
   static const IconData lollipop = LucideIconData(58561);
   static const IconData luggage = LucideIconData(58057);
   static const IconData magnet = LucideIconData(58036);
@@ -1123,6 +1124,7 @@ class LucideIcons {
   static const IconData satelliteDish = LucideIconData(58444);
   static const IconData satellite = LucideIconData(58443);
   static const IconData saveAll = LucideIconData(58387);
+  static const IconData saveOff = LucideIconData(58871);
   static const IconData save = LucideIconData(57679);
   static const IconData scale3d = LucideIconData(58090);
   static const IconData scale = LucideIconData(57873);

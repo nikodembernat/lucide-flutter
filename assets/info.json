@@ -4919,6 +4919,12 @@
     "className": "icon-log-out",
     "unicode": "&#57615;"
   },
+  "logs": {
+    "encodedCode": "\\e5f8",
+    "prefix": "icon",
+    "className": "icon-logs",
+    "unicode": "&#58872;"
+  },
   "lollipop": {
     "encodedCode": "\\e4c1",
     "prefix": "icon",
@@ -6688,6 +6694,12 @@
     "prefix": "icon",
     "className": "icon-save-all",
     "unicode": "&#58387;"
+  },
+  "save-off": {
+    "encodedCode": "\\e5f7",
+    "prefix": "icon",
+    "className": "icon-save-off",
+    "unicode": "&#58871;"
   },
   "save": {
     "encodedCode": "\\e14f",
