@@ -1050,6 +1050,7 @@ class LucideIcons {
   static const IconData powerOff = LucideIconData(57863);
   static const IconData power = LucideIconData(57666);
   static const IconData presentation = LucideIconData(58546);
+  static const IconData printerCheck = LucideIconData(58873);
   static const IconData printer = LucideIconData(57667);
   static const IconData projector = LucideIconData(58547);
   static const IconData proportions = LucideIconData(58835);

@@ -6251,6 +6251,12 @@
     "className": "icon-presentation",
     "unicode": "&#58546;"
   },
+  "printer-check": {
+    "encodedCode": "\\e5f9",
+    "prefix": "icon",
+    "className": "icon-printer-check",
+    "unicode": "&#58873;"
+  },
   "printer": {
     "encodedCode": "\\e143",
     "prefix": "icon",
