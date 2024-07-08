@@ -6755,6 +6755,12 @@
     "className": "icon-scan-line",
     "unicode": "&#57943;"
   },
+  "scan-qr-code": {
+    "encodedCode": "\\e5fa",
+    "prefix": "icon",
+    "className": "icon-scan-qr-code",
+    "unicode": "&#58874;"
+  },
   "scan-search": {
     "encodedCode": "\\e53b",
     "prefix": "icon",

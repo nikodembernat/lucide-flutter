@@ -1134,6 +1134,7 @@ class LucideIcons {
   static const IconData scanEye = LucideIconData(58682);
   static const IconData scanFace = LucideIconData(58228);
   static const IconData scanLine = LucideIconData(57943);
+  static const IconData scanQrCode = LucideIconData(58874);
   static const IconData scanSearch = LucideIconData(58683);
   static const IconData scanText = LucideIconData(58684);
   static const IconData scan = LucideIconData(57942);
