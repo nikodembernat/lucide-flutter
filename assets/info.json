@@ -4757,6 +4757,12 @@
     "className": "icon-linkedin",
     "unicode": "&#57608;"
   },
+  "list-check": {
+    "encodedCode": "\\e5fe",
+    "prefix": "icon",
+    "className": "icon-list-check",
+    "unicode": "&#58878;"
+  },
   "list-checks": {
     "encodedCode": "\\e1ce",
     "prefix": "icon",
@@ -8759,11 +8765,29 @@
     "className": "icon-whole-word",
     "unicode": "&#58338;"
   },
+  "wifi-high": {
+    "encodedCode": "\\e5fb",
+    "prefix": "icon",
+    "className": "icon-wifi-high",
+    "unicode": "&#58875;"
+  },
+  "wifi-low": {
+    "encodedCode": "\\e5fc",
+    "prefix": "icon",
+    "className": "icon-wifi-low",
+    "unicode": "&#58876;"
+  },
   "wifi-off": {
     "encodedCode": "\\e1ad",
     "prefix": "icon",
     "className": "icon-wifi-off",
     "unicode": "&#57773;"
+  },
+  "wifi-zero": {
+    "encodedCode": "\\e5fd",
+    "prefix": "icon",
+    "className": "icon-wifi-zero",
+    "unicode": "&#58877;"
   },
   "wifi": {
     "encodedCode": "\\e1ac",

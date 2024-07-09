@@ -801,6 +801,7 @@ class LucideIcons {
   static const IconData link2 = LucideIconData(57606);
   static const IconData link = LucideIconData(57605);
   static const IconData linkedin = LucideIconData(57608);
+  static const IconData listCheck = LucideIconData(58878);
   static const IconData listChecks = LucideIconData(57806);
   static const IconData listCollapse = LucideIconData(58783);
   static const IconData listEnd = LucideIconData(58078);
@@ -1468,7 +1469,10 @@ class LucideIcons {
   static const IconData wheatOff = LucideIconData(58274);
   static const IconData wheat = LucideIconData(58273);
   static const IconData wholeWord = LucideIconData(58338);
+  static const IconData wifiHigh = LucideIconData(58875);
+  static const IconData wifiLow = LucideIconData(58876);
   static const IconData wifiOff = LucideIconData(57773);
+  static const IconData wifiZero = LucideIconData(58877);
   static const IconData wifi = LucideIconData(57772);
   static const IconData wind = LucideIconData(57774);
   static const IconData wineOff = LucideIconData(58275);
