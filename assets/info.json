@@ -1457,6 +1457,18 @@
     "className": "icon-calculator",
     "unicode": "&#57787;"
   },
+  "calendar-arrow-down": {
+    "encodedCode": "\\e602",
+    "prefix": "icon",
+    "className": "icon-calendar-arrow-down",
+    "unicode": "&#58882;"
+  },
+  "calendar-arrow-up": {
+    "encodedCode": "\\e603",
+    "prefix": "icon",
+    "className": "icon-calendar-arrow-up",
+    "unicode": "&#58883;"
+  },
   "calendar-check-2": {
     "encodedCode": "\\e2b7",
     "prefix": "icon",
@@ -2224,6 +2236,18 @@
     "prefix": "icon",
     "className": "icon-clock-9",
     "unicode": "&#57941;"
+  },
+  "clock-arrow-down": {
+    "encodedCode": "\\e604",
+    "prefix": "icon",
+    "className": "icon-clock-arrow-down",
+    "unicode": "&#58884;"
+  },
+  "clock-arrow-up": {
+    "encodedCode": "\\e605",
+    "prefix": "icon",
+    "className": "icon-clock-arrow-up",
+    "unicode": "&#58885;"
   },
   "clock": {
     "encodedCode": "\\e088",
@@ -3610,6 +3634,12 @@
     "prefix": "icon",
     "className": "icon-folder-closed",
     "unicode": "&#58163;"
+  },
+  "folder-code": {
+    "encodedCode": "\\e5ff",
+    "prefix": "icon",
+    "className": "icon-folder-code",
+    "unicode": "&#58879;"
   },
   "folder-cog": {
     "encodedCode": "\\e334",
@@ -8351,6 +8381,12 @@
     "className": "icon-twitter",
     "unicode": "&#57749;"
   },
+  "type-outline": {
+    "encodedCode": "\\e606",
+    "prefix": "icon",
+    "className": "icon-type-outline",
+    "unicode": "&#58886;"
+  },
   "type": {
     "encodedCode": "\\e196",
     "prefix": "icon",
@@ -8465,6 +8501,12 @@
     "className": "icon-user-minus",
     "unicode": "&#57759;"
   },
+  "user-pen": {
+    "encodedCode": "\\e600",
+    "prefix": "icon",
+    "className": "icon-user-pen",
+    "unicode": "&#58880;"
+  },
   "user-plus": {
     "encodedCode": "\\e1a0",
     "prefix": "icon",
@@ -8488,6 +8530,12 @@
     "prefix": "icon",
     "className": "icon-user-round-minus",
     "unicode": "&#58479;"
+  },
+  "user-round-pen": {
+    "encodedCode": "\\e601",
+    "prefix": "icon",
+    "className": "icon-user-round-pen",
+    "unicode": "&#58881;"
   },
   "user-round-plus": {
     "encodedCode": "\\e470",

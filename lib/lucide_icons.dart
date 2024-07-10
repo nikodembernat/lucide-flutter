@@ -251,6 +251,8 @@ class LucideIcons {
   static const IconData cakeSlice = LucideIconData(58557);
   static const IconData cake = LucideIconData(58183);
   static const IconData calculator = LucideIconData(57787);
+  static const IconData calendarArrowDown = LucideIconData(58882);
+  static const IconData calendarArrowUp = LucideIconData(58883);
   static const IconData calendarCheck2 = LucideIconData(58039);
   static const IconData calendarCheck = LucideIconData(58038);
   static const IconData calendarClock = LucideIconData(58115);
@@ -379,6 +381,8 @@ class LucideIcons {
   static const IconData clock7 = LucideIconData(57939);
   static const IconData clock8 = LucideIconData(57940);
   static const IconData clock9 = LucideIconData(57941);
+  static const IconData clockArrowDown = LucideIconData(58884);
+  static const IconData clockArrowUp = LucideIconData(58885);
   static const IconData clock = LucideIconData(57480);
   static const IconData cloudCog = LucideIconData(58121);
   static const IconData cloudDownload = LucideIconData(57482);
@@ -610,6 +614,7 @@ class LucideIcons {
   static const IconData folderCheck = LucideIconData(58161);
   static const IconData folderClock = LucideIconData(58162);
   static const IconData folderClosed = LucideIconData(58163);
+  static const IconData folderCode = LucideIconData(58879);
   static const IconData folderCog = LucideIconData(58164);
   static const IconData folderDot = LucideIconData(58568);
   static const IconData folderDown = LucideIconData(58165);
@@ -1400,6 +1405,7 @@ class LucideIcons {
   static const IconData tv = LucideIconData(57747);
   static const IconData twitch = LucideIconData(57748);
   static const IconData twitter = LucideIconData(57749);
+  static const IconData typeOutline = LucideIconData(58886);
   static const IconData type = LucideIconData(57750);
   static const IconData umbrellaOff = LucideIconData(58695);
   static const IconData umbrella = LucideIconData(57751);
@@ -1419,10 +1425,12 @@ class LucideIcons {
   static const IconData userCheck = LucideIconData(57758);
   static const IconData userCog = LucideIconData(58181);
   static const IconData userMinus = LucideIconData(57759);
+  static const IconData userPen = LucideIconData(58880);
   static const IconData userPlus = LucideIconData(57760);
   static const IconData userRoundCheck = LucideIconData(58477);
   static const IconData userRoundCog = LucideIconData(58478);
   static const IconData userRoundMinus = LucideIconData(58479);
+  static const IconData userRoundPen = LucideIconData(58881);
   static const IconData userRoundPlus = LucideIconData(58480);
   static const IconData userRoundSearch = LucideIconData(58748);
   static const IconData userRoundX = LucideIconData(58481);
