@@ -902,6 +902,7 @@ class LucideIcons {
   static const IconData minimize = LucideIconData(57627);
   static const IconData minus = LucideIconData(57629);
   static const IconData monitorCheck = LucideIconData(58502);
+  static const IconData monitorCog = LucideIconData(58887);
   static const IconData monitorDot = LucideIconData(58503);
   static const IconData monitorDown = LucideIconData(58405);
   static const IconData monitorOff = LucideIconData(57818);

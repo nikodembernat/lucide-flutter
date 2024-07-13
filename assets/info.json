@@ -5363,6 +5363,12 @@
     "className": "icon-monitor-check",
     "unicode": "&#58502;"
   },
+  "monitor-cog": {
+    "encodedCode": "\\e607",
+    "prefix": "icon",
+    "className": "icon-monitor-cog",
+    "unicode": "&#58887;"
+  },
   "monitor-dot": {
     "encodedCode": "\\e487",
     "prefix": "icon",
