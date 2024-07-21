@@ -4721,6 +4721,12 @@
     "className": "icon-lectern",
     "unicode": "&#58860;"
   },
+  "letter-text": {
+    "encodedCode": "\\e608",
+    "prefix": "icon",
+    "className": "icon-letter-text",
+    "unicode": "&#58888;"
+  },
   "library-big": {
     "encodedCode": "\\e551",
     "prefix": "icon",

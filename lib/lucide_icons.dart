@@ -795,6 +795,7 @@ class LucideIcons {
   static const IconData leaf = LucideIconData(58076);
   static const IconData leafyGreen = LucideIconData(58482);
   static const IconData lectern = LucideIconData(58860);
+  static const IconData letterText = LucideIconData(58888);
   static const IconData libraryBig = LucideIconData(58705);
   static const IconData library = LucideIconData(57603);
   static const IconData lifeBuoy = LucideIconData(57604);
