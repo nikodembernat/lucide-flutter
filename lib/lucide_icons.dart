@@ -862,7 +862,15 @@ class LucideIcons {
   static const IconData mail = LucideIconData(57619);
   static const IconData mailbox = LucideIconData(58328);
   static const IconData mails = LucideIconData(58221);
+  static const IconData mapPinCheckInside = LucideIconData(58901);
+  static const IconData mapPinCheck = LucideIconData(58900);
+  static const IconData mapPinMinusInside = LucideIconData(58903);
+  static const IconData mapPinMinus = LucideIconData(58902);
   static const IconData mapPinOff = LucideIconData(58022);
+  static const IconData mapPinPlusInside = LucideIconData(58905);
+  static const IconData mapPinPlus = LucideIconData(58904);
+  static const IconData mapPinXInside = LucideIconData(58907);
+  static const IconData mapPinX = LucideIconData(58906);
   static const IconData mapPin = LucideIconData(57621);
   static const IconData mapPinned = LucideIconData(58690);
   static const IconData map = LucideIconData(57620);
@@ -1299,6 +1307,7 @@ class LucideIcons {
   static const IconData squareSlash = LucideIconData(57720);
   static const IconData squareSplitHorizontal = LucideIconData(58298);
   static const IconData squareSplitVertical = LucideIconData(58299);
+  static const IconData squareSquare = LucideIconData(58899);
   static const IconData squareStack = LucideIconData(58535);
   static const IconData squareTerminal = LucideIconData(57866);
   static const IconData squareUserRound = LucideIconData(58475);
