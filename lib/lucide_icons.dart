@@ -753,6 +753,7 @@ class LucideIcons {
   static const IconData house = LucideIconData(57592);
   static const IconData iceCreamBowl = LucideIconData(58283);
   static const IconData iceCreamCone = LucideIconData(58199);
+  static const IconData idCard = LucideIconData(58908);
   static const IconData imageDown = LucideIconData(58689);
   static const IconData imageMinus = LucideIconData(57846);
   static const IconData imageOff = LucideIconData(57793);

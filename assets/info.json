@@ -4469,6 +4469,12 @@
     "className": "icon-ice-cream-cone",
     "unicode": "&#58199;"
   },
+  "id-card": {
+    "encodedCode": "\\e61c",
+    "prefix": "icon",
+    "className": "icon-id-card",
+    "unicode": "&#58908;"
+  },
   "image-down": {
     "encodedCode": "\\e541",
     "prefix": "icon",
