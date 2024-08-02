@@ -349,6 +349,7 @@ class LucideIcons {
   static const IconData circleDot = LucideIconData(58185);
   static const IconData circleEllipsis = LucideIconData(58186);
   static const IconData circleEqual = LucideIconData(58373);
+  static const IconData circleFadingArrowUp = LucideIconData(58909);
   static const IconData circleFadingPlus = LucideIconData(58817);
   static const IconData circleGauge = LucideIconData(58598);
   static const IconData circleHelp = LucideIconData(57474);

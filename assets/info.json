@@ -2045,6 +2045,12 @@
     "className": "icon-circle-equal",
     "unicode": "&#58373;"
   },
+  "circle-fading-arrow-up": {
+    "encodedCode": "\\e61d",
+    "prefix": "icon",
+    "className": "icon-circle-fading-arrow-up",
+    "unicode": "&#58909;"
+  },
   "circle-fading-plus": {
     "encodedCode": "\\e5c1",
     "prefix": "icon",
