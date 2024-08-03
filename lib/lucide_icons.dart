@@ -51,6 +51,7 @@ class LucideIcons {
   static const IconData ambulance = LucideIconData(58816);
   static const IconData ampersand = LucideIconData(58529);
   static const IconData ampersands = LucideIconData(58530);
+  static const IconData amphora = LucideIconData(58912);
   static const IconData anchor = LucideIconData(57411);
   static const IconData angry = LucideIconData(58108);
   static const IconData annoyed = LucideIconData(58109);
@@ -866,6 +867,7 @@ class LucideIcons {
   static const IconData mails = LucideIconData(58221);
   static const IconData mapPinCheckInside = LucideIconData(58901);
   static const IconData mapPinCheck = LucideIconData(58900);
+  static const IconData mapPinHouse = LucideIconData(58913);
   static const IconData mapPinMinusInside = LucideIconData(58903);
   static const IconData mapPinMinus = LucideIconData(58902);
   static const IconData mapPinOff = LucideIconData(58022);
@@ -916,6 +918,7 @@ class LucideIcons {
   static const IconData micOff = LucideIconData(57629);
   static const IconData micVocal = LucideIconData(58189);
   static const IconData mic = LucideIconData(57628);
+  static const IconData microchip = LucideIconData(58911);
   static const IconData microscope = LucideIconData(58084);
   static const IconData microwave = LucideIconData(58238);
   static const IconData milestone = LucideIconData(58008);
@@ -984,6 +987,7 @@ class LucideIcons {
   static const IconData octagonPause = LucideIconData(57883);
   static const IconData octagonX = LucideIconData(57644);
   static const IconData octagon = LucideIconData(57642);
+  static const IconData omega = LucideIconData(58910);
   static const IconData option = LucideIconData(57848);
   static const IconData orbit = LucideIconData(58347);
   static const IconData origami = LucideIconData(58856);

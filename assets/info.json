@@ -257,6 +257,12 @@
     "className": "icon-ampersands",
     "unicode": "&#58530;"
   },
+  "amphora": {
+    "encodedCode": "\\e620",
+    "prefix": "icon",
+    "className": "icon-amphora",
+    "unicode": "&#58912;"
+  },
   "anchor": {
     "encodedCode": "\\e043",
     "prefix": "icon",
@@ -5147,6 +5153,12 @@
     "className": "icon-map-pin-check",
     "unicode": "&#58900;"
   },
+  "map-pin-house": {
+    "encodedCode": "\\e621",
+    "prefix": "icon",
+    "className": "icon-map-pin-house",
+    "unicode": "&#58913;"
+  },
   "map-pin-minus-inside": {
     "encodedCode": "\\e617",
     "prefix": "icon",
@@ -5446,6 +5458,12 @@
     "prefix": "icon",
     "className": "icon-mic",
     "unicode": "&#57628;"
+  },
+  "microchip": {
+    "encodedCode": "\\e61f",
+    "prefix": "icon",
+    "className": "icon-microchip",
+    "unicode": "&#58911;"
   },
   "microscope": {
     "encodedCode": "\\e2e4",
@@ -5854,6 +5872,12 @@
     "prefix": "icon",
     "className": "icon-octagon",
     "unicode": "&#57642;"
+  },
+  "omega": {
+    "encodedCode": "\\e61e",
+    "prefix": "icon",
+    "className": "icon-omega",
+    "unicode": "&#58910;"
   },
   "option": {
     "encodedCode": "\\e1f8",
