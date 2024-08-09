@@ -779,6 +779,12 @@
     "className": "icon-banana",
     "unicode": "&#58195;"
   },
+  "bandage": {
+    "encodedCode": "\\e622",
+    "prefix": "icon",
+    "className": "icon-bandage",
+    "unicode": "&#58914;"
+  },
   "banknote": {
     "encodedCode": "\\e056",
     "prefix": "icon",
@@ -8074,6 +8080,12 @@
     "prefix": "icon",
     "className": "icon-table-columns-split",
     "unicode": "&#58830;"
+  },
+  "table-of-contents": {
+    "encodedCode": "\\e623",
+    "prefix": "icon",
+    "className": "icon-table-of-contents",
+    "unicode": "&#58915;"
   },
   "table-properties": {
     "encodedCode": "\\e4e0",

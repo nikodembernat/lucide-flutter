@@ -138,6 +138,7 @@ class LucideIcons {
   static const IconData baggageClaim = LucideIconData(58057);
   static const IconData ban = LucideIconData(57429);
   static const IconData banana = LucideIconData(58195);
+  static const IconData bandage = LucideIconData(58914);
   static const IconData banknote = LucideIconData(57430);
   static const IconData barcode = LucideIconData(58680);
   static const IconData baseline = LucideIconData(57989);
@@ -1354,6 +1355,7 @@ class LucideIcons {
   static const IconData tableCellsMerge = LucideIconData(58828);
   static const IconData tableCellsSplit = LucideIconData(58829);
   static const IconData tableColumnsSplit = LucideIconData(58830);
+  static const IconData tableOfContents = LucideIconData(58915);
   static const IconData tableProperties = LucideIconData(58592);
   static const IconData tableRowsSplit = LucideIconData(58831);
   static const IconData table = LucideIconData(57729);
