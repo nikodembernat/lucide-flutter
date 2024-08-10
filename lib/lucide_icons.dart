@@ -172,6 +172,7 @@ class LucideIcons {
   static const IconData bicepsFlexed = LucideIconData(58864);
   static const IconData bike = LucideIconData(57810);
   static const IconData binary = LucideIconData(57842);
+  static const IconData binoculars = LucideIconData(58918);
   static const IconData biohazard = LucideIconData(58438);
   static const IconData bird = LucideIconData(58313);
   static const IconData bitcoin = LucideIconData(57439);
@@ -319,6 +320,7 @@ class LucideIcons {
   static const IconData chevronUp = LucideIconData(57460);
   static const IconData chevronsDownUp = LucideIconData(57896);
   static const IconData chevronsDown = LucideIconData(57461);
+  static const IconData chevronsLeftRightEllipsis = LucideIconData(58916);
   static const IconData chevronsLeftRight = LucideIconData(58003);
   static const IconData chevronsLeft = LucideIconData(57462);
   static const IconData chevronsRightLeft = LucideIconData(58004);
@@ -527,6 +529,7 @@ class LucideIcons {
   static const IconData equalNot = LucideIconData(57791);
   static const IconData equal = LucideIconData(57790);
   static const IconData eraser = LucideIconData(57999);
+  static const IconData ethernetPort = LucideIconData(58917);
   static const IconData euro = LucideIconData(57532);
   static const IconData expand = LucideIconData(57882);
   static const IconData externalLink = LucideIconData(57533);
@@ -1397,6 +1400,7 @@ class LucideIcons {
   static const IconData ticketSlash = LucideIconData(58807);
   static const IconData ticketX = LucideIconData(58808);
   static const IconData ticket = LucideIconData(57871);
+  static const IconData tickets = LucideIconData(58919);
   static const IconData timerOff = LucideIconData(57929);
   static const IconData timerReset = LucideIconData(57910);
   static const IconData timer = LucideIconData(57824);

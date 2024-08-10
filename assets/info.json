@@ -983,6 +983,12 @@
     "className": "icon-binary",
     "unicode": "&#57842;"
   },
+  "binoculars": {
+    "encodedCode": "\\e626",
+    "prefix": "icon",
+    "className": "icon-binoculars",
+    "unicode": "&#58918;"
+  },
   "biohazard": {
     "encodedCode": "\\e446",
     "prefix": "icon",
@@ -1864,6 +1870,12 @@
     "prefix": "icon",
     "className": "icon-chevrons-down",
     "unicode": "&#57461;"
+  },
+  "chevrons-left-right-ellipsis": {
+    "encodedCode": "\\e624",
+    "prefix": "icon",
+    "className": "icon-chevrons-left-right-ellipsis",
+    "unicode": "&#58916;"
   },
   "chevrons-left-right": {
     "encodedCode": "\\e293",
@@ -3112,6 +3124,12 @@
     "prefix": "icon",
     "className": "icon-eraser",
     "unicode": "&#57999;"
+  },
+  "ethernet-port": {
+    "encodedCode": "\\e625",
+    "prefix": "icon",
+    "className": "icon-ethernet-port",
+    "unicode": "&#58917;"
   },
   "euro": {
     "encodedCode": "\\e0bc",
@@ -8332,6 +8350,12 @@
     "prefix": "icon",
     "className": "icon-ticket",
     "unicode": "&#57871;"
+  },
+  "tickets": {
+    "encodedCode": "\\e627",
+    "prefix": "icon",
+    "className": "icon-tickets",
+    "unicode": "&#58919;"
   },
   "timer-off": {
     "encodedCode": "\\e249",
