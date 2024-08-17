@@ -1400,6 +1400,7 @@ class LucideIcons {
   static const IconData ticketSlash = LucideIconData(58807);
   static const IconData ticketX = LucideIconData(58808);
   static const IconData ticket = LucideIconData(57871);
+  static const IconData ticketsPlane = LucideIconData(58920);
   static const IconData tickets = LucideIconData(58919);
   static const IconData timerOff = LucideIconData(57929);
   static const IconData timerReset = LucideIconData(57910);

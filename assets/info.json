@@ -8351,6 +8351,12 @@
     "className": "icon-ticket",
     "unicode": "&#57871;"
   },
+  "tickets-plane": {
+    "encodedCode": "\\e628",
+    "prefix": "icon",
+    "className": "icon-tickets-plane",
+    "unicode": "&#58920;"
+  },
   "tickets": {
     "encodedCode": "\\e627",
     "prefix": "icon",
