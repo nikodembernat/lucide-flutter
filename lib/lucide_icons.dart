@@ -298,6 +298,7 @@ class LucideIcons {
   static const IconData chartColumnIncreasing = LucideIconData(58020);
   static const IconData chartColumnStacked = LucideIconData(58895);
   static const IconData chartColumn = LucideIconData(58019);
+  static const IconData chartGantt = LucideIconData(58921);
   static const IconData chartLine = LucideIconData(58021);
   static const IconData chartNetwork = LucideIconData(58896);
   static const IconData chartNoAxesColumnDecreasing = LucideIconData(57453);
@@ -1427,6 +1428,7 @@ class LucideIcons {
   static const IconData trees = LucideIconData(58101);
   static const IconData trello = LucideIconData(57743);
   static const IconData trendingDown = LucideIconData(57744);
+  static const IconData trendingUpDown = LucideIconData(58922);
   static const IconData trendingUp = LucideIconData(57745);
   static const IconData triangleAlert = LucideIconData(57747);
   static const IconData triangleRight = LucideIconData(58610);
@@ -1490,6 +1492,7 @@ class LucideIcons {
   static const IconData voicemail = LucideIconData(57768);
   static const IconData volume1 = LucideIconData(57770);
   static const IconData volume2 = LucideIconData(57771);
+  static const IconData volumeOff = LucideIconData(58923);
   static const IconData volumeX = LucideIconData(57772);
   static const IconData volume = LucideIconData(57769);
   static const IconData vote = LucideIconData(58289);
