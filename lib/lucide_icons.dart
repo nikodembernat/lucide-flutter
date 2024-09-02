@@ -989,6 +989,7 @@ class LucideIcons {
   static const IconData nutOff = LucideIconData(58272);
   static const IconData nut = LucideIconData(58271);
   static const IconData octagonAlert = LucideIconData(57643);
+  static const IconData octagonMinus = LucideIconData(58924);
   static const IconData octagonPause = LucideIconData(57883);
   static const IconData octagonX = LucideIconData(57644);
   static const IconData octagon = LucideIconData(57642);
