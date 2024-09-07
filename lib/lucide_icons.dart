@@ -708,6 +708,7 @@ class LucideIcons {
   static const IconData graduationCap = LucideIconData(57908);
   static const IconData grape = LucideIconData(58198);
   static const IconData grid2x2Check = LucideIconData(58857);
+  static const IconData grid2x2Plus = LucideIconData(58925);
   static const IconData grid2x2X = LucideIconData(58858);
   static const IconData grid2x2 = LucideIconData(58628);
   static const IconData grid3x3 = LucideIconData(57580);

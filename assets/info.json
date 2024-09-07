@@ -4199,6 +4199,12 @@
     "className": "icon-grid-2x2-check",
     "unicode": "&#58857;"
   },
+  "grid-2x2-plus": {
+    "encodedCode": "\\e62d",
+    "prefix": "icon",
+    "className": "icon-grid-2x2-plus",
+    "unicode": "&#58925;"
+  },
   "grid-2x2-x": {
     "encodedCode": "\\e5ea",
     "prefix": "icon",
