@@ -2351,6 +2351,12 @@
     "className": "icon-clock-9",
     "unicode": "&#57942;"
   },
+  "clock-alert": {
+    "encodedCode": "\\e62f",
+    "prefix": "icon",
+    "className": "icon-clock-alert",
+    "unicode": "&#58927;"
+  },
   "clock-arrow-down": {
     "encodedCode": "\\e605",
     "prefix": "icon",
@@ -4390,6 +4396,12 @@
     "prefix": "icon",
     "className": "icon-heading",
     "unicode": "&#58248;"
+  },
+  "headphone-off": {
+    "encodedCode": "\\e62e",
+    "prefix": "icon",
+    "className": "icon-headphone-off",
+    "unicode": "&#58926;"
   },
   "headphones": {
     "encodedCode": "\\e0f4",

@@ -400,6 +400,7 @@ class LucideIcons {
   static const IconData clock7 = LucideIconData(57940);
   static const IconData clock8 = LucideIconData(57941);
   static const IconData clock9 = LucideIconData(57942);
+  static const IconData clockAlert = LucideIconData(58927);
   static const IconData clockArrowDown = LucideIconData(58885);
   static const IconData clockArrowUp = LucideIconData(58886);
   static const IconData clock = LucideIconData(57483);
@@ -740,6 +741,7 @@ class LucideIcons {
   static const IconData heading5 = LucideIconData(58253);
   static const IconData heading6 = LucideIconData(58254);
   static const IconData heading = LucideIconData(58248);
+  static const IconData headphoneOff = LucideIconData(58926);
   static const IconData headphones = LucideIconData(57588);
   static const IconData headset = LucideIconData(58818);
   static const IconData heartCrack = LucideIconData(58070);
