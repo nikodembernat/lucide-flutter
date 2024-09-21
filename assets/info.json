@@ -1331,6 +1331,12 @@
     "className": "icon-briefcase-business",
     "unicode": "&#58842;"
   },
+  "briefcase-conveyor-belt": {
+    "encodedCode": "\\e630",
+    "prefix": "icon",
+    "className": "icon-briefcase-conveyor-belt",
+    "unicode": "&#58928;"
+  },
   "briefcase-medical": {
     "encodedCode": "\\e5db",
     "prefix": "icon",

@@ -230,6 +230,7 @@ class LucideIcons {
   static const IconData brain = LucideIconData(58314);
   static const IconData brickWall = LucideIconData(58758);
   static const IconData briefcaseBusiness = LucideIconData(58842);
+  static const IconData briefcaseConveyorBelt = LucideIconData(58928);
   static const IconData briefcaseMedical = LucideIconData(58843);
   static const IconData briefcase = LucideIconData(57446);
   static const IconData bringToFront = LucideIconData(58612);
