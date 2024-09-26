@@ -3527,6 +3527,12 @@
     "className": "icon-file-up",
     "unicode": "&#58155;"
   },
+  "file-user": {
+    "encodedCode": "\\e632",
+    "prefix": "icon",
+    "className": "icon-file-user",
+    "unicode": "&#58930;"
+  },
   "file-video-2": {
     "encodedCode": "\\e32d",
     "prefix": "icon",
@@ -5428,6 +5434,12 @@
     "prefix": "icon",
     "className": "icon-message-square-heart",
     "unicode": "&#58740;"
+  },
+  "message-square-lock": {
+    "encodedCode": "\\e631",
+    "prefix": "icon",
+    "className": "icon-message-square-lock",
+    "unicode": "&#58929;"
   },
   "message-square-more": {
     "encodedCode": "\\e575",

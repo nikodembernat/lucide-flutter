@@ -596,6 +596,7 @@ class LucideIcons {
   static const IconData fileType2 = LucideIconData(58225);
   static const IconData fileType = LucideIconData(58154);
   static const IconData fileUp = LucideIconData(58155);
+  static const IconData fileUser = LucideIconData(58930);
   static const IconData fileVideo2 = LucideIconData(58157);
   static const IconData fileVideo = LucideIconData(58156);
   static const IconData fileVolume2 = LucideIconData(58159);
@@ -913,6 +914,7 @@ class LucideIcons {
   static const IconData messageSquareDiff = LucideIconData(58738);
   static const IconData messageSquareDot = LucideIconData(58739);
   static const IconData messageSquareHeart = LucideIconData(58740);
+  static const IconData messageSquareLock = LucideIconData(58929);
   static const IconData messageSquareMore = LucideIconData(58741);
   static const IconData messageSquareOff = LucideIconData(58742);
   static const IconData messageSquarePlus = LucideIconData(58385);
