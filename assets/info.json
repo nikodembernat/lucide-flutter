@@ -3161,6 +3161,12 @@
     "className": "icon-external-link",
     "unicode": "&#57533;"
   },
+  "eye-closed": {
+    "encodedCode": "\\e633",
+    "prefix": "icon",
+    "className": "icon-eye-closed",
+    "unicode": "&#58931;"
+  },
   "eye-off": {
     "encodedCode": "\\e0bf",
     "prefix": "icon",
@@ -8932,6 +8938,12 @@
     "prefix": "icon",
     "className": "icon-voicemail",
     "unicode": "&#57768;"
+  },
+  "volleyball": {
+    "encodedCode": "\\e634",
+    "prefix": "icon",
+    "className": "icon-volleyball",
+    "unicode": "&#58932;"
   },
   "volume-1": {
     "encodedCode": "\\e1aa",

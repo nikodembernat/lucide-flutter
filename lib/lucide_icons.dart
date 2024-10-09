@@ -535,6 +535,7 @@ class LucideIcons {
   static const IconData euro = LucideIconData(57532);
   static const IconData expand = LucideIconData(57882);
   static const IconData externalLink = LucideIconData(57533);
+  static const IconData eyeClosed = LucideIconData(58931);
   static const IconData eyeOff = LucideIconData(57535);
   static const IconData eye = LucideIconData(57534);
   static const IconData facebook = LucideIconData(57536);
@@ -1497,6 +1498,7 @@ class LucideIcons {
   static const IconData videotape = LucideIconData(58576);
   static const IconData view = LucideIconData(57767);
   static const IconData voicemail = LucideIconData(57768);
+  static const IconData volleyball = LucideIconData(58932);
   static const IconData volume1 = LucideIconData(57770);
   static const IconData volume2 = LucideIconData(57771);
   static const IconData volumeOff = LucideIconData(58923);
