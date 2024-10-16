@@ -246,6 +246,7 @@ class LucideIcons {
   static const IconData cakeSlice = LucideIconData(58558);
   static const IconData cake = LucideIconData(58184);
   static const IconData calculator = LucideIconData(57788);
+  static const IconData calendar1 = LucideIconData(58933);
   static const IconData calendarArrowDown = LucideIconData(58883);
   static const IconData calendarArrowUp = LucideIconData(58884);
   static const IconData calendarCheck2 = LucideIconData(58040);
