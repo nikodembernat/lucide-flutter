@@ -1529,6 +1529,7 @@ class LucideIcons {
   static const IconData wifiOff = LucideIconData(57775);
   static const IconData wifiZero = LucideIconData(58878);
   static const IconData wifi = LucideIconData(57774);
+  static const IconData windArrowDown = LucideIconData(58934);
   static const IconData wind = LucideIconData(57776);
   static const IconData wineOff = LucideIconData(58276);
   static const IconData wine = LucideIconData(58104);

@@ -9125,6 +9125,12 @@
     "className": "icon-wifi",
     "unicode": "&#57774;"
   },
+  "wind-arrow-down": {
+    "encodedCode": "\\e636",
+    "prefix": "icon",
+    "className": "icon-wind-arrow-down",
+    "unicode": "&#58934;"
+  },
   "wind": {
     "encodedCode": "\\e1b0",
     "prefix": "icon",
