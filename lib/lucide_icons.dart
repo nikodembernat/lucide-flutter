@@ -405,6 +405,7 @@ class LucideIcons {
   static const IconData clockArrowDown = LucideIconData(58885);
   static const IconData clockArrowUp = LucideIconData(58886);
   static const IconData clock = LucideIconData(57483);
+  static const IconData cloudAlert = LucideIconData(58936);
   static const IconData cloudCog = LucideIconData(58122);
   static const IconData cloudDownload = LucideIconData(57485);
   static const IconData cloudDrizzle = LucideIconData(57486);
@@ -529,6 +530,7 @@ class LucideIcons {
   static const IconData egg = LucideIconData(57949);
   static const IconData ellipsisVertical = LucideIconData(57531);
   static const IconData ellipsis = LucideIconData(57530);
+  static const IconData equalApproximately = LucideIconData(58937);
   static const IconData equalNot = LucideIconData(57790);
   static const IconData equal = LucideIconData(57789);
   static const IconData eraser = LucideIconData(57999);
@@ -805,6 +807,7 @@ class LucideIcons {
   static const IconData landPlot = LucideIconData(58669);
   static const IconData landmark = LucideIconData(57914);
   static const IconData languages = LucideIconData(57603);
+  static const IconData laptopMinimalCheck = LucideIconData(58935);
   static const IconData laptopMinimal = LucideIconData(57816);
   static const IconData laptop = LucideIconData(57805);
   static const IconData lassoSelect = LucideIconData(57807);
@@ -1417,6 +1420,7 @@ class LucideIcons {
   static const IconData timer = LucideIconData(57824);
   static const IconData toggleLeft = LucideIconData(57739);
   static const IconData toggleRight = LucideIconData(57740);
+  static const IconData toilet = LucideIconData(58938);
   static const IconData tornado = LucideIconData(57880);
   static const IconData torus = LucideIconData(58676);
   static const IconData touchpadOff = LucideIconData(58447);
