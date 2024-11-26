@@ -263,6 +263,7 @@ class LucideIcons {
   static const IconData calendarPlus = LucideIconData(58044);
   static const IconData calendarRange = LucideIconData(58045);
   static const IconData calendarSearch = LucideIconData(58118);
+  static const IconData calendarSync = LucideIconData(58939);
   static const IconData calendarX2 = LucideIconData(58047);
   static const IconData calendarX = LucideIconData(58046);
   static const IconData calendar = LucideIconData(57447);

@@ -1529,6 +1529,12 @@
     "className": "icon-calendar-search",
     "unicode": "&#58118;"
   },
+  "calendar-sync": {
+    "encodedCode": "\\e63b",
+    "prefix": "icon",
+    "className": "icon-calendar-sync",
+    "unicode": "&#58939;"
+  },
   "calendar-x-2": {
     "encodedCode": "\\e2bf",
     "prefix": "icon",
