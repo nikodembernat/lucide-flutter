@@ -776,6 +776,7 @@ class LucideIcons {
   static const IconData imagePlay = LucideIconData(58852);
   static const IconData imagePlus = LucideIconData(57847);
   static const IconData imageUp = LucideIconData(58832);
+  static const IconData imageUpscale = LucideIconData(58940);
   static const IconData image = LucideIconData(57593);
   static const IconData images = LucideIconData(58825);
   static const IconData import = LucideIconData(57903);
