@@ -516,6 +516,7 @@ class LucideIcons {
   static const IconData drama = LucideIconData(58661);
   static const IconData dribbble = LucideIconData(57527);
   static const IconData drill = LucideIconData(58769);
+  static const IconData dropletOff = LucideIconData(58940);
   static const IconData droplet = LucideIconData(57528);
   static const IconData droplets = LucideIconData(57529);
   static const IconData drum = LucideIconData(58721);
