@@ -842,6 +842,7 @@ class LucideIcons {
   static const IconData listChecks = LucideIconData(57807);
   static const IconData listCollapse = LucideIconData(58783);
   static const IconData listEnd = LucideIconData(58078);
+  static const IconData listFilterPlus = LucideIconData(58941);
   static const IconData listFilter = LucideIconData(58468);
   static const IconData listMinus = LucideIconData(57917);
   static const IconData listMusic = LucideIconData(58079);
@@ -1184,6 +1185,7 @@ class LucideIcons {
   static const IconData scanBarcode = LucideIconData(58681);
   static const IconData scanEye = LucideIconData(58682);
   static const IconData scanFace = LucideIconData(58228);
+  static const IconData scanHeart = LucideIconData(58942);
   static const IconData scanLine = LucideIconData(57943);
   static const IconData scanQrCode = LucideIconData(58874);
   static const IconData scanSearch = LucideIconData(58683);
@@ -1521,6 +1523,7 @@ class LucideIcons {
   static const IconData warehouse = LucideIconData(58345);
   static const IconData washingMachine = LucideIconData(58772);
   static const IconData watch = LucideIconData(57772);
+  static const IconData wavesLadder = LucideIconData(58943);
   static const IconData waves = LucideIconData(57986);
   static const IconData waypoints = LucideIconData(58694);
   static const IconData webcam = LucideIconData(57860);

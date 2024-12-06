@@ -5003,6 +5003,12 @@
     "className": "icon-list-end",
     "unicode": "&#58078;"
   },
+  "list-filter-plus": {
+    "encodedCode": "\\e63d",
+    "prefix": "icon",
+    "className": "icon-list-filter-plus",
+    "unicode": "&#58941;"
+  },
   "list-filter": {
     "encodedCode": "\\e464",
     "prefix": "icon",
@@ -7055,6 +7061,12 @@
     "className": "icon-scan-face",
     "unicode": "&#58228;"
   },
+  "scan-heart": {
+    "encodedCode": "\\e63e",
+    "prefix": "icon",
+    "className": "icon-scan-heart",
+    "unicode": "&#58942;"
+  },
   "scan-line": {
     "encodedCode": "\\e257",
     "prefix": "icon",
@@ -9076,6 +9088,12 @@
     "prefix": "icon",
     "className": "icon-watch",
     "unicode": "&#57772;"
+  },
+  "waves-ladder": {
+    "encodedCode": "\\e63f",
+    "prefix": "icon",
+    "className": "icon-waves-ladder",
+    "unicode": "&#58943;"
   },
   "waves": {
     "encodedCode": "\\e282",
