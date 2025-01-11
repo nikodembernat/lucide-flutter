@@ -767,6 +767,7 @@ class LucideIcons {
   static const IconData hourglass = LucideIconData(58005);
   static const IconData housePlug = LucideIconData(58868);
   static const IconData housePlus = LucideIconData(58869);
+  static const IconData houseWifi = LucideIconData(58944);
   static const IconData house = LucideIconData(57592);
   static const IconData iceCreamBowl = LucideIconData(58282);
   static const IconData iceCreamCone = LucideIconData(58198);
@@ -1448,6 +1449,7 @@ class LucideIcons {
   static const IconData trendingUpDown = LucideIconData(58921);
   static const IconData trendingUp = LucideIconData(57744);
   static const IconData triangleAlert = LucideIconData(57746);
+  static const IconData triangleDashed = LucideIconData(58945);
   static const IconData triangleRight = LucideIconData(58609);
   static const IconData triangle = LucideIconData(57745);
   static const IconData trophy = LucideIconData(58230);
