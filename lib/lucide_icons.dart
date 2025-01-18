@@ -147,6 +147,7 @@ class LucideIcons {
   static const IconData batteryFull = LucideIconData(57433);
   static const IconData batteryLow = LucideIconData(57434);
   static const IconData batteryMedium = LucideIconData(57435);
+  static const IconData batteryPlus = LucideIconData(58946);
   static const IconData batteryWarning = LucideIconData(58287);
   static const IconData battery = LucideIconData(57431);
   static const IconData beaker = LucideIconData(57436);
@@ -895,6 +896,7 @@ class LucideIcons {
   static const IconData mapPinX = LucideIconData(58905);
   static const IconData mapPin = LucideIconData(57620);
   static const IconData mapPinned = LucideIconData(58689);
+  static const IconData mapPlus = LucideIconData(58947);
   static const IconData map = LucideIconData(57619);
   static const IconData martini = LucideIconData(58082);
   static const IconData maximize2 = LucideIconData(57622);
