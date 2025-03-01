@@ -372,6 +372,7 @@ class LucideIcons {
   static const IconData circlePower = LucideIconData(58708);
   static const IconData circleSlash2 = LucideIconData(57874);
   static const IconData circleSlash = LucideIconData(58374);
+  static const IconData circleSmall = LucideIconData(58948);
   static const IconData circleStop = LucideIconData(57479);
   static const IconData circleUserRound = LucideIconData(58470);
   static const IconData circleUser = LucideIconData(58469);
@@ -898,6 +899,8 @@ class LucideIcons {
   static const IconData mapPinned = LucideIconData(58689);
   static const IconData mapPlus = LucideIconData(58947);
   static const IconData map = LucideIconData(57619);
+  static const IconData marsStroke = LucideIconData(58950);
+  static const IconData mars = LucideIconData(58949);
   static const IconData martini = LucideIconData(58082);
   static const IconData maximize2 = LucideIconData(57622);
   static const IconData maximize = LucideIconData(57621);
@@ -996,6 +999,7 @@ class LucideIcons {
   static const IconData network = LucideIconData(57640);
   static const IconData newspaper = LucideIconData(58187);
   static const IconData nfc = LucideIconData(58310);
+  static const IconData nonBinary = LucideIconData(58951);
   static const IconData notebookPen = LucideIconData(58778);
   static const IconData notebookTabs = LucideIconData(58779);
   static const IconData notebookText = LucideIconData(58780);
@@ -1232,6 +1236,7 @@ class LucideIcons {
   static const IconData shieldOff = LucideIconData(57693);
   static const IconData shieldPlus = LucideIconData(58653);
   static const IconData shieldQuestion = LucideIconData(58386);
+  static const IconData shieldUser = LucideIconData(58955);
   static const IconData shieldX = LucideIconData(57855);
   static const IconData shield = LucideIconData(57691);
   static const IconData shipWheel = LucideIconData(58630);
@@ -1332,6 +1337,7 @@ class LucideIcons {
   static const IconData squarePlus = LucideIconData(57718);
   static const IconData squarePower = LucideIconData(58709);
   static const IconData squareRadical = LucideIconData(58823);
+  static const IconData squareRoundCorner = LucideIconData(58956);
   static const IconData squareScissors = LucideIconData(58608);
   static const IconData squareSigma = LucideIconData(58509);
   static const IconData squareSlash = LucideIconData(57719);
@@ -1440,6 +1446,7 @@ class LucideIcons {
   static const IconData trainFront = LucideIconData(58634);
   static const IconData trainTrack = LucideIconData(58636);
   static const IconData tramFront = LucideIconData(58024);
+  static const IconData transgender = LucideIconData(58952);
   static const IconData trash2 = LucideIconData(57741);
   static const IconData trash = LucideIconData(57740);
   static const IconData treeDeciduous = LucideIconData(58098);
@@ -1504,6 +1511,8 @@ class LucideIcons {
   static const IconData vault = LucideIconData(58771);
   static const IconData vegan = LucideIconData(58272);
   static const IconData venetianMask = LucideIconData(58025);
+  static const IconData venusAndMars = LucideIconData(58954);
+  static const IconData venus = LucideIconData(58953);
   static const IconData vibrateOff = LucideIconData(58012);
   static const IconData vibrate = LucideIconData(57890);
   static const IconData videoOff = LucideIconData(57765);

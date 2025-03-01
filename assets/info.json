@@ -2183,6 +2183,12 @@
     "className": "icon-circle-slash",
     "unicode": "&#58374;"
   },
+  "circle-small": {
+    "encodedCode": "\\e644",
+    "prefix": "icon",
+    "className": "icon-circle-small",
+    "unicode": "&#58948;"
+  },
   "circle-stop": {
     "encodedCode": "\\e087",
     "prefix": "icon",
@@ -5339,6 +5345,18 @@
     "className": "icon-map",
     "unicode": "&#57619;"
   },
+  "mars-stroke": {
+    "encodedCode": "\\e646",
+    "prefix": "icon",
+    "className": "icon-mars-stroke",
+    "unicode": "&#58950;"
+  },
+  "mars": {
+    "encodedCode": "\\e645",
+    "prefix": "icon",
+    "className": "icon-mars",
+    "unicode": "&#58949;"
+  },
   "martini": {
     "encodedCode": "\\e2e2",
     "prefix": "icon",
@@ -5926,6 +5944,12 @@
     "prefix": "icon",
     "className": "icon-nfc",
     "unicode": "&#58310;"
+  },
+  "non-binary": {
+    "encodedCode": "\\e647",
+    "prefix": "icon",
+    "className": "icon-non-binary",
+    "unicode": "&#58951;"
   },
   "notebook-pen": {
     "encodedCode": "\\e59a",
@@ -7343,6 +7367,12 @@
     "className": "icon-shield-question",
     "unicode": "&#58386;"
   },
+  "shield-user": {
+    "encodedCode": "\\e64b",
+    "prefix": "icon",
+    "className": "icon-shield-user",
+    "unicode": "&#58955;"
+  },
   "shield-x": {
     "encodedCode": "\\e1ff",
     "prefix": "icon",
@@ -7942,6 +7972,12 @@
     "prefix": "icon",
     "className": "icon-square-radical",
     "unicode": "&#58823;"
+  },
+  "square-round-corner": {
+    "encodedCode": "\\e64c",
+    "prefix": "icon",
+    "className": "icon-square-round-corner",
+    "unicode": "&#58956;"
   },
   "square-scissors": {
     "encodedCode": "\\e4f0",
@@ -8591,6 +8627,12 @@
     "className": "icon-tram-front",
     "unicode": "&#58024;"
   },
+  "transgender": {
+    "encodedCode": "\\e648",
+    "prefix": "icon",
+    "className": "icon-transgender",
+    "unicode": "&#58952;"
+  },
   "trash-2": {
     "encodedCode": "\\e18d",
     "prefix": "icon",
@@ -8974,6 +9016,18 @@
     "prefix": "icon",
     "className": "icon-venetian-mask",
     "unicode": "&#58025;"
+  },
+  "venus-and-mars": {
+    "encodedCode": "\\e64a",
+    "prefix": "icon",
+    "className": "icon-venus-and-mars",
+    "unicode": "&#58954;"
+  },
+  "venus": {
+    "encodedCode": "\\e649",
+    "prefix": "icon",
+    "className": "icon-venus",
+    "unicode": "&#58953;"
   },
   "vibrate-off": {
     "encodedCode": "\\e29c",
