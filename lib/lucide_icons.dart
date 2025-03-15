@@ -407,6 +407,7 @@ class LucideIcons {
   static const IconData clockAlert = LucideIconData(58926);
   static const IconData clockArrowDown = LucideIconData(58884);
   static const IconData clockArrowUp = LucideIconData(58885);
+  static const IconData clockFading = LucideIconData(58958);
   static const IconData clock = LucideIconData(57483);
   static const IconData cloudAlert = LucideIconData(58935);
   static const IconData cloudCog = LucideIconData(58121);
@@ -1183,6 +1184,7 @@ class LucideIcons {
   static const IconData sandwich = LucideIconData(58284);
   static const IconData satelliteDish = LucideIconData(58444);
   static const IconData satellite = LucideIconData(58443);
+  static const IconData saudiRiyal = LucideIconData(58959);
   static const IconData saveAll = LucideIconData(58387);
   static const IconData saveOff = LucideIconData(58871);
   static const IconData save = LucideIconData(57680);
@@ -1247,6 +1249,7 @@ class LucideIcons {
   static const IconData shoppingCart = LucideIconData(57695);
   static const IconData shovel = LucideIconData(57696);
   static const IconData showerHead = LucideIconData(58239);
+  static const IconData shrimp = LucideIconData(58957);
   static const IconData shrink = LucideIconData(57887);
   static const IconData shrub = LucideIconData(58093);
   static const IconData shuffle = LucideIconData(57697);

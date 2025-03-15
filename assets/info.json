@@ -2393,6 +2393,12 @@
     "className": "icon-clock-arrow-up",
     "unicode": "&#58885;"
   },
+  "clock-fading": {
+    "encodedCode": "\\e64e",
+    "prefix": "icon",
+    "className": "icon-clock-fading",
+    "unicode": "&#58958;"
+  },
   "clock": {
     "encodedCode": "\\e08b",
     "prefix": "icon",
@@ -7049,6 +7055,12 @@
     "className": "icon-satellite",
     "unicode": "&#58443;"
   },
+  "saudi-riyal": {
+    "encodedCode": "\\e64f",
+    "prefix": "icon",
+    "className": "icon-saudi-riyal",
+    "unicode": "&#58959;"
+  },
   "save-all": {
     "encodedCode": "\\e413",
     "prefix": "icon",
@@ -7432,6 +7444,12 @@
     "prefix": "icon",
     "className": "icon-shower-head",
     "unicode": "&#58239;"
+  },
+  "shrimp": {
+    "encodedCode": "\\e64d",
+    "prefix": "icon",
+    "className": "icon-shrimp",
+    "unicode": "&#58957;"
   },
   "shrink": {
     "encodedCode": "\\e21f",
