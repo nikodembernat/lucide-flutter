@@ -139,6 +139,7 @@ class LucideIcons {
   static const IconData ban = LucideIconData(57429);
   static const IconData banana = LucideIconData(58195);
   static const IconData bandage = LucideIconData(58914);
+  static const IconData banknoteArrowDown = LucideIconData(58961);
   static const IconData banknote = LucideIconData(57430);
   static const IconData barcode = LucideIconData(58680);
   static const IconData baseline = LucideIconData(57989);
