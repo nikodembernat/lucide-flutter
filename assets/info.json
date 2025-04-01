@@ -791,6 +791,18 @@
     "className": "icon-banknote-arrow-down",
     "unicode": "&#58961;"
   },
+  "banknote-arrow-up": {
+    "encodedCode": "\\e652",
+    "prefix": "icon",
+    "className": "icon-banknote-arrow-up",
+    "unicode": "&#58962;"
+  },
+  "banknote-x": {
+    "encodedCode": "\\e653",
+    "prefix": "icon",
+    "className": "icon-banknote-x",
+    "unicode": "&#58963;"
+  },
   "banknote": {
     "encodedCode": "\\e056",
     "prefix": "icon",
