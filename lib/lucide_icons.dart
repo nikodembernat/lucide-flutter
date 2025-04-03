@@ -1292,6 +1292,7 @@ class LucideIcons {
   static const IconData speech = LucideIconData(58659);
   static const IconData spellCheck2 = LucideIconData(58528);
   static const IconData spellCheck = LucideIconData(58527);
+  static const IconData splinePointer = LucideIconData(58964);
   static const IconData spline = LucideIconData(58255);
   static const IconData split = LucideIconData(58437);
   static const IconData sprayCan = LucideIconData(58522);

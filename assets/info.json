@@ -7703,6 +7703,12 @@
     "className": "icon-spell-check",
     "unicode": "&#58527;"
   },
+  "spline-pointer": {
+    "encodedCode": "\\e654",
+    "prefix": "icon",
+    "className": "icon-spline-pointer",
+    "unicode": "&#58964;"
+  },
   "spline": {
     "encodedCode": "\\e38f",
     "prefix": "icon",
