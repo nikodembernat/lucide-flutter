@@ -1192,6 +1192,7 @@ class LucideIcons {
   static const IconData rows3 = LucideIconData(58767);
   static const IconData rows4 = LucideIconData(58768);
   static const IconData rss = LucideIconData(57678);
+  static const IconData rulerDimensionLine = LucideIconData(58983);
   static const IconData ruler = LucideIconData(57679);
   static const IconData russianRuble = LucideIconData(57680);
   static const IconData sailboat = LucideIconData(58242);
@@ -1575,6 +1576,7 @@ class LucideIcons {
   static const IconData wifiHigh = LucideIconData(58876);
   static const IconData wifiLow = LucideIconData(58877);
   static const IconData wifiOff = LucideIconData(57775);
+  static const IconData wifiPen = LucideIconData(58984);
   static const IconData wifiZero = LucideIconData(58878);
   static const IconData wifi = LucideIconData(57774);
   static const IconData windArrowDown = LucideIconData(58934);
