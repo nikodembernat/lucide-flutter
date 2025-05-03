@@ -239,6 +239,7 @@ class LucideIcons {
   static const IconData briefcaseMedical = LucideIconData(58843);
   static const IconData briefcase = LucideIconData(57446);
   static const IconData bringToFront = LucideIconData(58612);
+  static const IconData brushCleaning = LucideIconData(58987);
   static const IconData brush = LucideIconData(57811);
   static const IconData bubbles = LucideIconData(58969);
   static const IconData bugOff = LucideIconData(58642);
@@ -414,6 +415,7 @@ class LucideIcons {
   static const IconData clockArrowDown = LucideIconData(58885);
   static const IconData clockArrowUp = LucideIconData(58886);
   static const IconData clockFading = LucideIconData(58959);
+  static const IconData clockPlus = LucideIconData(58988);
   static const IconData clock = LucideIconData(57483);
   static const IconData cloudAlert = LucideIconData(58936);
   static const IconData cloudCog = LucideIconData(58122);
@@ -520,6 +522,7 @@ class LucideIcons {
   static const IconData dog = LucideIconData(58257);
   static const IconData dollarSign = LucideIconData(57525);
   static const IconData donut = LucideIconData(58561);
+  static const IconData doorClosedLocked = LucideIconData(58985);
   static const IconData doorClosed = LucideIconData(58329);
   static const IconData doorOpen = LucideIconData(58330);
   static const IconData dot = LucideIconData(58452);
@@ -739,6 +742,7 @@ class LucideIcons {
   static const IconData group = LucideIconData(58473);
   static const IconData guitar = LucideIconData(58724);
   static const IconData ham = LucideIconData(58844);
+  static const IconData hamburger = LucideIconData(58986);
   static const IconData hammer = LucideIconData(57584);
   static const IconData handCoins = LucideIconData(58813);
   static const IconData handHeart = LucideIconData(58814);
@@ -1295,6 +1299,7 @@ class LucideIcons {
   static const IconData smile = LucideIconData(57704);
   static const IconData snail = LucideIconData(58621);
   static const IconData snowflake = LucideIconData(57705);
+  static const IconData soapDispenserDroplet = LucideIconData(58989);
   static const IconData sofa = LucideIconData(58052);
   static const IconData soup = LucideIconData(58286);
   static const IconData space = LucideIconData(58337);
