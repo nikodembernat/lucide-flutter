@@ -1048,6 +1048,7 @@ class LucideIcons {
   static const IconData paintbrushVertical = LucideIconData(58088);
   static const IconData paintbrush = LucideIconData(58087);
   static const IconData palette = LucideIconData(57821);
+  static const IconData panda = LucideIconData(58989);
   static const IconData panelBottomClose = LucideIconData(58418);
   static const IconData panelBottomDashed = LucideIconData(58419);
   static const IconData panelBottomOpen = LucideIconData(58420);
@@ -1299,7 +1300,7 @@ class LucideIcons {
   static const IconData smile = LucideIconData(57704);
   static const IconData snail = LucideIconData(58621);
   static const IconData snowflake = LucideIconData(57705);
-  static const IconData soapDispenserDroplet = LucideIconData(58989);
+  static const IconData soapDispenserDroplet = LucideIconData(58990);
   static const IconData sofa = LucideIconData(58052);
   static const IconData soup = LucideIconData(58286);
   static const IconData space = LucideIconData(58337);
