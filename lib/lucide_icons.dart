@@ -728,6 +728,7 @@ class LucideIcons {
   static const IconData globeLock = LucideIconData(58834);
   static const IconData globe = LucideIconData(57580);
   static const IconData goal = LucideIconData(58538);
+  static const IconData gpu = LucideIconData(58991);
   static const IconData grab = LucideIconData(57830);
   static const IconData graduationCap = LucideIconData(57908);
   static const IconData grape = LucideIconData(58198);

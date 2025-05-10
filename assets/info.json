@@ -4319,6 +4319,12 @@
     "className": "icon-goal",
     "unicode": "&#58538;"
   },
+  "gpu": {
+    "encodedCode": "\\e66f",
+    "prefix": "icon",
+    "className": "icon-gpu",
+    "unicode": "&#58991;"
+  },
   "grab": {
     "encodedCode": "\\e1e6",
     "prefix": "icon",
