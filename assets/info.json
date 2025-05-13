@@ -1871,6 +1871,12 @@
     "className": "icon-check-check",
     "unicode": "&#58258;"
   },
+  "check-line": {
+    "encodedCode": "\\e670",
+    "prefix": "icon",
+    "className": "icon-check-line",
+    "unicode": "&#58992;"
+  },
   "check": {
     "encodedCode": "\\e070",
     "prefix": "icon",

@@ -320,6 +320,7 @@ class LucideIcons {
   static const IconData chartScatter = LucideIconData(58511);
   static const IconData chartSpline = LucideIconData(58898);
   static const IconData checkCheck = LucideIconData(58258);
+  static const IconData checkLine = LucideIconData(58992);
   static const IconData check = LucideIconData(57456);
   static const IconData chefHat = LucideIconData(58028);
   static const IconData cherry = LucideIconData(58196);
