@@ -1345,6 +1345,7 @@ class LucideIcons {
   static const IconData squareDashedBottom = LucideIconData(58565);
   static const IconData squareDashedKanban = LucideIconData(57712);
   static const IconData squareDashedMousePointer = LucideIconData(58638);
+  static const IconData squareDashedTopSolid = LucideIconData(58993);
   static const IconData squareDashed = LucideIconData(57803);
   static const IconData squareDivide = LucideIconData(57713);
   static const IconData squareDot = LucideIconData(57714);
