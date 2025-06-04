@@ -377,6 +377,7 @@ class LucideIcons {
   static const IconData circlePercent = LucideIconData(58655);
   static const IconData circlePlay = LucideIconData(57477);
   static const IconData circlePlus = LucideIconData(57478);
+  static const IconData circlePoundSterling = LucideIconData(58994);
   static const IconData circlePower = LucideIconData(58709);
   static const IconData circleSlash2 = LucideIconData(57875);
   static const IconData circleSlash = LucideIconData(58375);
@@ -419,6 +420,7 @@ class LucideIcons {
   static const IconData clockPlus = LucideIconData(58988);
   static const IconData clock = LucideIconData(57483);
   static const IconData cloudAlert = LucideIconData(58936);
+  static const IconData cloudCheck = LucideIconData(58995);
   static const IconData cloudCog = LucideIconData(58122);
   static const IconData cloudDownload = LucideIconData(57485);
   static const IconData cloudDrizzle = LucideIconData(57486);
@@ -737,6 +739,7 @@ class LucideIcons {
   static const IconData grid2x2Plus = LucideIconData(58925);
   static const IconData grid2x2X = LucideIconData(58858);
   static const IconData grid2x2 = LucideIconData(58628);
+  static const IconData grid3x2 = LucideIconData(58996);
   static const IconData grid3x3 = LucideIconData(57581);
   static const IconData gripHorizontal = LucideIconData(57582);
   static const IconData gripVertical = LucideIconData(57583);
@@ -792,6 +795,7 @@ class LucideIcons {
   static const IconData house = LucideIconData(57593);
   static const IconData iceCreamBowl = LucideIconData(58283);
   static const IconData iceCreamCone = LucideIconData(58199);
+  static const IconData idCardLanyard = LucideIconData(58997);
   static const IconData idCard = LucideIconData(58908);
   static const IconData imageDown = LucideIconData(58689);
   static const IconData imageMinus = LucideIconData(57846);
