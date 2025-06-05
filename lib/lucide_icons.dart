@@ -287,6 +287,7 @@ class LucideIcons {
   static const IconData carTaxiFront = LucideIconData(58627);
   static const IconData car = LucideIconData(57813);
   static const IconData caravan = LucideIconData(58686);
+  static const IconData cardSim = LucideIconData(58998);
   static const IconData carrot = LucideIconData(57946);
   static const IconData caseLower = LucideIconData(58332);
   static const IconData caseSensitive = LucideIconData(58333);

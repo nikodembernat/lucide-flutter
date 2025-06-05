@@ -1673,6 +1673,12 @@
     "className": "icon-caravan",
     "unicode": "&#58686;"
   },
+  "card-sim": {
+    "encodedCode": "\\e676",
+    "prefix": "icon",
+    "className": "icon-card-sim",
+    "unicode": "&#58998;"
+  },
   "carrot": {
     "encodedCode": "\\e25a",
     "prefix": "icon",
