@@ -192,6 +192,7 @@ class LucideIcons {
   static const IconData bomb = LucideIconData(58111);
   static const IconData bone = LucideIconData(58204);
   static const IconData bookA = LucideIconData(58697);
+  static const IconData bookAlert = LucideIconData(58999);
   static const IconData bookAudio = LucideIconData(58698);
   static const IconData bookCheck = LucideIconData(58699);
   static const IconData bookCopy = LucideIconData(58353);
@@ -1164,6 +1165,7 @@ class LucideIcons {
   static const IconData receiptSwissFranc = LucideIconData(58800);
   static const IconData receiptText = LucideIconData(58801);
   static const IconData receipt = LucideIconData(58327);
+  static const IconData rectangleCircle = LucideIconData(59000);
   static const IconData rectangleEllipsis = LucideIconData(57887);
   static const IconData rectangleGoggles = LucideIconData(58971);
   static const IconData rectangleHorizontal = LucideIconData(58234);

@@ -1103,6 +1103,12 @@
     "className": "icon-book-a",
     "unicode": "&#58697;"
   },
+  "book-alert": {
+    "encodedCode": "\\e677",
+    "prefix": "icon",
+    "className": "icon-book-alert",
+    "unicode": "&#58999;"
+  },
   "book-audio": {
     "encodedCode": "\\e54a",
     "prefix": "icon",
@@ -6934,6 +6940,12 @@
     "prefix": "icon",
     "className": "icon-receipt",
     "unicode": "&#58327;"
+  },
+  "rectangle-circle": {
+    "encodedCode": "\\e678",
+    "prefix": "icon",
+    "className": "icon-rectangle-circle",
+    "unicode": "&#59000;"
   },
   "rectangle-ellipsis": {
     "encodedCode": "\\e21f",
