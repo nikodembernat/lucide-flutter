@@ -1589,6 +1589,7 @@ class LucideIcons {
   static const IconData wheatOff = LucideIconData(58275);
   static const IconData wheat = LucideIconData(58274);
   static const IconData wholeWord = LucideIconData(58339);
+  static const IconData wifiCog = LucideIconData(59001);
   static const IconData wifiHigh = LucideIconData(58876);
   static const IconData wifiLow = LucideIconData(58877);
   static const IconData wifiOff = LucideIconData(57775);

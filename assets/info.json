@@ -9485,6 +9485,12 @@
     "className": "icon-whole-word",
     "unicode": "&#58339;"
   },
+  "wifi-cog": {
+    "encodedCode": "\\e679",
+    "prefix": "icon",
+    "className": "icon-wifi-cog",
+    "unicode": "&#59001;"
+  },
   "wifi-high": {
     "encodedCode": "\\e5fc",
     "prefix": "icon",
