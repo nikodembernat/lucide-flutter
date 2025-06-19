@@ -815,6 +815,12 @@
     "className": "icon-barcode",
     "unicode": "&#58680;"
   },
+  "barrel": {
+    "encodedCode": "\\e67a",
+    "prefix": "icon",
+    "className": "icon-barrel",
+    "unicode": "&#59002;"
+  },
   "baseline": {
     "encodedCode": "\\e285",
     "prefix": "icon",

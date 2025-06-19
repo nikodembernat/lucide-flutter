@@ -144,6 +144,7 @@ class LucideIcons {
   static const IconData banknoteX = LucideIconData(58963);
   static const IconData banknote = LucideIconData(57430);
   static const IconData barcode = LucideIconData(58680);
+  static const IconData barrel = LucideIconData(59002);
   static const IconData baseline = LucideIconData(57989);
   static const IconData bath = LucideIconData(58027);
   static const IconData batteryCharging = LucideIconData(57432);
