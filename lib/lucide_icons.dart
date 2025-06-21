@@ -1325,6 +1325,7 @@ class LucideIcons {
   static const IconData splinePointer = LucideIconData(58964);
   static const IconData spline = LucideIconData(58255);
   static const IconData split = LucideIconData(58437);
+  static const IconData spool = LucideIconData(59004);
   static const IconData sprayCan = LucideIconData(58522);
   static const IconData sprout = LucideIconData(57835);
   static const IconData squareActivity = LucideIconData(58553);

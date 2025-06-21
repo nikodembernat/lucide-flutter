@@ -7901,6 +7901,12 @@
     "className": "icon-split",
     "unicode": "&#58437;"
   },
+  "spool": {
+    "encodedCode": "\\e67c",
+    "prefix": "icon",
+    "className": "icon-spool",
+    "unicode": "&#59004;"
+  },
   "spray-can": {
     "encodedCode": "\\e49a",
     "prefix": "icon",
