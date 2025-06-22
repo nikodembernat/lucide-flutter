@@ -711,6 +711,7 @@ class LucideIcons {
   static const IconData gauge = LucideIconData(57791);
   static const IconData gavel = LucideIconData(57572);
   static const IconData gem = LucideIconData(57922);
+  static const IconData georgianLari = LucideIconData(59005);
   static const IconData ghost = LucideIconData(57870);
   static const IconData gift = LucideIconData(57573);
   static const IconData gitBranchPlus = LucideIconData(57844);
@@ -864,6 +865,7 @@ class LucideIcons {
   static const IconData ligature = LucideIconData(58431);
   static const IconData lightbulbOff = LucideIconData(57864);
   static const IconData lightbulb = LucideIconData(57794);
+  static const IconData lineSquiggle = LucideIconData(59007);
   static const IconData link2Off = LucideIconData(57610);
   static const IconData link2 = LucideIconData(57609);
   static const IconData link = LucideIconData(57608);
@@ -1394,6 +1396,7 @@ class LucideIcons {
   static const IconData squaresIntersect = LucideIconData(58973);
   static const IconData squaresSubtract = LucideIconData(58974);
   static const IconData squaresUnite = LucideIconData(58975);
+  static const IconData squircleDashed = LucideIconData(59006);
   static const IconData squircle = LucideIconData(58751);
   static const IconData squirrel = LucideIconData(58532);
   static const IconData stamp = LucideIconData(58303);

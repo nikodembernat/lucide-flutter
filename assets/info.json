@@ -4217,6 +4217,12 @@
     "className": "icon-gem",
     "unicode": "&#57922;"
   },
+  "georgian-lari": {
+    "encodedCode": "\\e67d",
+    "prefix": "icon",
+    "className": "icon-georgian-lari",
+    "unicode": "&#59005;"
+  },
   "ghost": {
     "encodedCode": "\\e20e",
     "prefix": "icon",
@@ -5134,6 +5140,12 @@
     "prefix": "icon",
     "className": "icon-lightbulb",
     "unicode": "&#57794;"
+  },
+  "line-squiggle": {
+    "encodedCode": "\\e67f",
+    "prefix": "icon",
+    "className": "icon-line-squiggle",
+    "unicode": "&#59007;"
   },
   "link-2-off": {
     "encodedCode": "\\e10a",
@@ -8314,6 +8326,12 @@
     "prefix": "icon",
     "className": "icon-squares-unite",
     "unicode": "&#58975;"
+  },
+  "squircle-dashed": {
+    "encodedCode": "\\e67e",
+    "prefix": "icon",
+    "className": "icon-squircle-dashed",
+    "unicode": "&#59006;"
   },
   "squircle": {
     "encodedCode": "\\e57f",
