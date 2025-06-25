@@ -1307,6 +1307,12 @@
     "className": "icon-bot",
     "unicode": "&#57787;"
   },
+  "bottle-wine": {
+    "encodedCode": "\\e680",
+    "prefix": "icon",
+    "className": "icon-bottle-wine",
+    "unicode": "&#59008;"
+  },
   "bow-arrow": {
     "encodedCode": "\\e663",
     "prefix": "icon",

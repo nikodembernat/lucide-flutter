@@ -226,6 +226,7 @@ class LucideIcons {
   static const IconData botMessageSquare = LucideIconData(58835);
   static const IconData botOff = LucideIconData(58853);
   static const IconData bot = LucideIconData(57787);
+  static const IconData bottleWine = LucideIconData(59008);
   static const IconData bowArrow = LucideIconData(58979);
   static const IconData box = LucideIconData(57445);
   static const IconData boxes = LucideIconData(58064);
