@@ -1482,6 +1482,7 @@ class LucideIcons {
   static const IconData toggleLeft = LucideIconData(57739);
   static const IconData toggleRight = LucideIconData(57740);
   static const IconData toilet = LucideIconData(58938);
+  static const IconData toolCase = LucideIconData(59010);
   static const IconData tornado = LucideIconData(57880);
   static const IconData torus = LucideIconData(58676);
   static const IconData touchpadOff = LucideIconData(58447);
@@ -1559,6 +1560,7 @@ class LucideIcons {
   static const IconData utilityPole = LucideIconData(58310);
   static const IconData variable = LucideIconData(58488);
   static const IconData vault = LucideIconData(58772);
+  static const IconData vectorSquare = LucideIconData(59009);
   static const IconData vegan = LucideIconData(58273);
   static const IconData venetianMask = LucideIconData(58026);
   static const IconData venusAndMars = LucideIconData(58955);
