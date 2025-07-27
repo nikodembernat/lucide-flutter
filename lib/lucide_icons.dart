@@ -133,6 +133,7 @@ class LucideIcons {
   static const IconData badgeQuestionMark = LucideIconData(58496);
   static const IconData badgeRussianRuble = LucideIconData(58649);
   static const IconData badgeSwissFranc = LucideIconData(58650);
+  static const IconData badgeTurkishLira = LucideIconData(59011);
   static const IconData badgeX = LucideIconData(58497);
   static const IconData badge = LucideIconData(58489);
   static const IconData baggageClaim = LucideIconData(58057);
@@ -1169,6 +1170,7 @@ class LucideIcons {
   static const IconData receiptRussianRuble = LucideIconData(58799);
   static const IconData receiptSwissFranc = LucideIconData(58800);
   static const IconData receiptText = LucideIconData(58801);
+  static const IconData receiptTurkishLira = LucideIconData(59012);
   static const IconData receipt = LucideIconData(58327);
   static const IconData rectangleCircle = LucideIconData(59000);
   static const IconData rectangleEllipsis = LucideIconData(57887);
@@ -1513,6 +1515,7 @@ class LucideIcons {
   static const IconData trophy = LucideIconData(58231);
   static const IconData truckElectric = LucideIconData(58980);
   static const IconData truck = LucideIconData(57748);
+  static const IconData turkishLira = LucideIconData(59013);
   static const IconData turtle = LucideIconData(58622);
   static const IconData tvMinimalPlay = LucideIconData(58865);
   static const IconData tvMinimal = LucideIconData(57859);
@@ -1603,6 +1606,7 @@ class LucideIcons {
   static const IconData wifiLow = LucideIconData(58877);
   static const IconData wifiOff = LucideIconData(57775);
   static const IconData wifiPen = LucideIconData(58984);
+  static const IconData wifiSync = LucideIconData(59014);
   static const IconData wifiZero = LucideIconData(58878);
   static const IconData wifi = LucideIconData(57774);
   static const IconData windArrowDown = LucideIconData(58934);
