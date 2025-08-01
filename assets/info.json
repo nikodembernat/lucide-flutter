@@ -4397,12 +4397,6 @@
     "className": "icon-gpu",
     "unicode": "&#58991;"
   },
-  "grab": {
-    "encodedCode": "\\e1e6",
-    "prefix": "icon",
-    "className": "icon-grab",
-    "unicode": "&#57830;"
-  },
   "graduation-cap": {
     "encodedCode": "\\e234",
     "prefix": "icon",
@@ -4504,6 +4498,18 @@
     "prefix": "icon",
     "className": "icon-hand-coins",
     "unicode": "&#58813;"
+  },
+  "hand-fist": {
+    "encodedCode": "\\e690",
+    "prefix": "icon",
+    "className": "icon-hand-fist",
+    "unicode": "&#59024;"
+  },
+  "hand-grab": {
+    "encodedCode": "\\e1e6",
+    "prefix": "icon",
+    "className": "icon-hand-grab",
+    "unicode": "&#57830;"
   },
   "hand-heart": {
     "encodedCode": "\\e5be",

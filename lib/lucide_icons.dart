@@ -741,7 +741,6 @@ class LucideIcons {
   static const IconData globe = LucideIconData(57580);
   static const IconData goal = LucideIconData(58538);
   static const IconData gpu = LucideIconData(58991);
-  static const IconData grab = LucideIconData(57830);
   static const IconData graduationCap = LucideIconData(57908);
   static const IconData grape = LucideIconData(58198);
   static const IconData grid2x2Check = LucideIconData(58857);
@@ -759,6 +758,8 @@ class LucideIcons {
   static const IconData hamburger = LucideIconData(58986);
   static const IconData hammer = LucideIconData(57584);
   static const IconData handCoins = LucideIconData(58813);
+  static const IconData handFist = LucideIconData(59024);
+  static const IconData handGrab = LucideIconData(57830);
   static const IconData handHeart = LucideIconData(58814);
   static const IconData handHelping = LucideIconData(58300);
   static const IconData handMetal = LucideIconData(57900);
