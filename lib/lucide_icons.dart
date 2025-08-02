@@ -1525,6 +1525,7 @@ class LucideIcons {
   static const IconData truckElectric = LucideIconData(58980);
   static const IconData truck = LucideIconData(57748);
   static const IconData turkishLira = LucideIconData(59013);
+  static const IconData turntable = LucideIconData(59025);
   static const IconData turtle = LucideIconData(58622);
   static const IconData tvMinimalPlay = LucideIconData(58865);
   static const IconData tvMinimal = LucideIconData(57859);

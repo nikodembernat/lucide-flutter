@@ -9101,6 +9101,12 @@
     "className": "icon-turkish-lira",
     "unicode": "&#59013;"
   },
+  "turntable": {
+    "encodedCode": "\\e691",
+    "prefix": "icon",
+    "className": "icon-turntable",
+    "unicode": "&#59025;"
+  },
   "turtle": {
     "encodedCode": "\\e4fe",
     "prefix": "icon",
