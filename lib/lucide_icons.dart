@@ -387,6 +387,7 @@ class LucideIcons {
   static const IconData circleSlash2 = LucideIconData(57875);
   static const IconData circleSlash = LucideIconData(58375);
   static const IconData circleSmall = LucideIconData(58949);
+  static const IconData circleStar = LucideIconData(59026);
   static const IconData circleStop = LucideIconData(57479);
   static const IconData circleUserRound = LucideIconData(58471);
   static const IconData circleUser = LucideIconData(58470);
@@ -1398,6 +1399,7 @@ class LucideIcons {
   static const IconData squareSplitVertical = LucideIconData(58299);
   static const IconData squareSquare = LucideIconData(58899);
   static const IconData squareStack = LucideIconData(58535);
+  static const IconData squareStar = LucideIconData(59027);
   static const IconData squareStop = LucideIconData(59018);
   static const IconData squareTerminal = LucideIconData(57866);
   static const IconData squareUserRound = LucideIconData(58475);
