@@ -1373,6 +1373,12 @@
     "className": "icon-brick-wall-fire",
     "unicode": "&#58968;"
   },
+  "brick-wall-shield": {
+    "encodedCode": "\\e695",
+    "prefix": "icon",
+    "className": "icon-brick-wall-shield",
+    "unicode": "&#59029;"
+  },
   "brick-wall": {
     "encodedCode": "\\e586",
     "prefix": "icon",
@@ -4954,6 +4960,12 @@
     "prefix": "icon",
     "className": "icon-kanban",
     "unicode": "&#58593;"
+  },
+  "kayak": {
+    "encodedCode": "\\e694",
+    "prefix": "icon",
+    "className": "icon-kayak",
+    "unicode": "&#59028;"
   },
   "key-round": {
     "encodedCode": "\\e4a8",

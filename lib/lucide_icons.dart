@@ -237,6 +237,7 @@ class LucideIcons {
   static const IconData brainCog = LucideIconData(58316);
   static const IconData brain = LucideIconData(58314);
   static const IconData brickWallFire = LucideIconData(58968);
+  static const IconData brickWallShield = LucideIconData(59029);
   static const IconData brickWall = LucideIconData(58758);
   static const IconData briefcaseBusiness = LucideIconData(58842);
   static const IconData briefcaseConveyorBelt = LucideIconData(58928);
@@ -834,6 +835,7 @@ class LucideIcons {
   static const IconData japaneseYen = LucideIconData(57602);
   static const IconData joystick = LucideIconData(58201);
   static const IconData kanban = LucideIconData(58593);
+  static const IconData kayak = LucideIconData(59028);
   static const IconData keyRound = LucideIconData(58536);
   static const IconData keySquare = LucideIconData(58537);
   static const IconData key = LucideIconData(57603);
