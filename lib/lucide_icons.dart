@@ -1209,6 +1209,7 @@ class LucideIcons {
   static const IconData rocket = LucideIconData(57990);
   static const IconData rockingChair = LucideIconData(57907);
   static const IconData rollerCoaster = LucideIconData(58501);
+  static const IconData rose = LucideIconData(59030);
   static const IconData rotate3d = LucideIconData(58090);
   static const IconData rotateCcwKey = LucideIconData(58965);
   static const IconData rotateCcwSquare = LucideIconData(58837);

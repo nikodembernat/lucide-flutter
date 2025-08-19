@@ -7205,6 +7205,12 @@
     "className": "icon-roller-coaster",
     "unicode": "&#58501;"
   },
+  "rose": {
+    "encodedCode": "\\e696",
+    "prefix": "icon",
+    "className": "icon-rose",
+    "unicode": "&#59030;"
+  },
   "rotate-3d": {
     "encodedCode": "\\e2ea",
     "prefix": "icon",
