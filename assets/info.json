@@ -2021,10 +2021,10 @@
     "className": "icon-chevrons-up",
     "unicode": "&#57464;"
   },
-  "chrome": {
+  "chromium": {
     "encodedCode": "\\e079",
     "prefix": "icon",
-    "className": "icon-chrome",
+    "className": "icon-chromium",
     "unicode": "&#57465;"
   },
   "church": {
@@ -6425,6 +6425,12 @@
     "className": "icon-panel-left-open",
     "unicode": "&#57885;"
   },
+  "panel-left-right-dashed": {
+    "encodedCode": "\\e697",
+    "prefix": "icon",
+    "className": "icon-panel-left-right-dashed",
+    "unicode": "&#59031;"
+  },
   "panel-left": {
     "encodedCode": "\\e12e",
     "prefix": "icon",
@@ -6454,6 +6460,12 @@
     "prefix": "icon",
     "className": "icon-panel-right",
     "unicode": "&#58422;"
+  },
+  "panel-top-bottom-dashed": {
+    "encodedCode": "\\e698",
+    "prefix": "icon",
+    "className": "icon-panel-top-bottom-dashed",
+    "unicode": "&#59032;"
   },
   "panel-top-close": {
     "encodedCode": "\\e43b",

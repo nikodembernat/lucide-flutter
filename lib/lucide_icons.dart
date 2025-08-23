@@ -345,7 +345,7 @@ class LucideIcons {
   static const IconData chevronsRight = LucideIconData(57463);
   static const IconData chevronsUpDown = LucideIconData(57873);
   static const IconData chevronsUp = LucideIconData(57464);
-  static const IconData chrome = LucideIconData(57465);
+  static const IconData chromium = LucideIconData(57465);
   static const IconData church = LucideIconData(58341);
   static const IconData cigaretteOff = LucideIconData(58055);
   static const IconData cigarette = LucideIconData(58054);
@@ -1079,11 +1079,13 @@ class LucideIcons {
   static const IconData panelLeftClose = LucideIconData(57884);
   static const IconData panelLeftDashed = LucideIconData(58421);
   static const IconData panelLeftOpen = LucideIconData(57885);
+  static const IconData panelLeftRightDashed = LucideIconData(59031);
   static const IconData panelLeft = LucideIconData(57646);
   static const IconData panelRightClose = LucideIconData(58423);
   static const IconData panelRightDashed = LucideIconData(58424);
   static const IconData panelRightOpen = LucideIconData(58425);
   static const IconData panelRight = LucideIconData(58422);
+  static const IconData panelTopBottomDashed = LucideIconData(59032);
   static const IconData panelTopClose = LucideIconData(58427);
   static const IconData panelTopDashed = LucideIconData(58428);
   static const IconData panelTopOpen = LucideIconData(58429);
