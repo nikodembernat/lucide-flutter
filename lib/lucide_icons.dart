@@ -882,6 +882,7 @@ class LucideIcons {
   static const IconData linkedin = LucideIconData(57611);
   static const IconData listCheck = LucideIconData(58879);
   static const IconData listChecks = LucideIconData(57808);
+  static const IconData listChevronsDownUp = LucideIconData(59033);
   static const IconData listCollapse = LucideIconData(58784);
   static const IconData listEnd = LucideIconData(58079);
   static const IconData listFilterPlus = LucideIconData(58942);

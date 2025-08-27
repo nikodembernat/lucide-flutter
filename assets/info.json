@@ -5243,6 +5243,12 @@
     "className": "icon-list-checks",
     "unicode": "&#57808;"
   },
+  "list-chevrons-down-up": {
+    "encodedCode": "\\e699",
+    "prefix": "icon",
+    "className": "icon-list-chevrons-down-up",
+    "unicode": "&#59033;"
+  },
   "list-collapse": {
     "encodedCode": "\\e5a0",
     "prefix": "icon",
