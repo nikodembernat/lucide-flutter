@@ -3323,6 +3323,12 @@
     "className": "icon-euro",
     "unicode": "&#57528;"
   },
+  "ev-charger": {
+    "encodedCode": "\\e69b",
+    "prefix": "icon",
+    "className": "icon-ev-charger",
+    "unicode": "&#59035;"
+  },
   "expand": {
     "encodedCode": "\\e21a",
     "prefix": "icon",

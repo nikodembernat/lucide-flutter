@@ -562,6 +562,7 @@ class LucideIcons {
   static const IconData eraser = LucideIconData(57999);
   static const IconData ethernetPort = LucideIconData(58916);
   static const IconData euro = LucideIconData(57528);
+  static const IconData evCharger = LucideIconData(59035);
   static const IconData expand = LucideIconData(57882);
   static const IconData externalLink = LucideIconData(57529);
   static const IconData eyeClosed = LucideIconData(58930);
