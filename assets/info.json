@@ -1013,6 +1013,12 @@
     "className": "icon-bird",
     "unicode": "&#58313;"
   },
+  "birdhouse": {
+    "encodedCode": "\\e69e",
+    "prefix": "icon",
+    "className": "icon-birdhouse",
+    "unicode": "&#59038;"
+  },
   "bitcoin": {
     "encodedCode": "\\e05b",
     "prefix": "icon",
@@ -4210,6 +4216,12 @@
     "prefix": "icon",
     "className": "icon-gamepad-2",
     "unicode": "&#57567;"
+  },
+  "gamepad-directional": {
+    "encodedCode": "\\e69f",
+    "prefix": "icon",
+    "className": "icon-gamepad-directional",
+    "unicode": "&#59039;"
   },
   "gamepad": {
     "encodedCode": "\\e0de",

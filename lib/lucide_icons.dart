@@ -177,6 +177,7 @@ class LucideIcons {
   static const IconData binoculars = LucideIconData(58917);
   static const IconData biohazard = LucideIconData(58437);
   static const IconData bird = LucideIconData(58313);
+  static const IconData birdhouse = LucideIconData(59038);
   static const IconData bitcoin = LucideIconData(57435);
   static const IconData blend = LucideIconData(58784);
   static const IconData blinds = LucideIconData(58308);
@@ -710,6 +711,7 @@ class LucideIcons {
   static const IconData galleryVerticalEnd = LucideIconData(58582);
   static const IconData galleryVertical = LucideIconData(58581);
   static const IconData gamepad2 = LucideIconData(57567);
+  static const IconData gamepadDirectional = LucideIconData(59039);
   static const IconData gamepad = LucideIconData(57566);
   static const IconData gauge = LucideIconData(57791);
   static const IconData gavel = LucideIconData(57568);
