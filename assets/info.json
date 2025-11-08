@@ -1913,6 +1913,42 @@
     "className": "icon-cherry",
     "unicode": "&#58192;"
   },
+  "chess-bishop": {
+    "encodedCode": "\\e6a0",
+    "prefix": "icon",
+    "className": "icon-chess-bishop",
+    "unicode": "&#59040;"
+  },
+  "chess-king": {
+    "encodedCode": "\\e6a1",
+    "prefix": "icon",
+    "className": "icon-chess-king",
+    "unicode": "&#59041;"
+  },
+  "chess-knight": {
+    "encodedCode": "\\e6a2",
+    "prefix": "icon",
+    "className": "icon-chess-knight",
+    "unicode": "&#59042;"
+  },
+  "chess-pawn": {
+    "encodedCode": "\\e6a3",
+    "prefix": "icon",
+    "className": "icon-chess-pawn",
+    "unicode": "&#59043;"
+  },
+  "chess-queen": {
+    "encodedCode": "\\e6a4",
+    "prefix": "icon",
+    "className": "icon-chess-queen",
+    "unicode": "&#59044;"
+  },
+  "chess-rook": {
+    "encodedCode": "\\e6a5",
+    "prefix": "icon",
+    "className": "icon-chess-rook",
+    "unicode": "&#59045;"
+  },
   "chevron-down": {
     "encodedCode": "\\e06d",
     "prefix": "icon",
@@ -6022,6 +6058,12 @@
     "prefix": "icon",
     "className": "icon-mouse-off",
     "unicode": "&#58843;"
+  },
+  "mouse-pointer-2-off": {
+    "encodedCode": "\\e6a6",
+    "prefix": "icon",
+    "className": "icon-mouse-pointer-2-off",
+    "unicode": "&#59046;"
   },
   "mouse-pointer-2": {
     "encodedCode": "\\e1c3",

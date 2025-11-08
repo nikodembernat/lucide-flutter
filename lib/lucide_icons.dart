@@ -327,6 +327,12 @@ class LucideIcons {
   static const IconData check = LucideIconData(57452);
   static const IconData chefHat = LucideIconData(58028);
   static const IconData cherry = LucideIconData(58192);
+  static const IconData chessBishop = LucideIconData(59040);
+  static const IconData chessKing = LucideIconData(59041);
+  static const IconData chessKnight = LucideIconData(59042);
+  static const IconData chessPawn = LucideIconData(59043);
+  static const IconData chessQueen = LucideIconData(59044);
+  static const IconData chessRook = LucideIconData(59045);
   static const IconData chevronDown = LucideIconData(57453);
   static const IconData chevronFirst = LucideIconData(57923);
   static const IconData chevronLast = LucideIconData(57924);
@@ -1012,6 +1018,7 @@ class LucideIcons {
   static const IconData mountainSnow = LucideIconData(57906);
   static const IconData mountain = LucideIconData(57905);
   static const IconData mouseOff = LucideIconData(58843);
+  static const IconData mousePointer2Off = LucideIconData(59046);
   static const IconData mousePointer2 = LucideIconData(57795);
   static const IconData mousePointerBan = LucideIconData(58855);
   static const IconData mousePointerClick = LucideIconData(57632);
