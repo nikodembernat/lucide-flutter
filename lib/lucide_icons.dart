@@ -277,6 +277,7 @@ class LucideIcons {
   static const IconData calendarX2 = LucideIconData(58047);
   static const IconData calendarX = LucideIconData(58046);
   static const IconData calendar = LucideIconData(57443);
+  static const IconData calendars = LucideIconData(59047);
   static const IconData cameraOff = LucideIconData(57445);
   static const IconData camera = LucideIconData(57444);
   static const IconData candyCane = LucideIconData(58554);
@@ -641,7 +642,7 @@ class LucideIcons {
   static const IconData file = LucideIconData(57536);
   static const IconData files = LucideIconData(57551);
   static const IconData film = LucideIconData(57552);
-  static const IconData fingerprint = LucideIconData(58059);
+  static const IconData fingerprintPattern = LucideIconData(58059);
   static const IconData fireExtinguisher = LucideIconData(58750);
   static const IconData fishOff = LucideIconData(58288);
   static const IconData fishSymbol = LucideIconData(58612);

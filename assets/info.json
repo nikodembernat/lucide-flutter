@@ -1613,6 +1613,12 @@
     "className": "icon-calendar",
     "unicode": "&#57443;"
   },
+  "calendars": {
+    "encodedCode": "\\e6a7",
+    "prefix": "icon",
+    "className": "icon-calendars",
+    "unicode": "&#59047;"
+  },
   "camera-off": {
     "encodedCode": "\\e065",
     "prefix": "icon",
@@ -3797,10 +3803,10 @@
     "className": "icon-film",
     "unicode": "&#57552;"
   },
-  "fingerprint": {
+  "fingerprint-pattern": {
     "encodedCode": "\\e2cb",
     "prefix": "icon",
-    "className": "icon-fingerprint",
+    "className": "icon-fingerprint-pattern",
     "unicode": "&#58059;"
   },
   "fire-extinguisher": {
