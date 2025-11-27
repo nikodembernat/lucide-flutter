@@ -700,6 +700,7 @@ class LucideIcons {
   static const IconData folders = LucideIconData(58175);
   static const IconData footprints = LucideIconData(58297);
   static const IconData forklift = LucideIconData(58305);
+  static const IconData form = LucideIconData(59048);
   static const IconData forward = LucideIconData(57897);
   static const IconData frame = LucideIconData(58001);
   static const IconData framer = LucideIconData(57562);
@@ -1625,6 +1626,8 @@ class LucideIcons {
   static const IconData warehouse = LucideIconData(58342);
   static const IconData washingMachine = LucideIconData(58768);
   static const IconData watch = LucideIconData(57773);
+  static const IconData wavesArrowDown = LucideIconData(59049);
+  static const IconData wavesArrowUp = LucideIconData(59050);
   static const IconData wavesLadder = LucideIconData(58939);
   static const IconData waves = LucideIconData(57987);
   static const IconData waypoints = LucideIconData(58690);

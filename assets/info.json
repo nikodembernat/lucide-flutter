@@ -4151,6 +4151,12 @@
     "className": "icon-forklift",
     "unicode": "&#58305;"
   },
+  "form": {
+    "encodedCode": "\\e6a8",
+    "prefix": "icon",
+    "className": "icon-form",
+    "unicode": "&#59048;"
+  },
   "forward": {
     "encodedCode": "\\e229",
     "prefix": "icon",
@@ -9700,6 +9706,18 @@
     "prefix": "icon",
     "className": "icon-watch",
     "unicode": "&#57773;"
+  },
+  "waves-arrow-down": {
+    "encodedCode": "\\e6a9",
+    "prefix": "icon",
+    "className": "icon-waves-arrow-down",
+    "unicode": "&#59049;"
+  },
+  "waves-arrow-up": {
+    "encodedCode": "\\e6aa",
+    "prefix": "icon",
+    "className": "icon-waves-arrow-up",
+    "unicode": "&#59050;"
   },
   "waves-ladder": {
     "encodedCode": "\\e63b",
