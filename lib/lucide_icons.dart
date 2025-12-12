@@ -285,6 +285,7 @@ class LucideIcons {
   static const IconData candyCane = LucideIconData(58554);
   static const IconData candyOff = LucideIconData(58258);
   static const IconData candy = LucideIconData(58257);
+  static const IconData cannabisOff = LucideIconData(59063);
   static const IconData cannabis = LucideIconData(58836);
   static const IconData captionsOff = LucideIconData(58817);
   static const IconData captions = LucideIconData(58276);

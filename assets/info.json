@@ -1661,6 +1661,12 @@
     "className": "icon-candy",
     "unicode": "&#58257;"
   },
+  "cannabis-off": {
+    "encodedCode": "\\e6b7",
+    "prefix": "icon",
+    "className": "icon-cannabis-off",
+    "unicode": "&#59063;"
+  },
   "cannabis": {
     "encodedCode": "\\e5d4",
     "prefix": "icon",
