@@ -1450,6 +1450,7 @@ class LucideIcons {
   static const IconData stethoscope = LucideIconData(58097);
   static const IconData sticker = LucideIconData(58114);
   static const IconData stickyNote = LucideIconData(58115);
+  static const IconData stone = LucideIconData(59064);
   static const IconData store = LucideIconData(58340);
   static const IconData stretchHorizontal = LucideIconData(57980);
   static const IconData stretchVertical = LucideIconData(57981);

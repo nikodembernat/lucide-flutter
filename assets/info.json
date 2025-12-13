@@ -8651,6 +8651,12 @@
     "className": "icon-sticky-note",
     "unicode": "&#58115;"
   },
+  "stone": {
+    "encodedCode": "\\e6b8",
+    "prefix": "icon",
+    "className": "icon-stone",
+    "unicode": "&#59064;"
+  },
   "store": {
     "encodedCode": "\\e3e4",
     "prefix": "icon",
