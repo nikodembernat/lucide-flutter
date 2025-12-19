@@ -9131,6 +9131,12 @@
     "className": "icon-tool-case",
     "unicode": "&#59005;"
   },
+  "toolbox": {
+    "encodedCode": "\\e6b9",
+    "prefix": "icon",
+    "className": "icon-toolbox",
+    "unicode": "&#59065;"
+  },
   "tornado": {
     "encodedCode": "\\e218",
     "prefix": "icon",

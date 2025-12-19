@@ -1530,6 +1530,7 @@ class LucideIcons {
   static const IconData toggleRight = LucideIconData(57740);
   static const IconData toilet = LucideIconData(58933);
   static const IconData toolCase = LucideIconData(59005);
+  static const IconData toolbox = LucideIconData(59065);
   static const IconData tornado = LucideIconData(57880);
   static const IconData torus = LucideIconData(58671);
   static const IconData touchpadOff = LucideIconData(58442);
