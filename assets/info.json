@@ -3041,6 +3041,12 @@
     "className": "icon-database-backup",
     "unicode": "&#58283;"
   },
+  "database-search": {
+    "encodedCode": "\\e6bc",
+    "prefix": "icon",
+    "className": "icon-database-search",
+    "unicode": "&#59068;"
+  },
   "database-zap": {
     "encodedCode": "\\e50b",
     "prefix": "icon",
@@ -4462,6 +4468,12 @@
     "prefix": "icon",
     "className": "icon-globe-lock",
     "unicode": "&#58829;"
+  },
+  "globe-x": {
+    "encodedCode": "\\e6ba",
+    "prefix": "icon",
+    "className": "icon-globe-x",
+    "unicode": "&#59066;"
   },
   "globe": {
     "encodedCode": "\\e0e8",
@@ -6995,6 +7007,12 @@
     "className": "icon-printer-check",
     "unicode": "&#58869;"
   },
+  "printer-x": {
+    "encodedCode": "\\e6bb",
+    "prefix": "icon",
+    "className": "icon-printer-x",
+    "unicode": "&#59067;"
+  },
   "printer": {
     "encodedCode": "\\e141",
     "prefix": "icon",
@@ -9479,6 +9497,12 @@
     "className": "icon-user-cog",
     "unicode": "&#58178;"
   },
+  "user-key": {
+    "encodedCode": "\\e6bd",
+    "prefix": "icon",
+    "className": "icon-user-key",
+    "unicode": "&#59069;"
+  },
   "user-lock": {
     "encodedCode": "\\e660",
     "prefix": "icon",
@@ -9514,6 +9538,12 @@
     "prefix": "icon",
     "className": "icon-user-round-cog",
     "unicode": "&#58474;"
+  },
+  "user-round-key": {
+    "encodedCode": "\\e6be",
+    "prefix": "icon",
+    "className": "icon-user-round-key",
+    "unicode": "&#59070;"
   },
   "user-round-minus": {
     "encodedCode": "\\e46b",

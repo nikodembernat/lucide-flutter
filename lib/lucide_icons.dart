@@ -515,6 +515,7 @@ class LucideIcons {
   static const IconData cylinder = LucideIconData(58661);
   static const IconData dam = LucideIconData(58886);
   static const IconData databaseBackup = LucideIconData(58283);
+  static const IconData databaseSearch = LucideIconData(59068);
   static const IconData databaseZap = LucideIconData(58635);
   static const IconData database = LucideIconData(57517);
   static const IconData decimalsArrowLeft = LucideIconData(58972);
@@ -752,6 +753,7 @@ class LucideIcons {
   static const IconData glassWater = LucideIconData(58069);
   static const IconData glasses = LucideIconData(57869);
   static const IconData globeLock = LucideIconData(58829);
+  static const IconData globeX = LucideIconData(59066);
   static const IconData globe = LucideIconData(57576);
   static const IconData goal = LucideIconData(58533);
   static const IconData gpu = LucideIconData(58986);
@@ -1174,6 +1176,7 @@ class LucideIcons {
   static const IconData power = LucideIconData(57664);
   static const IconData presentation = LucideIconData(58542);
   static const IconData printerCheck = LucideIconData(58869);
+  static const IconData printerX = LucideIconData(59067);
   static const IconData printer = LucideIconData(57665);
   static const IconData projector = LucideIconData(58543);
   static const IconData proportions = LucideIconData(58831);
@@ -1588,12 +1591,14 @@ class LucideIcons {
   static const IconData usb = LucideIconData(58198);
   static const IconData userCheck = LucideIconData(57760);
   static const IconData userCog = LucideIconData(58178);
+  static const IconData userKey = LucideIconData(59069);
   static const IconData userLock = LucideIconData(58976);
   static const IconData userMinus = LucideIconData(57761);
   static const IconData userPen = LucideIconData(58876);
   static const IconData userPlus = LucideIconData(57762);
   static const IconData userRoundCheck = LucideIconData(58473);
   static const IconData userRoundCog = LucideIconData(58474);
+  static const IconData userRoundKey = LucideIconData(59070);
   static const IconData userRoundMinus = LucideIconData(58475);
   static const IconData userRoundPen = LucideIconData(58877);
   static const IconData userRoundPlus = LucideIconData(58476);
