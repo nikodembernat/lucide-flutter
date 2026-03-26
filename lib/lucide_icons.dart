@@ -1106,6 +1106,7 @@ class LucideIcons {
   static const IconData mapPinPen = LucideIconData(58965);
   static const IconData mapPinPlusInside = LucideIconData(58900);
   static const IconData mapPinPlus = LucideIconData(58899);
+  static const IconData mapPinSearch = LucideIconData(59102);
   static const IconData mapPinXInside = LucideIconData(58902);
   static const IconData mapPinX = LucideIconData(58901);
   static const IconData mapPin = LucideIconData(57617);

@@ -6587,6 +6587,12 @@
     "className": "icon-map-pin-plus",
     "unicode": "&#58899;"
   },
+  "map-pin-search": {
+    "encodedCode": "\\e6de",
+    "prefix": "icon",
+    "className": "icon-map-pin-search",
+    "unicode": "&#59102;"
+  },
   "map-pin-x-inside": {
     "encodedCode": "\\e616",
     "prefix": "icon",
