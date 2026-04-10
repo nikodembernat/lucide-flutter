@@ -273,6 +273,7 @@ class LucideIcons {
   static const IconData book = LucideIconData(57438);
   static const IconData bookmarkCheck = LucideIconData(58655);
   static const IconData bookmarkMinus = LucideIconData(57916);
+  static const IconData bookmarkOff = LucideIconData(59103);
   static const IconData bookmarkPlus = LucideIconData(57917);
   static const IconData bookmarkX = LucideIconData(58656);
   static const IconData bookmark = LucideIconData(57440);
@@ -1626,6 +1627,7 @@ class LucideIcons {
   static const IconData squareDashedBottom = LucideIconData(58560);
   static const IconData squareDashedKanban = LucideIconData(57708);
   static const IconData squareDashedMousePointer = LucideIconData(58633);
+  static const IconData squareDashedText = LucideIconData(59103);
   static const IconData squareDashedTopSolid = LucideIconData(58988);
   static const IconData squareDashed = LucideIconData(57803);
   static const IconData squareDivide = LucideIconData(57709);
