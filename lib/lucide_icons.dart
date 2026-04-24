@@ -342,7 +342,7 @@ class LucideIcons {
   static const IconData candyCane = LucideIconData(58554);
   static const IconData candyOff = LucideIconData(58258);
   static const IconData candy = LucideIconData(58257);
-  static const IconData cannabisOff = LucideIconData(59055);
+  static const IconData cannabisOff = LucideIconData(59104);
   static const IconData cannabis = LucideIconData(58836);
   static const IconData captionsOff = LucideIconData(58817);
   static const IconData captions = LucideIconData(58276);
@@ -457,7 +457,7 @@ class LucideIcons {
   static const IconData circleParking = LucideIconData(58313);
   static const IconData circlePause = LucideIconData(57471);
   static const IconData circlePercent = LucideIconData(58650);
-  static const IconData circlePile = LucideIconData(59055);
+  static const IconData circlePile = LucideIconData(59105);
   static const IconData circlePlay = LucideIconData(57472);
   static const IconData circlePlus = LucideIconData(57473);
   static const IconData circlePoundSterling = LucideIconData(58989);
@@ -511,7 +511,7 @@ class LucideIcons {
   static const IconData clock = LucideIconData(57479);
   static const IconData closedCaption = LucideIconData(59018);
   static const IconData cloudAlert = LucideIconData(58931);
-  static const IconData cloudBackup = LucideIconData(59055);
+  static const IconData cloudBackup = LucideIconData(59106);
   static const IconData cloudCheck = LucideIconData(58990);
   static const IconData cloudCog = LucideIconData(58122);
   static const IconData cloudDownload = LucideIconData(57481);
@@ -527,7 +527,7 @@ class LucideIcons {
   static const IconData cloudSnow = LucideIconData(57488);
   static const IconData cloudSunRain = LucideIconData(58107);
   static const IconData cloudSun = LucideIconData(57878);
-  static const IconData cloudSync = LucideIconData(59055);
+  static const IconData cloudSync = LucideIconData(59107);
   static const IconData cloudUpload = LucideIconData(57489);
   static const IconData cloud = LucideIconData(57480);
   static const IconData cloudy = LucideIconData(57879);
@@ -767,7 +767,7 @@ class LucideIcons {
   static const IconData fishOff = LucideIconData(58288);
   static const IconData fishSymbol = LucideIconData(58612);
   static const IconData fish = LucideIconData(58278);
-  static const IconData fishingHook = LucideIconData(59055);
+  static const IconData fishingHook = LucideIconData(59108);
   static const IconData fishingRod = LucideIconData(59059);
   static const IconData flagOff = LucideIconData(58002);
   static const IconData flagTriangleLeft = LucideIconData(57911);
@@ -845,7 +845,7 @@ class LucideIcons {
   static const IconData gamepad2 = LucideIconData(57567);
   static const IconData gamepadDirectional = LucideIconData(59035);
   static const IconData gamepad = LucideIconData(57566);
-  static const IconData ganttChartSquare = LucideIconData(58916);
+  static const IconData ganttChartSquare = LucideIconData(57705);
   static const IconData ganttChart = LucideIconData(58564);
   static const IconData gaugeCircle = LucideIconData(58593);
   static const IconData gauge = LucideIconData(57791);
@@ -921,7 +921,7 @@ class LucideIcons {
   static const IconData hash = LucideIconData(57583);
   static const IconData hatGlasses = LucideIconData(59011);
   static const IconData haze = LucideIconData(57584);
-  static const IconData hd = LucideIconData(59055);
+  static const IconData hd = LucideIconData(59109);
   static const IconData hdmiPort = LucideIconData(58599);
   static const IconData heading1 = LucideIconData(58245);
   static const IconData heading2 = LucideIconData(58246);
@@ -1016,7 +1016,7 @@ class LucideIcons {
   static const IconData laugh = LucideIconData(58112);
   static const IconData layers2 = LucideIconData(58666);
   static const IconData layers3 = LucideIconData(58665);
-  static const IconData layersPlus = LucideIconData(59055);
+  static const IconData layersPlus = LucideIconData(59110);
   static const IconData layers = LucideIconData(58665);
   static const IconData layoutDashboard = LucideIconData(57793);
   static const IconData layoutGrid = LucideIconData(57599);
@@ -1488,7 +1488,7 @@ class LucideIcons {
   static const IconData screenShare = LucideIconData(57679);
   static const IconData scrollText = LucideIconData(58463);
   static const IconData scroll = LucideIconData(58093);
-  static const IconData searchAlert = LucideIconData(59055);
+  static const IconData searchAlert = LucideIconData(59111);
   static const IconData searchCheck = LucideIconData(58538);
   static const IconData searchCode = LucideIconData(58539);
   static const IconData searchSlash = LucideIconData(58540);
@@ -1517,8 +1517,8 @@ class LucideIcons {
   static const IconData shieldBan = LucideIconData(57689);
   static const IconData shieldCheck = LucideIconData(57855);
   static const IconData shieldClose = LucideIconData(57856);
-  static const IconData shieldCogCorner = LucideIconData(59098);
-  static const IconData shieldCog = LucideIconData(59098);
+  static const IconData shieldCogCorner = LucideIconData(59112);
+  static const IconData shieldCog = LucideIconData(59113);
   static const IconData shieldEllipsis = LucideIconData(58646);
   static const IconData shieldHalf = LucideIconData(58647);
   static const IconData shieldMinus = LucideIconData(58648);
@@ -1627,7 +1627,7 @@ class LucideIcons {
   static const IconData squareDashedBottom = LucideIconData(58560);
   static const IconData squareDashedKanban = LucideIconData(57708);
   static const IconData squareDashedMousePointer = LucideIconData(58633);
-  static const IconData squareDashedText = LucideIconData(59103);
+  static const IconData squareDashedText = LucideIconData(59114);
   static const IconData squareDashedTopSolid = LucideIconData(58988);
   static const IconData squareDashed = LucideIconData(57803);
   static const IconData squareDivide = LucideIconData(57709);
@@ -1684,7 +1684,7 @@ class LucideIcons {
   static const IconData stethoscope = LucideIconData(58097);
   static const IconData sticker = LucideIconData(58114);
   static const IconData stickyNote = LucideIconData(58115);
-  static const IconData stone = LucideIconData(59055);
+  static const IconData stone = LucideIconData(59115);
   static const IconData stopCircle = LucideIconData(57475);
   static const IconData store = LucideIconData(58340);
   static const IconData stretchHorizontal = LucideIconData(57980);
@@ -1745,7 +1745,7 @@ class LucideIcons {
   static const IconData textInitial = LucideIconData(58885);
   static const IconData textQuote = LucideIconData(58526);
   static const IconData textSearch = LucideIconData(58797);
-  static const IconData textSelect = LucideIconData(58334);
+  static const IconData textSelect = LucideIconData(59114);
   static const IconData textSelection = LucideIconData(58334);
   static const IconData textWrap = LucideIconData(57928);
   static const IconData text = LucideIconData(57733);
@@ -1764,6 +1764,7 @@ class LucideIcons {
   static const IconData ticket = LucideIconData(57871);
   static const IconData ticketsPlane = LucideIconData(58915);
   static const IconData tickets = LucideIconData(58914);
+  static const IconData timeline = LucideIconData(59116);
   static const IconData timerOff = LucideIconData(57929);
   static const IconData timerReset = LucideIconData(57910);
   static const IconData timer = LucideIconData(57824);
