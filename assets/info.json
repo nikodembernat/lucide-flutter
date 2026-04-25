@@ -1223,6 +1223,12 @@
     "className": "icon-beer",
     "unicode": "&#58063;"
   },
+  "bell-check": {
+    "encodedCode": "\\e6ef",
+    "prefix": "icon",
+    "className": "icon-bell-check",
+    "unicode": "&#59119;"
+  },
   "bell-dot": {
     "encodedCode": "\\e42b",
     "prefix": "icon",
@@ -5585,6 +5591,12 @@
     "className": "icon-heart-pulse",
     "unicode": "&#58222;"
   },
+  "heart-x": {
+    "encodedCode": "\\e6ed",
+    "prefix": "icon",
+    "className": "icon-heart-x",
+    "unicode": "&#59117;"
+  },
   "heart": {
     "encodedCode": "\\e0f2",
     "prefix": "icon",
@@ -6046,6 +6058,12 @@
     "prefix": "icon",
     "className": "icon-layers-3",
     "unicode": "&#58665;"
+  },
+  "layers-minus": {
+    "encodedCode": "\\e6ee",
+    "prefix": "icon",
+    "className": "icon-layers-minus",
+    "unicode": "&#59118;"
   },
   "layers-plus": {
     "encodedCode": "\\e6e6",

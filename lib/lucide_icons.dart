@@ -212,6 +212,7 @@ class LucideIcons {
   static const IconData beef = LucideIconData(58277);
   static const IconData beerOff = LucideIconData(58841);
   static const IconData beer = LucideIconData(58063);
+  static const IconData bellCheck = LucideIconData(59119);
   static const IconData bellDot = LucideIconData(58411);
   static const IconData bellElectric = LucideIconData(58748);
   static const IconData bellMinus = LucideIconData(57840);
@@ -939,6 +940,7 @@ class LucideIcons {
   static const IconData heartOff = LucideIconData(58005);
   static const IconData heartPlus = LucideIconData(58962);
   static const IconData heartPulse = LucideIconData(58222);
+  static const IconData heartX = LucideIconData(59117);
   static const IconData heart = LucideIconData(57586);
   static const IconData heater = LucideIconData(58766);
   static const IconData helicopter = LucideIconData(59037);
@@ -1016,6 +1018,7 @@ class LucideIcons {
   static const IconData laugh = LucideIconData(58112);
   static const IconData layers2 = LucideIconData(58666);
   static const IconData layers3 = LucideIconData(58665);
+  static const IconData layersMinus = LucideIconData(59118);
   static const IconData layersPlus = LucideIconData(59110);
   static const IconData layers = LucideIconData(58665);
   static const IconData layoutDashboard = LucideIconData(57793);
