@@ -827,6 +827,12 @@
     "className": "icon-asterisk",
     "unicode": "&#57839;"
   },
+  "astroid": {
+    "encodedCode": "\\e6f0",
+    "prefix": "icon",
+    "className": "icon-astroid",
+    "unicode": "&#59120;"
+  },
   "at-sign": {
     "encodedCode": "\\e04e",
     "prefix": "icon",
@@ -4696,6 +4702,12 @@
     "prefix": "icon",
     "className": "icon-folder-archive",
     "unicode": "&#58157;"
+  },
+  "folder-bookmark": {
+    "encodedCode": "\\e6f1",
+    "prefix": "icon",
+    "className": "icon-folder-bookmark",
+    "unicode": "&#59121;"
   },
   "folder-check": {
     "encodedCode": "\\e32e",

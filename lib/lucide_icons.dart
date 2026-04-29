@@ -146,6 +146,7 @@ class LucideIcons {
   static const IconData arrowsUpFromLine = LucideIconData(58580);
   static const IconData asteriskSquare = LucideIconData(57704);
   static const IconData asterisk = LucideIconData(57839);
+  static const IconData astroid = LucideIconData(59120);
   static const IconData atSign = LucideIconData(57422);
   static const IconData atom = LucideIconData(58327);
   static const IconData audioLines = LucideIconData(58714);
@@ -791,6 +792,7 @@ class LucideIcons {
   static const IconData foldHorizontal = LucideIconData(58427);
   static const IconData foldVertical = LucideIconData(58428);
   static const IconData folderArchive = LucideIconData(58157);
+  static const IconData folderBookmark = LucideIconData(59121);
   static const IconData folderCheck = LucideIconData(58158);
   static const IconData folderClock = LucideIconData(58159);
   static const IconData folderClosed = LucideIconData(58160);
