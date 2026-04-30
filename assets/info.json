@@ -8525,6 +8525,12 @@
     "className": "icon-repeat-2",
     "unicode": "&#58385;"
   },
+  "repeat-off": {
+    "encodedCode": "\\e6f3",
+    "prefix": "icon",
+    "className": "icon-repeat-off",
+    "unicode": "&#59123;"
+  },
   "repeat": {
     "encodedCode": "\\e146",
     "prefix": "icon",
@@ -11399,11 +11405,23 @@
     "className": "icon-waves-arrow-up",
     "unicode": "&#59050;"
   },
+  "waves-horizontal": {
+    "encodedCode": "\\e283",
+    "prefix": "icon",
+    "className": "icon-waves-horizontal",
+    "unicode": "&#57987;"
+  },
   "waves-ladder": {
     "encodedCode": "\\e63b",
     "prefix": "icon",
     "className": "icon-waves-ladder",
     "unicode": "&#58939;"
+  },
+  "waves-vertical": {
+    "encodedCode": "\\e6f2",
+    "prefix": "icon",
+    "className": "icon-waves-vertical",
+    "unicode": "&#59122;"
   },
   "waves": {
     "encodedCode": "\\e283",

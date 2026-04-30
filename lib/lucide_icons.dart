@@ -1429,6 +1429,7 @@ class LucideIcons {
   static const IconData removeFormatting = LucideIconData(58291);
   static const IconData repeat1 = LucideIconData(57853);
   static const IconData repeat2 = LucideIconData(58385);
+  static const IconData repeatOff = LucideIconData(59123);
   static const IconData repeat = LucideIconData(57670);
   static const IconData replaceAll = LucideIconData(58332);
   static const IconData replace = LucideIconData(58331);
@@ -1908,7 +1909,9 @@ class LucideIcons {
   static const IconData watch = LucideIconData(57773);
   static const IconData wavesArrowDown = LucideIconData(59049);
   static const IconData wavesArrowUp = LucideIconData(59050);
+  static const IconData wavesHorizontal = LucideIconData(57987);
   static const IconData wavesLadder = LucideIconData(58939);
+  static const IconData wavesVertical = LucideIconData(59122);
   static const IconData waves = LucideIconData(57987);
   static const IconData waypoints = LucideIconData(58690);
   static const IconData webcam = LucideIconData(57861);
