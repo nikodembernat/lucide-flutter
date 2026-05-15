@@ -1367,6 +1367,12 @@
     "className": "icon-blend",
     "unicode": "&#58780;"
   },
+  "blender": {
+    "encodedCode": "\\e6f4",
+    "prefix": "icon",
+    "className": "icon-blender",
+    "unicode": "&#59124;"
+  },
   "blinds": {
     "encodedCode": "\\e3c0",
     "prefix": "icon",
@@ -1756,6 +1762,12 @@
     "prefix": "icon",
     "className": "icon-bring-to-front",
     "unicode": "&#58607;"
+  },
+  "broccoli": {
+    "encodedCode": "\\e6f5",
+    "prefix": "icon",
+    "className": "icon-broccoli",
+    "unicode": "&#59125;"
   },
   "brush-cleaning": {
     "encodedCode": "\\e666",
@@ -10085,11 +10097,47 @@
     "className": "icon-sticker",
     "unicode": "&#58114;"
   },
+  "sticky-note-check": {
+    "encodedCode": "\\e6f6",
+    "prefix": "icon",
+    "className": "icon-sticky-note-check",
+    "unicode": "&#59126;"
+  },
+  "sticky-note-minus": {
+    "encodedCode": "\\e6f7",
+    "prefix": "icon",
+    "className": "icon-sticky-note-minus",
+    "unicode": "&#59127;"
+  },
+  "sticky-note-off": {
+    "encodedCode": "\\e6f8",
+    "prefix": "icon",
+    "className": "icon-sticky-note-off",
+    "unicode": "&#59128;"
+  },
+  "sticky-note-plus": {
+    "encodedCode": "\\e6f9",
+    "prefix": "icon",
+    "className": "icon-sticky-note-plus",
+    "unicode": "&#59129;"
+  },
+  "sticky-note-x": {
+    "encodedCode": "\\e6fa",
+    "prefix": "icon",
+    "className": "icon-sticky-note-x",
+    "unicode": "&#59130;"
+  },
   "sticky-note": {
     "encodedCode": "\\e303",
     "prefix": "icon",
     "className": "icon-sticky-note",
     "unicode": "&#58115;"
+  },
+  "sticky-notes": {
+    "encodedCode": "\\e6fb",
+    "prefix": "icon",
+    "className": "icon-sticky-notes",
+    "unicode": "&#59131;"
   },
   "stone": {
     "encodedCode": "\\e6eb",

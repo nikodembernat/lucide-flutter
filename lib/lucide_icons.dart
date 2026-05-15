@@ -236,6 +236,7 @@ class LucideIcons {
   static const IconData birdhouse = LucideIconData(59034);
   static const IconData bitcoin = LucideIconData(57435);
   static const IconData blend = LucideIconData(58780);
+  static const IconData blender = LucideIconData(59124);
   static const IconData blinds = LucideIconData(58304);
   static const IconData blocks = LucideIconData(58618);
   static const IconData bluetoothConnected = LucideIconData(57784);
@@ -301,6 +302,7 @@ class LucideIcons {
   static const IconData briefcaseMedical = LucideIconData(58838);
   static const IconData briefcase = LucideIconData(57442);
   static const IconData bringToFront = LucideIconData(58607);
+  static const IconData broccoli = LucideIconData(59125);
   static const IconData brushCleaning = LucideIconData(58982);
   static const IconData brush = LucideIconData(57811);
   static const IconData bubbles = LucideIconData(58964);
@@ -1689,7 +1691,13 @@ class LucideIcons {
   static const IconData stepForward = LucideIconData(58346);
   static const IconData stethoscope = LucideIconData(58097);
   static const IconData sticker = LucideIconData(58114);
+  static const IconData stickyNoteCheck = LucideIconData(59126);
+  static const IconData stickyNoteMinus = LucideIconData(59127);
+  static const IconData stickyNoteOff = LucideIconData(59128);
+  static const IconData stickyNotePlus = LucideIconData(59129);
+  static const IconData stickyNoteX = LucideIconData(59130);
   static const IconData stickyNote = LucideIconData(58115);
+  static const IconData stickyNotes = LucideIconData(59131);
   static const IconData stone = LucideIconData(59115);
   static const IconData stopCircle = LucideIconData(57475);
   static const IconData store = LucideIconData(58340);
