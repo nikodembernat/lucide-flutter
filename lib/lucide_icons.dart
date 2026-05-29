@@ -880,6 +880,7 @@ class LucideIcons {
   static const IconData glassWater = LucideIconData(58069);
   static const IconData glasses = LucideIconData(57869);
   static const IconData globe2 = LucideIconData(57843);
+  static const IconData globeCheck = LucideIconData(59132);
   static const IconData globeLock = LucideIconData(58829);
   static const IconData globeOff = LucideIconData(59061);
   static const IconData globeX = LucideIconData(59062);
@@ -1303,6 +1304,7 @@ class LucideIcons {
   static const IconData panelsTopBottom = LucideIconData(58762);
   static const IconData panelsTopLeft = LucideIconData(57644);
   static const IconData paperclip = LucideIconData(57645);
+  static const IconData parasol = LucideIconData(59133);
   static const IconData parentheses = LucideIconData(58436);
   static const IconData parkingCircleOff = LucideIconData(58314);
   static const IconData parkingCircle = LucideIconData(58313);

@@ -5231,6 +5231,12 @@
     "className": "icon-globe-2",
     "unicode": "&#57843;"
   },
+  "globe-check": {
+    "encodedCode": "\\e6fc",
+    "prefix": "icon",
+    "className": "icon-globe-check",
+    "unicode": "&#59132;"
+  },
   "globe-lock": {
     "encodedCode": "\\e5cd",
     "prefix": "icon",
@@ -7768,6 +7774,12 @@
     "prefix": "icon",
     "className": "icon-paperclip",
     "unicode": "&#57645;"
+  },
+  "parasol": {
+    "encodedCode": "\\e6fd",
+    "prefix": "icon",
+    "className": "icon-parasol",
+    "unicode": "&#59133;"
   },
   "parentheses": {
     "encodedCode": "\\e444",
