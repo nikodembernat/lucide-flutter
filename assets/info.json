@@ -8129,6 +8129,12 @@
     "className": "icon-play-circle",
     "unicode": "&#57472;"
   },
+  "play-off": {
+    "encodedCode": "\\e6fe",
+    "prefix": "icon",
+    "className": "icon-play-off",
+    "unicode": "&#59134;"
+  },
   "play-square": {
     "encodedCode": "\\e481",
     "prefix": "icon",
@@ -11494,6 +11500,12 @@
     "prefix": "icon",
     "className": "icon-waypoints",
     "unicode": "&#58690;"
+  },
+  "webcam-off": {
+    "encodedCode": "\\e6ff",
+    "prefix": "icon",
+    "className": "icon-webcam-off",
+    "unicode": "&#59135;"
   },
   "webcam": {
     "encodedCode": "\\e205",

@@ -1363,6 +1363,7 @@ class LucideIcons {
   static const IconData planeTakeoff = LucideIconData(58318);
   static const IconData plane = LucideIconData(57822);
   static const IconData playCircle = LucideIconData(57472);
+  static const IconData playOff = LucideIconData(59134);
   static const IconData playSquare = LucideIconData(58497);
   static const IconData play = LucideIconData(57660);
   static const IconData plug2 = LucideIconData(58240);
@@ -1924,6 +1925,7 @@ class LucideIcons {
   static const IconData wavesVertical = LucideIconData(59122);
   static const IconData waves = LucideIconData(57987);
   static const IconData waypoints = LucideIconData(58690);
+  static const IconData webcamOff = LucideIconData(59135);
   static const IconData webcam = LucideIconData(57861);
   static const IconData webhookOff = LucideIconData(58807);
   static const IconData webhook = LucideIconData(58228);
