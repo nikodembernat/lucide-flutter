@@ -35,6 +35,12 @@
     "className": "icon-activity",
     "unicode": "&#57400;"
   },
+  "ad": {
+    "encodedCode": "\\e700",
+    "prefix": "icon",
+    "className": "icon-ad",
+    "unicode": "&#59136;"
+  },
   "air-vent": {
     "encodedCode": "\\e34d",
     "prefix": "icon",
@@ -3977,6 +3983,12 @@
     "className": "icon-eye-closed",
     "unicode": "&#58926;"
   },
+  "eye-dashed": {
+    "encodedCode": "\\e701",
+    "prefix": "icon",
+    "className": "icon-eye-dashed",
+    "unicode": "&#59137;"
+  },
   "eye-off": {
     "encodedCode": "\\e0bb",
     "prefix": "icon",
@@ -6359,6 +6371,18 @@
     "className": "icon-list-restart",
     "unicode": "&#58450;"
   },
+  "list-sort-ascending": {
+    "encodedCode": "\\e702",
+    "prefix": "icon",
+    "className": "icon-list-sort-ascending",
+    "unicode": "&#59138;"
+  },
+  "list-sort-descending": {
+    "encodedCode": "\\e703",
+    "prefix": "icon",
+    "className": "icon-list-sort-descending",
+    "unicode": "&#59139;"
+  },
   "list-start": {
     "encodedCode": "\\e2e1",
     "prefix": "icon",
@@ -8201,6 +8225,12 @@
     "className": "icon-podcast",
     "unicode": "&#57850;"
   },
+  "podium": {
+    "encodedCode": "\\e704",
+    "prefix": "icon",
+    "className": "icon-podium",
+    "unicode": "&#59140;"
+  },
   "pointer-off": {
     "encodedCode": "\\e57f",
     "prefix": "icon",
@@ -8788,6 +8818,18 @@
     "prefix": "icon",
     "className": "icon-save-off",
     "unicode": "&#58867;"
+  },
+  "save-pen": {
+    "encodedCode": "\\e705",
+    "prefix": "icon",
+    "className": "icon-save-pen",
+    "unicode": "&#59141;"
+  },
+  "save-plus": {
+    "encodedCode": "\\e706",
+    "prefix": "icon",
+    "className": "icon-save-plus",
+    "unicode": "&#59142;"
   },
   "save": {
     "encodedCode": "\\e14d",
@@ -10067,17 +10109,41 @@
     "className": "icon-stamp",
     "unicode": "&#58299;"
   },
+  "star-check": {
+    "encodedCode": "\\e707",
+    "prefix": "icon",
+    "className": "icon-star-check",
+    "unicode": "&#59143;"
+  },
   "star-half": {
     "encodedCode": "\\e20b",
     "prefix": "icon",
     "className": "icon-star-half",
     "unicode": "&#57867;"
   },
+  "star-minus": {
+    "encodedCode": "\\e708",
+    "prefix": "icon",
+    "className": "icon-star-minus",
+    "unicode": "&#59144;"
+  },
   "star-off": {
     "encodedCode": "\\e2b0",
     "prefix": "icon",
     "className": "icon-star-off",
     "unicode": "&#58032;"
+  },
+  "star-plus": {
+    "encodedCode": "\\e709",
+    "prefix": "icon",
+    "className": "icon-star-plus",
+    "unicode": "&#59145;"
+  },
+  "star-x": {
+    "encodedCode": "\\e70a",
+    "prefix": "icon",
+    "className": "icon-star-x",
+    "unicode": "&#59146;"
   },
   "star": {
     "encodedCode": "\\e176",
@@ -11644,6 +11710,12 @@
     "prefix": "icon",
     "className": "icon-wrap-text",
     "unicode": "&#57928;"
+  },
+  "wrench-off": {
+    "encodedCode": "\\e70b",
+    "prefix": "icon",
+    "className": "icon-wrench-off",
+    "unicode": "&#59147;"
   },
   "wrench": {
     "encodedCode": "\\e1b1",

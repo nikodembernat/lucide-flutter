@@ -14,6 +14,7 @@ class LucideIcons {
   static const IconData accessibility = LucideIconData(58007);
   static const IconData activitySquare = LucideIconData(58548);
   static const IconData activity = LucideIconData(57400);
+  static const IconData ad = LucideIconData(59136);
   static const IconData airVent = LucideIconData(58189);
   static const IconData airplay = LucideIconData(57401);
   static const IconData alarmCheck = LucideIconData(57836);
@@ -671,6 +672,7 @@ class LucideIcons {
   static const IconData expand = LucideIconData(57882);
   static const IconData externalLink = LucideIconData(57529);
   static const IconData eyeClosed = LucideIconData(58926);
+  static const IconData eyeDashed = LucideIconData(59137);
   static const IconData eyeOff = LucideIconData(57531);
   static const IconData eye = LucideIconData(57530);
   static const IconData factory = LucideIconData(58015);
@@ -1068,6 +1070,8 @@ class LucideIcons {
   static const IconData listOrdered = LucideIconData(57809);
   static const IconData listPlus = LucideIconData(57919);
   static const IconData listRestart = LucideIconData(58450);
+  static const IconData listSortAscending = LucideIconData(59138);
+  static const IconData listSortDescending = LucideIconData(59139);
   static const IconData listStart = LucideIconData(58081);
   static const IconData listTodo = LucideIconData(58563);
   static const IconData listTree = LucideIconData(58376);
@@ -1375,6 +1379,7 @@ class LucideIcons {
   static const IconData plus = LucideIconData(57661);
   static const IconData pocketKnife = LucideIconData(58528);
   static const IconData podcast = LucideIconData(57850);
+  static const IconData podium = LucideIconData(59140);
   static const IconData pointerOff = LucideIconData(58751);
   static const IconData pointer = LucideIconData(57832);
   static const IconData popcorn = LucideIconData(58558);
@@ -1473,6 +1478,8 @@ class LucideIcons {
   static const IconData saudiRiyal = LucideIconData(58955);
   static const IconData saveAll = LucideIconData(58383);
   static const IconData saveOff = LucideIconData(58867);
+  static const IconData savePen = LucideIconData(59141);
+  static const IconData savePlus = LucideIconData(59142);
   static const IconData save = LucideIconData(57677);
   static const IconData scale3D = LucideIconData(58091);
   static const IconData scale3d = LucideIconData(58091);
@@ -1686,8 +1693,12 @@ class LucideIcons {
   static const IconData squircle = LucideIconData(58746);
   static const IconData squirrel = LucideIconData(58527);
   static const IconData stamp = LucideIconData(58299);
+  static const IconData starCheck = LucideIconData(59143);
   static const IconData starHalf = LucideIconData(57867);
+  static const IconData starMinus = LucideIconData(59144);
   static const IconData starOff = LucideIconData(58032);
+  static const IconData starPlus = LucideIconData(59145);
+  static const IconData starX = LucideIconData(59146);
   static const IconData star = LucideIconData(57718);
   static const IconData stars = LucideIconData(58386);
   static const IconData stepBack = LucideIconData(58345);
@@ -1949,6 +1960,7 @@ class LucideIcons {
   static const IconData workflow = LucideIconData(58405);
   static const IconData worm = LucideIconData(58842);
   static const IconData wrapText = LucideIconData(57928);
+  static const IconData wrenchOff = LucideIconData(59147);
   static const IconData wrench = LucideIconData(57777);
   static const IconData xCircle = LucideIconData(57476);
   static const IconData xLineTop = LucideIconData(59082);
