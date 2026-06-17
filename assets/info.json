@@ -1055,6 +1055,12 @@
     "className": "icon-banknote-arrow-up",
     "unicode": "&#58957;"
   },
+  "banknote-check": {
+    "encodedCode": "\\e70c",
+    "prefix": "icon",
+    "className": "icon-banknote-check",
+    "unicode": "&#59148;"
+  },
   "banknote-x": {
     "encodedCode": "\\e64e",
     "prefix": "icon",
@@ -3004,6 +3010,18 @@
     "prefix": "icon",
     "className": "icon-clock-arrow-down",
     "unicode": "&#58880;"
+  },
+  "clock-arrow-left": {
+    "encodedCode": "\\e70d",
+    "prefix": "icon",
+    "className": "icon-clock-arrow-left",
+    "unicode": "&#59149;"
+  },
+  "clock-arrow-right": {
+    "encodedCode": "\\e70e",
+    "prefix": "icon",
+    "className": "icon-clock-arrow-right",
+    "unicode": "&#59150;"
   },
   "clock-arrow-up": {
     "encodedCode": "\\e601",
@@ -7931,6 +7949,12 @@
     "className": "icon-pencil-ruler",
     "unicode": "&#58609;"
   },
+  "pencil-sparkles": {
+    "encodedCode": "\\e70f",
+    "prefix": "icon",
+    "className": "icon-pencil-sparkles",
+    "unicode": "&#59151;"
+  },
   "pencil": {
     "encodedCode": "\\e1f9",
     "prefix": "icon",
@@ -8812,6 +8836,12 @@
     "prefix": "icon",
     "className": "icon-save-all",
     "unicode": "&#58383;"
+  },
+  "save-check": {
+    "encodedCode": "\\e710",
+    "prefix": "icon",
+    "className": "icon-save-check",
+    "unicode": "&#59152;"
   },
   "save-off": {
     "encodedCode": "\\e5f3",
@@ -10271,6 +10301,12 @@
     "className": "icon-subtitles",
     "unicode": "&#58276;"
   },
+  "summary": {
+    "encodedCode": "\\e711",
+    "prefix": "icon",
+    "className": "icon-summary",
+    "unicode": "&#59153;"
+  },
   "sun-dim": {
     "encodedCode": "\\e299",
     "prefix": "icon",
@@ -10426,6 +10462,18 @@
     "prefix": "icon",
     "className": "icon-tablets",
     "unicode": "&#58302;"
+  },
+  "tag-plus": {
+    "encodedCode": "\\e712",
+    "prefix": "icon",
+    "className": "icon-tag-plus",
+    "unicode": "&#59154;"
+  },
+  "tag-x": {
+    "encodedCode": "\\e713",
+    "prefix": "icon",
+    "className": "icon-tag-x",
+    "unicode": "&#59155;"
   },
   "tag": {
     "encodedCode": "\\e17f",
@@ -11188,6 +11236,12 @@
     "prefix": "icon",
     "className": "icon-user-plus",
     "unicode": "&#57762;"
+  },
+  "user-round-arrow-left": {
+    "encodedCode": "\\e714",
+    "prefix": "icon",
+    "className": "icon-user-round-arrow-left",
+    "unicode": "&#59156;"
   },
   "user-round-check": {
     "encodedCode": "\\e469",
