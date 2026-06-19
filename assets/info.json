@@ -1439,6 +1439,12 @@
     "className": "icon-bomb",
     "unicode": "&#58111;"
   },
+  "bone-fracture": {
+    "encodedCode": "\\e715",
+    "prefix": "icon",
+    "className": "icon-bone-fracture",
+    "unicode": "&#59157;"
+  },
   "bone": {
     "encodedCode": "\\e358",
     "prefix": "icon",

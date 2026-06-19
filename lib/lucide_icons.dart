@@ -245,6 +245,7 @@ class LucideIcons {
   static const IconData bold = LucideIconData._(IconData(57437, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bolt = LucideIconData._(IconData(58764, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bomb = LucideIconData._(IconData(58111, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData boneFracture = LucideIconData._(IconData(59157, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bone = LucideIconData._(IconData(58200, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookA = LucideIconData._(IconData(58692, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookAlert = LucideIconData._(IconData(58994, fontFamily: _fontFamily, fontPackage: _fontPackage));
