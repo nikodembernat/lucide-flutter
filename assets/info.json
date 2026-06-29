@@ -3551,17 +3551,53 @@
     "className": "icon-dam",
     "unicode": "&#58886;"
   },
+  "database-arrow-down": {
+    "encodedCode": "\\e716",
+    "prefix": "icon",
+    "className": "icon-database-arrow-down",
+    "unicode": "&#59158;"
+  },
+  "database-arrow-up": {
+    "encodedCode": "\\e717",
+    "prefix": "icon",
+    "className": "icon-database-arrow-up",
+    "unicode": "&#59159;"
+  },
   "database-backup": {
     "encodedCode": "\\e3ab",
     "prefix": "icon",
     "className": "icon-database-backup",
     "unicode": "&#58283;"
   },
+  "database-check": {
+    "encodedCode": "\\e718",
+    "prefix": "icon",
+    "className": "icon-database-check",
+    "unicode": "&#59160;"
+  },
+  "database-minus": {
+    "encodedCode": "\\e719",
+    "prefix": "icon",
+    "className": "icon-database-minus",
+    "unicode": "&#59161;"
+  },
+  "database-plus": {
+    "encodedCode": "\\e71a",
+    "prefix": "icon",
+    "className": "icon-database-plus",
+    "unicode": "&#59162;"
+  },
   "database-search": {
     "encodedCode": "\\e6b1",
     "prefix": "icon",
     "className": "icon-database-search",
     "unicode": "&#59057;"
+  },
+  "database-x": {
+    "encodedCode": "\\e71b",
+    "prefix": "icon",
+    "className": "icon-database-x",
+    "unicode": "&#59163;"
   },
   "database-zap": {
     "encodedCode": "\\e50b",
@@ -8002,6 +8038,12 @@
     "prefix": "icon",
     "className": "icon-person-standing",
     "unicode": "&#57886;"
+  },
+  "phi": {
+    "encodedCode": "\\e71c",
+    "prefix": "icon",
+    "className": "icon-phi",
+    "unicode": "&#59164;"
   },
   "philippine-peso": {
     "encodedCode": "\\e604",

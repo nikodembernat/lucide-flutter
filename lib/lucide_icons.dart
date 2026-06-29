@@ -597,8 +597,14 @@ class LucideIcons {
   static const IconData currency = LucideIconData._(IconData(57904, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cylinder = LucideIconData._(IconData(58661, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData dam = LucideIconData._(IconData(58886, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData databaseArrowDown = LucideIconData._(IconData(59158, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData databaseArrowUp = LucideIconData._(IconData(59159, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData databaseBackup = LucideIconData._(IconData(58283, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData databaseCheck = LucideIconData._(IconData(59160, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData databaseMinus = LucideIconData._(IconData(59161, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData databasePlus = LucideIconData._(IconData(59162, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData databaseSearch = LucideIconData._(IconData(59057, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData databaseX = LucideIconData._(IconData(59163, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData databaseZap = LucideIconData._(IconData(58635, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData database = LucideIconData._(IconData(57517, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData decimalsArrowLeft = LucideIconData._(IconData(58972, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1339,6 +1345,7 @@ class LucideIcons {
   static const IconData percentSquare = LucideIconData._(IconData(58652, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData percent = LucideIconData._(IconData(57650, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData personStanding = LucideIconData._(IconData(57886, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData phi = LucideIconData._(IconData(59164, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData philippinePeso = LucideIconData._(IconData(58884, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData phoneCall = LucideIconData._(IconData(57652, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData phoneForwarded = LucideIconData._(IconData(57653, fontFamily: _fontFamily, fontPackage: _fontPackage));
