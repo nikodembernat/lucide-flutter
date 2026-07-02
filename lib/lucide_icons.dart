@@ -1314,6 +1314,7 @@ class LucideIcons {
   static const IconData panelsRightBottom = LucideIconData._(IconData(58760, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData panelsTopBottom = LucideIconData._(IconData(58762, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData panelsTopLeft = LucideIconData._(IconData(57644, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData paperBag = LucideIconData._(IconData(59165, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData paperclip = LucideIconData._(IconData(57645, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData parasol = LucideIconData._(IconData(59133, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData parentheses = LucideIconData._(IconData(58436, fontFamily: _fontFamily, fontPackage: _fontPackage));

@@ -7853,6 +7853,12 @@
     "className": "icon-panels-top-left",
     "unicode": "&#57644;"
   },
+  "paper-bag": {
+    "encodedCode": "\\e71d",
+    "prefix": "icon",
+    "className": "icon-paper-bag",
+    "unicode": "&#59165;"
+  },
   "paperclip": {
     "encodedCode": "\\e12d",
     "prefix": "icon",
