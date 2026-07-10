@@ -451,6 +451,7 @@ class LucideIcons {
   static const IconData circleDot = LucideIconData._(IconData(58181, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleEllipsis = LucideIconData._(IconData(58182, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleEqual = LucideIconData._(IconData(58368, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleEuroSign = LucideIconData._(IconData(59166, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingArrowUp = LucideIconData._(IconData(58904, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingPlus = LucideIconData._(IconData(58812, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleGauge = LucideIconData._(IconData(58593, fontFamily: _fontFamily, fontPackage: _fontPackage));

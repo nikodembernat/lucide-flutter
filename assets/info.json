@@ -2675,6 +2675,12 @@
     "className": "icon-circle-equal",
     "unicode": "&#58368;"
   },
+  "circle-euro-sign": {
+    "encodedCode": "\\e71e",
+    "prefix": "icon",
+    "className": "icon-circle-euro-sign",
+    "unicode": "&#59166;"
+  },
   "circle-fading-arrow-up": {
     "encodedCode": "\\e618",
     "prefix": "icon",
