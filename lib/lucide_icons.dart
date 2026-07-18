@@ -451,7 +451,7 @@ class LucideIcons {
   static const IconData circleDot = LucideIconData._(IconData(58181, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleEllipsis = LucideIconData._(IconData(58182, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleEqual = LucideIconData._(IconData(58368, fontFamily: _fontFamily, fontPackage: _fontPackage));
-  static const IconData circleEuroSign = LucideIconData._(IconData(59166, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleEuro = LucideIconData._(IconData(59167, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingArrowUp = LucideIconData._(IconData(58904, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingPlus = LucideIconData._(IconData(58812, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleGauge = LucideIconData._(IconData(58593, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1498,6 +1498,7 @@ class LucideIcons {
   static const IconData scale = LucideIconData._(IconData(57874, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scaling = LucideIconData._(IconData(58092, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scanBarcode = LucideIconData._(IconData(58677, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData scanBox = LucideIconData._(IconData(59168, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scanEye = LucideIconData._(IconData(58678, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scanFace = LucideIconData._(IconData(58225, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scanHeart = LucideIconData._(IconData(58938, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1534,6 +1535,7 @@ class LucideIcons {
   static const IconData serverCog = LucideIconData._(IconData(58177, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData serverCrash = LucideIconData._(IconData(57833, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData serverOff = LucideIconData._(IconData(57834, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData serverPlus = LucideIconData._(IconData(59169, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData server = LucideIconData._(IconData(57683, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData settings2 = LucideIconData._(IconData(57925, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData settings = LucideIconData._(IconData(57684, fontFamily: _fontFamily, fontPackage: _fontPackage));

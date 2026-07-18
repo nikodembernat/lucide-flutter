@@ -2675,11 +2675,11 @@
     "className": "icon-circle-equal",
     "unicode": "&#58368;"
   },
-  "circle-euro-sign": {
-    "encodedCode": "\\e71e",
+  "circle-euro": {
+    "encodedCode": "\\e71f",
     "prefix": "icon",
-    "className": "icon-circle-euro-sign",
-    "unicode": "&#59166;"
+    "className": "icon-circle-euro",
+    "unicode": "&#59167;"
   },
   "circle-fading-arrow-up": {
     "encodedCode": "\\e618",
@@ -8957,6 +8957,12 @@
     "className": "icon-scan-barcode",
     "unicode": "&#58677;"
   },
+  "scan-box": {
+    "encodedCode": "\\e720",
+    "prefix": "icon",
+    "className": "icon-scan-box",
+    "unicode": "&#59168;"
+  },
   "scan-eye": {
     "encodedCode": "\\e536",
     "prefix": "icon",
@@ -9172,6 +9178,12 @@
     "prefix": "icon",
     "className": "icon-server-off",
     "unicode": "&#57834;"
+  },
+  "server-plus": {
+    "encodedCode": "\\e721",
+    "prefix": "icon",
+    "className": "icon-server-plus",
+    "unicode": "&#59169;"
   },
   "server": {
     "encodedCode": "\\e153",
