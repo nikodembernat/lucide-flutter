@@ -9287,6 +9287,12 @@
     "className": "icon-shield-half",
     "unicode": "&#58647;"
   },
+  "shield-keyhole": {
+    "encodedCode": "\\e722",
+    "prefix": "icon",
+    "className": "icon-shield-keyhole",
+    "unicode": "&#59170;"
+  },
   "shield-minus": {
     "encodedCode": "\\e518",
     "prefix": "icon",

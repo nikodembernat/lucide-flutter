@@ -1553,6 +1553,7 @@ class LucideIcons {
   static const IconData shieldCog = LucideIconData._(IconData(59113, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldEllipsis = LucideIconData._(IconData(58646, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldHalf = LucideIconData._(IconData(58647, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData shieldKeyhole = LucideIconData._(IconData(59170, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldMinus = LucideIconData._(IconData(58648, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldOff = LucideIconData._(IconData(57690, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldPlus = LucideIconData._(IconData(58649, fontFamily: _fontFamily, fontPackage: _fontPackage));
