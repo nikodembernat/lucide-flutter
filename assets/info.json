@@ -6191,6 +6191,12 @@
     "className": "icon-layout-dashboard",
     "unicode": "&#57793;"
   },
+  "layout-freeform": {
+    "encodedCode": "\\e723",
+    "prefix": "icon",
+    "className": "icon-layout-freeform",
+    "unicode": "&#59171;"
+  },
   "layout-grid": {
     "encodedCode": "\\e0ff",
     "prefix": "icon",
@@ -7049,11 +7055,23 @@
     "className": "icon-mic-2",
     "unicode": "&#58185;"
   },
+  "mic-audio-lines": {
+    "encodedCode": "\\e724",
+    "prefix": "icon",
+    "className": "icon-mic-audio-lines",
+    "unicode": "&#59172;"
+  },
   "mic-off": {
     "encodedCode": "\\e119",
     "prefix": "icon",
     "className": "icon-mic-off",
     "unicode": "&#57625;"
+  },
+  "mic-signal": {
+    "encodedCode": "\\e1fa",
+    "prefix": "icon",
+    "className": "icon-mic-signal",
+    "unicode": "&#57850;"
   },
   "mic-vocal": {
     "encodedCode": "\\e349",
@@ -7252,6 +7270,12 @@
     "prefix": "icon",
     "className": "icon-more-vertical",
     "unicode": "&#57527;"
+  },
+  "mosque": {
+    "encodedCode": "\\e725",
+    "prefix": "icon",
+    "className": "icon-mosque",
+    "unicode": "&#59173;"
   },
   "motorbike": {
     "encodedCode": "\\e698",
@@ -8759,6 +8783,12 @@
     "className": "icon-rotate-3d",
     "unicode": "&#58090;"
   },
+  "rotate-ccw-clock": {
+    "encodedCode": "\\e1f5",
+    "prefix": "icon",
+    "className": "icon-rotate-ccw-clock",
+    "unicode": "&#57845;"
+  },
   "rotate-ccw-key": {
     "encodedCode": "\\e650",
     "prefix": "icon",
@@ -8776,6 +8806,12 @@
     "prefix": "icon",
     "className": "icon-rotate-ccw",
     "unicode": "&#57672;"
+  },
+  "rotate-cw-fading-clock": {
+    "encodedCode": "\\e726",
+    "prefix": "icon",
+    "className": "icon-rotate-cw-fading-clock",
+    "unicode": "&#59174;"
   },
   "rotate-cw-square": {
     "encodedCode": "\\e5d1",
@@ -8998,6 +9034,12 @@
     "prefix": "icon",
     "className": "icon-scan-search",
     "unicode": "&#58679;"
+  },
+  "scan-square": {
+    "encodedCode": "\\e727",
+    "prefix": "icon",
+    "className": "icon-scan-square",
+    "unicode": "&#59175;"
   },
   "scan-text": {
     "encodedCode": "\\e538",
@@ -10012,6 +10054,12 @@
     "prefix": "icon",
     "className": "icon-square-mouse-pointer",
     "unicode": "&#57858;"
+  },
+  "square-off": {
+    "encodedCode": "\\e728",
+    "prefix": "icon",
+    "className": "icon-square-off",
+    "unicode": "&#59176;"
   },
   "square-parking-off": {
     "encodedCode": "\\e3cc",
@@ -11380,6 +11428,12 @@
     "prefix": "icon",
     "className": "icon-user-search",
     "unicode": "&#58745;"
+  },
+  "user-shield": {
+    "encodedCode": "\\e729",
+    "prefix": "icon",
+    "className": "icon-user-shield",
+    "unicode": "&#59177;"
   },
   "user-square-2": {
     "encodedCode": "\\e466",
