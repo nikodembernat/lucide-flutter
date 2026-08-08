@@ -851,6 +851,12 @@
     "className": "icon-atom",
     "unicode": "&#58327;"
   },
+  "audio-lines-x": {
+    "encodedCode": "\\e72e",
+    "prefix": "icon",
+    "className": "icon-audio-lines-x",
+    "unicode": "&#59182;"
+  },
   "audio-lines": {
     "encodedCode": "\\e55a",
     "prefix": "icon",
@@ -1786,6 +1792,18 @@
     "prefix": "icon",
     "className": "icon-broccoli",
     "unicode": "&#59125;"
+  },
+  "broom-sparkles": {
+    "encodedCode": "\\e72f",
+    "prefix": "icon",
+    "className": "icon-broom-sparkles",
+    "unicode": "&#59183;"
+  },
+  "broom": {
+    "encodedCode": "\\e730",
+    "prefix": "icon",
+    "className": "icon-broom",
+    "unicode": "&#59184;"
   },
   "brush-cleaning": {
     "encodedCode": "\\e666",
@@ -4067,6 +4085,48 @@
     "className": "icon-eye",
     "unicode": "&#57530;"
   },
+  "face-angry": {
+    "encodedCode": "\\e2fc",
+    "prefix": "icon",
+    "className": "icon-face-angry",
+    "unicode": "&#58108;"
+  },
+  "face-expressionless": {
+    "encodedCode": "\\e2fd",
+    "prefix": "icon",
+    "className": "icon-face-expressionless",
+    "unicode": "&#58109;"
+  },
+  "face-grinning": {
+    "encodedCode": "\\e300",
+    "prefix": "icon",
+    "className": "icon-face-grinning",
+    "unicode": "&#58112;"
+  },
+  "face-neutral": {
+    "encodedCode": "\\e114",
+    "prefix": "icon",
+    "className": "icon-face-neutral",
+    "unicode": "&#57620;"
+  },
+  "face-slightly-frowning": {
+    "encodedCode": "\\e0db",
+    "prefix": "icon",
+    "className": "icon-face-slightly-frowning",
+    "unicode": "&#57563;"
+  },
+  "face-slightly-smiling-plus": {
+    "encodedCode": "\\e301",
+    "prefix": "icon",
+    "className": "icon-face-slightly-smiling-plus",
+    "unicode": "&#58113;"
+  },
+  "face-slightly-smiling": {
+    "encodedCode": "\\e164",
+    "prefix": "icon",
+    "className": "icon-face-slightly-smiling",
+    "unicode": "&#57700;"
+  },
   "factory": {
     "encodedCode": "\\e29f",
     "prefix": "icon",
@@ -6155,6 +6215,18 @@
     "className": "icon-laugh",
     "unicode": "&#58112;"
   },
+  "layer-arrow-down": {
+    "encodedCode": "\\e72a",
+    "prefix": "icon",
+    "className": "icon-layer-arrow-down",
+    "unicode": "&#59178;"
+  },
+  "layer-arrow-up": {
+    "encodedCode": "\\e72b",
+    "prefix": "icon",
+    "className": "icon-layer-arrow-up",
+    "unicode": "&#59179;"
+  },
   "layers-2": {
     "encodedCode": "\\e52a",
     "prefix": "icon",
@@ -6166,6 +6238,18 @@
     "prefix": "icon",
     "className": "icon-layers-3",
     "unicode": "&#58665;"
+  },
+  "layers-arrow-down": {
+    "encodedCode": "\\e72c",
+    "prefix": "icon",
+    "className": "icon-layers-arrow-down",
+    "unicode": "&#59180;"
+  },
+  "layers-arrow-up": {
+    "encodedCode": "\\e72d",
+    "prefix": "icon",
+    "className": "icon-layers-arrow-up",
+    "unicode": "&#59181;"
   },
   "layers-minus": {
     "encodedCode": "\\e6ee",
@@ -9334,6 +9418,12 @@
     "prefix": "icon",
     "className": "icon-shield-keyhole",
     "unicode": "&#59170;"
+  },
+  "shield-lock": {
+    "encodedCode": "\\e731",
+    "prefix": "icon",
+    "className": "icon-shield-lock",
+    "unicode": "&#59185;"
   },
   "shield-minus": {
     "encodedCode": "\\e518",
