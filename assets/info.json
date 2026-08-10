@@ -317,6 +317,12 @@
     "className": "icon-anchor",
     "unicode": "&#57407;"
   },
+  "angle": {
+    "encodedCode": "\\e732",
+    "prefix": "icon",
+    "className": "icon-angle",
+    "unicode": "&#59186;"
+  },
   "angry": {
     "encodedCode": "\\e2fc",
     "prefix": "icon",
@@ -3983,6 +3989,12 @@
     "className": "icon-egg",
     "unicode": "&#57949;"
   },
+  "eject": {
+    "encodedCode": "\\e733",
+    "prefix": "icon",
+    "className": "icon-eject",
+    "unicode": "&#59187;"
+  },
   "ellipse": {
     "encodedCode": "\\e6b2",
     "prefix": "icon",
@@ -6688,6 +6700,12 @@
     "prefix": "icon",
     "className": "icon-magnet",
     "unicode": "&#58037;"
+  },
+  "mail-badge": {
+    "encodedCode": "\\e734",
+    "prefix": "icon",
+    "className": "icon-mail-badge",
+    "unicode": "&#59188;"
   },
   "mail-check": {
     "encodedCode": "\\e361",

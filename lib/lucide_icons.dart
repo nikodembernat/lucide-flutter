@@ -62,6 +62,7 @@ class LucideIcons {
   static const IconData ampersands = LucideIconData._(IconData(58525, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData amphora = LucideIconData._(IconData(58907, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData anchor = LucideIconData._(IconData(57407, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData angle = LucideIconData._(IconData(59186, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData angry = LucideIconData._(IconData(58108, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData annoyed = LucideIconData._(IconData(58109, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData antenna = LucideIconData._(IconData(58594, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -669,6 +670,7 @@ class LucideIcons {
   static const IconData eggFried = LucideIconData._(IconData(58193, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData eggOff = LucideIconData._(IconData(58261, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData egg = LucideIconData._(IconData(57949, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData eject = LucideIconData._(IconData(59187, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipse = LucideIconData._(IconData(59058, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsisVertical = LucideIconData._(IconData(57527, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsis = LucideIconData._(IconData(57526, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1120,6 +1122,7 @@ class LucideIcons {
   static const IconData luggage = LucideIconData._(IconData(58058, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mSquare = LucideIconData._(IconData(58627, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData magnet = LucideIconData._(IconData(58037, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData mailBadge = LucideIconData._(IconData(59188, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailCheck = LucideIconData._(IconData(58209, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailMinus = LucideIconData._(IconData(58210, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailOpen = LucideIconData._(IconData(58211, fontFamily: _fontFamily, fontPackage: _fontPackage));
