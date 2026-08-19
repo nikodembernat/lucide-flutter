@@ -354,6 +354,7 @@ class LucideIcons {
   static const IconData cannabis = LucideIconData._(IconData(58836, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData captionsOff = LucideIconData._(IconData(58817, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData captions = LucideIconData._(IconData(58276, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData carBattery = LucideIconData._(IconData(59189, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData carFront = LucideIconData._(IconData(58621, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData carTaxiFront = LucideIconData._(IconData(58622, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData car = LucideIconData._(IconData(57813, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1722,6 +1723,7 @@ class LucideIcons {
   static const IconData squareStar = LucideIconData._(IconData(59022, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareStop = LucideIconData._(IconData(59013, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareTerminal = LucideIconData._(IconData(57866, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squareText = LucideIconData._(IconData(59190, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareUserRound = LucideIconData._(IconData(58470, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareUser = LucideIconData._(IconData(58469, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareX = LucideIconData._(IconData(57717, fontFamily: _fontFamily, fontPackage: _fontPackage));
