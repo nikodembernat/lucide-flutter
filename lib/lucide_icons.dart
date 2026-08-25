@@ -1127,6 +1127,7 @@ class LucideIcons {
   static const IconData magnet = LucideIconData._(IconData(58037, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailBadge = LucideIconData._(IconData(59188, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailCheck = LucideIconData._(IconData(58209, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData mailClock = LucideIconData._(IconData(59198, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailMinus = LucideIconData._(IconData(58210, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailOpen = LucideIconData._(IconData(58211, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailPlus = LucideIconData._(IconData(58212, fontFamily: _fontFamily, fontPackage: _fontPackage));
