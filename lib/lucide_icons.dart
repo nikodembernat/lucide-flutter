@@ -866,6 +866,7 @@ class LucideIcons {
   static const IconData funnelPlus = LucideIconData._(IconData(57565, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData funnelX = LucideIconData._(IconData(58293, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData funnel = LucideIconData._(IconData(57564, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData galaxy = LucideIconData._(IconData(59199, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData galleryHorizontalEnd = LucideIconData._(IconData(58575, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData galleryHorizontal = LucideIconData._(IconData(58574, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData galleryThumbnails = LucideIconData._(IconData(58576, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1487,6 +1488,7 @@ class LucideIcons {
   static const IconData rewind = LucideIconData._(IconData(57671, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ribbon = LucideIconData._(IconData(58712, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData road = LucideIconData._(IconData(59097, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData robotArm = LucideIconData._(IconData(59200, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rocket = LucideIconData._(IconData(57990, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rockingChair = LucideIconData._(IconData(57907, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rollerCoaster = LucideIconData._(IconData(58496, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1594,6 +1596,7 @@ class LucideIcons {
   static const IconData shieldUser = LucideIconData._(IconData(58951, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldX = LucideIconData._(IconData(57856, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shield = LucideIconData._(IconData(57688, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData shipCargo = LucideIconData._(IconData(59201, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shipWheel = LucideIconData._(IconData(58626, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ship = LucideIconData._(IconData(58298, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shirt = LucideIconData._(IconData(57802, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1863,6 +1866,7 @@ class LucideIcons {
   static const IconData toyBrick = LucideIconData._(IconData(58183, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData tractor = LucideIconData._(IconData(58628, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trafficCone = LucideIconData._(IconData(58629, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData trailer = LucideIconData._(IconData(59202, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trainFrontTunnel = LucideIconData._(IconData(58631, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trainFront = LucideIconData._(IconData(58630, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trainTrack = LucideIconData._(IconData(58632, fontFamily: _fontFamily, fontPackage: _fontPackage));
