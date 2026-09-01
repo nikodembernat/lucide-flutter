@@ -1967,6 +1967,7 @@ class LucideIcons {
   static const IconData van = LucideIconData._(IconData(59053, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData variable = LucideIconData._(IconData(58483, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData vault = LucideIconData._(IconData(58767, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData vectorPolygon = LucideIconData._(IconData(59212, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData vectorSquare = LucideIconData._(IconData(59004, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData vegan = LucideIconData._(IconData(58269, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData venetianMask = LucideIconData._(IconData(58026, fontFamily: _fontFamily, fontPackage: _fontPackage));
