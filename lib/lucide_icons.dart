@@ -1135,6 +1135,7 @@ class LucideIcons {
   static const IconData mailClock = LucideIconData._(IconData(59198, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailMinus = LucideIconData._(IconData(58210, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailOpen = LucideIconData._(IconData(58211, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData mailPen = LucideIconData._(IconData(59214, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailPlus = LucideIconData._(IconData(58212, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailQuestionMark = LucideIconData._(IconData(58213, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailQuestion = LucideIconData._(IconData(58213, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2014,6 +2015,7 @@ class LucideIcons {
   static const IconData weight = LucideIconData._(IconData(58672, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData wheatOff = LucideIconData._(IconData(58271, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData wheat = LucideIconData._(IconData(58270, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData whistle = LucideIconData._(IconData(59213, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData wholeWord = LucideIconData._(IconData(58335, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData wifiCog = LucideIconData._(IconData(58996, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData wifiHigh = LucideIconData._(IconData(58871, fontFamily: _fontFamily, fontPackage: _fontPackage));
