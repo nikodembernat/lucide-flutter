@@ -300,6 +300,7 @@ class LucideIcons {
   static const IconData brickWallFire = LucideIconData._(IconData(58963, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData brickWallShield = LucideIconData._(IconData(59024, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData brickWall = LucideIconData._(IconData(58753, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData bridge = LucideIconData._(IconData(59215, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData briefcaseBusiness = LucideIconData._(IconData(58837, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData briefcaseConveyorBelt = LucideIconData._(IconData(58923, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData briefcaseMedical = LucideIconData._(IconData(58838, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -347,6 +348,7 @@ class LucideIcons {
   static const IconData calendars = LucideIconData._(IconData(59047, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cameraOff = LucideIconData._(IconData(57445, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData camera = LucideIconData._(IconData(57444, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData can = LucideIconData._(IconData(59216, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData candlestickChart = LucideIconData._(IconData(58536, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData candyCane = LucideIconData._(IconData(58554, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData candyOff = LucideIconData._(IconData(58258, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1080,6 +1082,7 @@ class LucideIcons {
   static const IconData ligature = LucideIconData._(IconData(58426, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lightbulbOff = LucideIconData._(IconData(57864, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lightbulb = LucideIconData._(IconData(57794, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData lighthouse = LucideIconData._(IconData(59217, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineChart = LucideIconData._(IconData(58021, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineDotRightHorizontal = LucideIconData._(IconData(59065, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineSquiggle = LucideIconData._(IconData(59002, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1612,10 +1615,13 @@ class LucideIcons {
   static const IconData shirt = LucideIconData._(IconData(57802, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shoppingBag = LucideIconData._(IconData(57691, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shoppingBasket = LucideIconData._(IconData(58602, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData shoppingCartMinus = LucideIconData._(IconData(59218, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData shoppingCartPlus = LucideIconData._(IconData(59219, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shoppingCart = LucideIconData._(IconData(57692, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shovel = LucideIconData._(IconData(57693, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData showerHead = LucideIconData._(IconData(58236, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shredder = LucideIconData._(IconData(58971, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData shrimpOff = LucideIconData._(IconData(59220, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shrimp = LucideIconData._(IconData(58953, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shrink = LucideIconData._(IconData(57888, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shrub = LucideIconData._(IconData(58094, fontFamily: _fontFamily, fontPackage: _fontPackage));
