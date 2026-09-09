@@ -365,6 +365,8 @@ class LucideIcons {
   static const IconData caravan = LucideIconData._(IconData(58681, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cardSim = LucideIconData._(IconData(58993, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData carrot = LucideIconData._(IconData(57946, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData cartonOff = LucideIconData._(IconData(59238, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData carton = LucideIconData._(IconData(59239, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData caseLower = LucideIconData._(IconData(58328, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData caseSensitive = LucideIconData._(IconData(58329, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData caseUpper = LucideIconData._(IconData(58330, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1867,6 +1869,7 @@ class LucideIcons {
   static const IconData thermometer = LucideIconData._(IconData(57734, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData thumbsDown = LucideIconData._(IconData(57737, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData thumbsUp = LucideIconData._(IconData(57738, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData ticTacToe = LucideIconData._(IconData(59240, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ticketCheck = LucideIconData._(IconData(58798, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ticketMinus = LucideIconData._(IconData(58799, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ticketPercent = LucideIconData._(IconData(58800, fontFamily: _fontFamily, fontPackage: _fontPackage));
