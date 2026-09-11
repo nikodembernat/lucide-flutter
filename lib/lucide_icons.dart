@@ -1888,6 +1888,8 @@ class LucideIcons {
   static const IconData toilet = LucideIconData._(IconData(58933, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData toolCase = LucideIconData._(IconData(59005, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData toolbox = LucideIconData._(IconData(59056, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData toothbrushSparkles = LucideIconData._(IconData(59241, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData toothbrush = LucideIconData._(IconData(59242, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData tornado = LucideIconData._(IconData(57880, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData torus = LucideIconData._(IconData(58671, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData touchpadOff = LucideIconData._(IconData(58442, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1918,6 +1920,8 @@ class LucideIcons {
   static const IconData triangleDashed = LucideIconData._(IconData(58941, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData triangleRight = LucideIconData._(IconData(58605, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData triangle = LucideIconData._(IconData(57746, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData trianglesCenterlineDashedHorizontal = LucideIconData._(IconData(58206, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData trianglesCenterlineDashedVertical = LucideIconData._(IconData(58208, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trophy = LucideIconData._(IconData(58227, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData truckElectric = LucideIconData._(IconData(58975, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData truck = LucideIconData._(IconData(57748, fontFamily: _fontFamily, fontPackage: _fontPackage));
