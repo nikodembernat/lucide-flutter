@@ -497,6 +497,9 @@ class LucideIcons {
   static const IconData circuitBoard = LucideIconData._(IconData(58371, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData citrus = LucideIconData._(IconData(58229, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clapperboard = LucideIconData._(IconData(58011, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData clefAlto = LucideIconData._(IconData(59257, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData clefBass = LucideIconData._(IconData(59258, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData clefTreble = LucideIconData._(IconData(59259, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clipboardCheck = LucideIconData._(IconData(57881, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clipboardClock = LucideIconData._(IconData(59016, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clipboardCopy = LucideIconData._(IconData(57893, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1262,6 +1265,7 @@ class LucideIcons {
   static const IconData monitorDown = LucideIconData._(IconData(58401, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorOff = LucideIconData._(IconData(57820, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorPause = LucideIconData._(IconData(58500, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData monitorPc = LucideIconData._(IconData(59260, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorPlay = LucideIconData._(IconData(58501, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorSmartphone = LucideIconData._(IconData(58274, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorSpeaker = LucideIconData._(IconData(57872, fontFamily: _fontFamily, fontPackage: _fontPackage));
