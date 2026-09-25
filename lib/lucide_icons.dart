@@ -305,6 +305,7 @@ class LucideIcons {
   static const IconData briefcaseBusiness = LucideIconData._(IconData(58837, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData briefcaseConveyorBelt = LucideIconData._(IconData(58923, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData briefcaseMedical = LucideIconData._(IconData(58838, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData briefcasePlus = LucideIconData._(IconData(59271, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData briefcase = LucideIconData._(IconData(57442, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bringToFront = LucideIconData._(IconData(58607, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData broccoli = LucideIconData._(IconData(59125, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1016,6 +1017,7 @@ class LucideIcons {
   static const IconData hotel = LucideIconData._(IconData(58338, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hourglassCog = LucideIconData._(IconData(59246, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hourglass = LucideIconData._(IconData(58006, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData houseCog = LucideIconData._(IconData(59272, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData houseHeart = LucideIconData._(IconData(59029, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData housePlug = LucideIconData._(IconData(58864, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData housePlus = LucideIconData._(IconData(58865, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1114,7 +1116,10 @@ class LucideIcons {
   static const IconData lightbulb = LucideIconData._(IconData(57794, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lighthouse = LucideIconData._(IconData(59217, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineChart = LucideIconData._(IconData(58021, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData lineDotBottomVertical = LucideIconData._(IconData(59273, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData lineDotLeftHorizontal = LucideIconData._(IconData(59274, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineDotRightHorizontal = LucideIconData._(IconData(59065, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData lineDotTopVertical = LucideIconData._(IconData(59275, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineSquiggle = LucideIconData._(IconData(59002, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lineStyle = LucideIconData._(IconData(59098, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData link2Off = LucideIconData._(IconData(57604, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1786,6 +1791,7 @@ class LucideIcons {
   static const IconData squareScissors = LucideIconData._(IconData(58604, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareSigma = LucideIconData._(IconData(58505, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareSlash = LucideIconData._(IconData(57716, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squareSparkles = LucideIconData._(IconData(59276, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareSplitHorizontal = LucideIconData._(IconData(58294, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareSplitVertical = LucideIconData._(IconData(58295, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareSquare = LucideIconData._(IconData(58894, fontFamily: _fontFamily, fontPackage: _fontPackage));
