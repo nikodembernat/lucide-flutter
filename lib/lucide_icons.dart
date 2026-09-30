@@ -182,6 +182,7 @@ class LucideIcons {
   static const IconData ban = LucideIconData._(IconData(57425, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData banana = LucideIconData._(IconData(58191, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bandage = LucideIconData._(IconData(58909, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData bangladeshiTaka = LucideIconData._(IconData(59277, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData banknoteArrowDown = LucideIconData._(IconData(58956, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData banknoteArrowUp = LucideIconData._(IconData(58957, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData banknoteCheck = LucideIconData._(IconData(59148, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1107,6 +1108,7 @@ class LucideIcons {
   static const IconData lensConcave = LucideIconData._(IconData(59063, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData lensConvex = LucideIconData._(IconData(59064, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData letterText = LucideIconData._(IconData(58885, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData letters = LucideIconData._(IconData(59278, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData libraryBig = LucideIconData._(IconData(58702, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData librarySquare = LucideIconData._(IconData(58703, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData library = LucideIconData._(IconData(57600, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1485,6 +1487,7 @@ class LucideIcons {
   static const IconData powerSquare = LucideIconData._(IconData(58705, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData power = LucideIconData._(IconData(57664, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData presentation = LucideIconData._(IconData(58542, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData printer3d = LucideIconData._(IconData(59279, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData printerCheck = LucideIconData._(IconData(58869, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData printerX = LucideIconData._(IconData(59073, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData printer = LucideIconData._(IconData(57665, fontFamily: _fontFamily, fontPackage: _fontPackage));
