@@ -1096,6 +1096,7 @@ class LucideIcons {
   static const IconData layoutArrowRight = LucideIconData._(IconData(59250, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutDashboard = LucideIconData._(IconData(57793, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutFreeform = LucideIconData._(IconData(59171, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData layoutGridCircles = LucideIconData._(IconData(59280, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutGrid = LucideIconData._(IconData(57599, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutList = LucideIconData._(IconData(57817, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutPanelLeft = LucideIconData._(IconData(58480, fontFamily: _fontFamily, fontPackage: _fontPackage));
