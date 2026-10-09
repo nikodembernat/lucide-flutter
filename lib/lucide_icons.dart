@@ -964,6 +964,7 @@ class LucideIcons {
   static const IconData gripHorizontal = LucideIconData._(IconData(57578, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData gripVertical = LucideIconData._(IconData(57579, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData grip = LucideIconData._(IconData(58289, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData groceries = LucideIconData._(IconData(59289, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData group = LucideIconData._(IconData(58468, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData guitar = LucideIconData._(IconData(58719, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ham = LucideIconData._(IconData(58839, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1012,6 +1013,7 @@ class LucideIcons {
   static const IconData helpingHand = LucideIconData._(IconData(58296, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hexagon = LucideIconData._(IconData(57587, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData highlighter = LucideIconData._(IconData(57588, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData hikingStick = LucideIconData._(IconData(59290, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData history = LucideIconData._(IconData(57845, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData home = LucideIconData._(IconData(57589, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hopOff = LucideIconData._(IconData(58264, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1613,6 +1615,7 @@ class LucideIcons {
   static const IconData scissorsSquare = LucideIconData._(IconData(58604, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scissors = LucideIconData._(IconData(57678, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scooter = LucideIconData._(IconData(59052, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData scratchBlocks = LucideIconData._(IconData(59291, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData screenShareOff = LucideIconData._(IconData(57680, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData screenShare = LucideIconData._(IconData(57679, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scrollText = LucideIconData._(IconData(58463, fontFamily: _fontFamily, fontPackage: _fontPackage));
