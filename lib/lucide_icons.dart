@@ -1235,6 +1235,7 @@ class LucideIcons {
   static const IconData messageCircleQuestionMark = LucideIconData._(IconData(58728, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleQuestion = LucideIconData._(IconData(58728, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleReply = LucideIconData._(IconData(58729, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData messageCircleText = LucideIconData._(IconData(59300, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleWarning = LucideIconData._(IconData(58730, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleX = LucideIconData._(IconData(58731, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircle = LucideIconData._(IconData(57622, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1640,6 +1641,7 @@ class LucideIcons {
   static const IconData separatorVertical = LucideIconData._(IconData(57801, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData serverCog = LucideIconData._(IconData(58177, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData serverCrash = LucideIconData._(IconData(57833, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData serverNas = LucideIconData._(IconData(59301, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData serverOff = LucideIconData._(IconData(57834, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData serverPlus = LucideIconData._(IconData(59169, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData server = LucideIconData._(IconData(57683, fontFamily: _fontFamily, fontPackage: _fontPackage));
