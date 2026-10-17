@@ -385,6 +385,7 @@ class LucideIcons {
   static const IconData cat = LucideIconData._(IconData(58252, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cctvOff = LucideIconData._(IconData(59096, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cctv = LucideIconData._(IconData(58749, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData certificate = LucideIconData._(IconData(59313, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartArea = LucideIconData._(IconData(58579, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartBarBig = LucideIconData._(IconData(58535, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartBarDecreasing = LucideIconData._(IconData(58887, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -702,6 +703,8 @@ class LucideIcons {
   static const IconData eggFried = LucideIconData._(IconData(58193, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData eggOff = LucideIconData._(IconData(58261, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData egg = LucideIconData._(IconData(57949, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData eighthNote = LucideIconData._(IconData(58186, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData eighthNotes = LucideIconData._(IconData(57634, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData eject = LucideIconData._(IconData(59187, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipse = LucideIconData._(IconData(59058, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsisVertical = LucideIconData._(IconData(57527, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -975,6 +978,7 @@ class LucideIcons {
   static const IconData group = LucideIconData._(IconData(58468, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData guitarElectric = LucideIconData._(IconData(59309, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData guitar = LucideIconData._(IconData(58719, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData halfNote = LucideIconData._(IconData(58187, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ham = LucideIconData._(IconData(58839, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hamburger = LucideIconData._(IconData(58981, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hammer = LucideIconData._(IconData(57580, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1712,6 +1716,7 @@ class LucideIcons {
   static const IconData signpostBig = LucideIconData._(IconData(58689, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData signpost = LucideIconData._(IconData(58688, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData siren = LucideIconData._(IconData(58095, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData sixteenthNotes = LucideIconData._(IconData(58188, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData skipBack = LucideIconData._(IconData(57695, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData skipForward = LucideIconData._(IconData(57696, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData skull = LucideIconData._(IconData(57889, fontFamily: _fontFamily, fontPackage: _fontPackage));
