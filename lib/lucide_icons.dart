@@ -468,6 +468,10 @@ class LucideIcons {
   static const IconData circleChevronLeft = LucideIconData._(IconData(58590, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleChevronRight = LucideIconData._(IconData(58591, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleChevronUp = LucideIconData._(IconData(58592, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleChevronsDown = LucideIconData._(IconData(59322, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleChevronsLeft = LucideIconData._(IconData(59323, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleChevronsRight = LucideIconData._(IconData(59324, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleChevronsUp = LucideIconData._(IconData(59325, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleDashedCheck = LucideIconData._(IconData(59230, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleDashed = LucideIconData._(IconData(58544, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleDivide = LucideIconData._(IconData(57469, fontFamily: _fontFamily, fontPackage: _fontPackage));
