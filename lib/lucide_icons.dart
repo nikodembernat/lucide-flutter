@@ -158,6 +158,7 @@ class LucideIcons {
   static const IconData axe = LucideIconData._(IconData(57424, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData axis3D = LucideIconData._(IconData(58110, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData axis3d = LucideIconData._(IconData(58110, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData azerbaijaniManat = LucideIconData._(IconData(59326, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData baby = LucideIconData._(IconData(58062, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData backpack = LucideIconData._(IconData(58056, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bacon = LucideIconData._(IconData(59315, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -181,6 +182,7 @@ class LucideIcons {
   static const IconData badgeX = LucideIconData._(IconData(58492, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData badge = LucideIconData._(IconData(58484, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData baggageClaim = LucideIconData._(IconData(58057, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData ballWave = LucideIconData._(IconData(59327, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData balloon = LucideIconData._(IconData(59055, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ban = LucideIconData._(IconData(57425, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData banana = LucideIconData._(IconData(58191, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -716,6 +718,7 @@ class LucideIcons {
   static const IconData ellipse = LucideIconData._(IconData(59058, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsisVertical = LucideIconData._(IconData(57527, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsis = LucideIconData._(IconData(57526, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData emiratiDirham = LucideIconData._(IconData(59328, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData engine = LucideIconData._(IconData(59224, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData equalApproximatelyNot = LucideIconData._(IconData(59232, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData equalApproximately = LucideIconData._(IconData(58932, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1036,10 +1039,12 @@ class LucideIcons {
   static const IconData highlighter = LucideIconData._(IconData(57588, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hikingStick = LucideIconData._(IconData(59290, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData history = LucideIconData._(IconData(57845, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData hockeyStick = LucideIconData._(IconData(59329, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData home = LucideIconData._(IconData(57589, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hopOff = LucideIconData._(IconData(58264, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hop = LucideIconData._(IconData(58263, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hospital = LucideIconData._(IconData(58840, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData hotAirBalloon = LucideIconData._(IconData(59330, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hotel = LucideIconData._(IconData(58338, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hourglassCog = LucideIconData._(IconData(59246, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData hourglass = LucideIconData._(IconData(58006, fontFamily: _fontFamily, fontPackage: _fontPackage));
