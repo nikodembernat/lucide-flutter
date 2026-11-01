@@ -402,6 +402,7 @@ class LucideIcons {
   static const IconData chartBarIncreasing = LucideIconData._(IconData(58888, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartBarStacked = LucideIconData._(IconData(58889, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartBar = LucideIconData._(IconData(58018, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData chartBellCurve = LucideIconData._(IconData(59422, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartCandlestick = LucideIconData._(IconData(58536, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartColumnBig = LucideIconData._(IconData(58537, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chartColumnDecreasing = LucideIconData._(IconData(57447, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -811,6 +812,7 @@ class LucideIcons {
   static const IconData fileCode = LucideIconData._(IconData(57539, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileCog2 = LucideIconData._(IconData(58134, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileCog = LucideIconData._(IconData(58134, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData fileDatabase = LucideIconData._(IconData(59423, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileDiff = LucideIconData._(IconData(58135, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileDigit = LucideIconData._(IconData(57540, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileDown = LucideIconData._(IconData(58136, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1302,6 +1304,13 @@ class LucideIcons {
   static const IconData mapPinned = LucideIconData._(IconData(58685, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mapPlus = LucideIconData._(IconData(58943, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData map = LucideIconData._(IconData(57616, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData marginBottom = LucideIconData._(IconData(59424, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData marginHorizontal = LucideIconData._(IconData(59425, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData marginLeft = LucideIconData._(IconData(59426, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData marginRight = LucideIconData._(IconData(59427, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData marginTop = LucideIconData._(IconData(59428, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData marginVertical = LucideIconData._(IconData(59429, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData margin = LucideIconData._(IconData(59430, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData marsStroke = LucideIconData._(IconData(58946, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mars = LucideIconData._(IconData(58945, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData martini = LucideIconData._(IconData(58083, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1370,6 +1379,7 @@ class LucideIcons {
   static const IconData minus = LucideIconData._(IconData(57628, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mirrorRectangular = LucideIconData._(IconData(59069, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mirrorRound = LucideIconData._(IconData(59070, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData monitorActivity = LucideIconData._(IconData(59431, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorCheck = LucideIconData._(IconData(58498, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorCloud = LucideIconData._(IconData(59033, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData monitorCog = LucideIconData._(IconData(58883, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1923,6 +1933,13 @@ class LucideIcons {
   static const IconData squareMinus = LucideIconData._(IconData(57713, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareMousePointer = LucideIconData._(IconData(57858, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareOff = LucideIconData._(IconData(59176, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePaddingBottom = LucideIconData._(IconData(59432, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePaddingHorizontal = LucideIconData._(IconData(59433, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePaddingLeft = LucideIconData._(IconData(59434, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePaddingRight = LucideIconData._(IconData(59435, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePaddingTop = LucideIconData._(IconData(59436, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePaddingVertical = LucideIconData._(IconData(59437, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePadding = LucideIconData._(IconData(59438, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareParkingOff = LucideIconData._(IconData(58316, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareParking = LucideIconData._(IconData(58315, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePause = LucideIconData._(IconData(59012, fontFamily: _fontFamily, fontPackage: _fontPackage));
