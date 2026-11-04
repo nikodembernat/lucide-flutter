@@ -690,6 +690,8 @@ class LucideIcons {
   static const IconData decimalsArrowRight = LucideIconData._(IconData(58973, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData delete = LucideIconData._(IconData(57518, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData dessert = LucideIconData._(IconData(58555, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData diagramFlowHorizontal = LucideIconData._(IconData(59439, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData diagramFlowVertical = LucideIconData._(IconData(59440, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diameter = LucideIconData._(IconData(58662, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diamondMinus = LucideIconData._(IconData(58849, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diamondPercent = LucideIconData._(IconData(58651, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -996,10 +998,12 @@ class LucideIcons {
   static const IconData glassWater = LucideIconData._(IconData(58069, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData glasses = LucideIconData._(IconData(57869, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globe2 = LucideIconData._(IconData(57843, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData globeBan = LucideIconData._(IconData(59441, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeCheck = LucideIconData._(IconData(59132, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeCode = LucideIconData._(IconData(59245, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeLock = LucideIconData._(IconData(58829, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeOff = LucideIconData._(IconData(59061, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData globePlus = LucideIconData._(IconData(59442, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeX = LucideIconData._(IconData(59062, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globe = LucideIconData._(IconData(57576, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData goal = LucideIconData._(IconData(58533, fontFamily: _fontFamily, fontPackage: _fontPackage));
