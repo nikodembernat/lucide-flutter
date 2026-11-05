@@ -169,6 +169,7 @@ class LucideIcons {
   static const IconData badgeCheck = LucideIconData._(IconData(57921, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData badgeDollarSign = LucideIconData._(IconData(58486, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData badgeEuro = LucideIconData._(IconData(58640, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData badgeExclamationPoint = LucideIconData._(IconData(58485, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData badgeHelp = LucideIconData._(IconData(58491, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData badgeIndianRupee = LucideIconData._(IconData(58641, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData badgeInfo = LucideIconData._(IconData(58487, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -207,6 +208,7 @@ class LucideIcons {
   static const IconData baseline = LucideIconData._(IconData(57989, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bath = LucideIconData._(IconData(58027, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData batteryCharging = LucideIconData._(IconData(57428, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData batteryExclamationPoint = LucideIconData._(IconData(58284, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData batteryFull = LucideIconData._(IconData(57429, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData batteryLow = LucideIconData._(IconData(57430, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData batteryMedium = LucideIconData._(IconData(57431, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -267,6 +269,7 @@ class LucideIcons {
   static const IconData bookCopy = LucideIconData._(IconData(58348, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookDashed = LucideIconData._(IconData(58349, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookDown = LucideIconData._(IconData(58350, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData bookExclamationPoint = LucideIconData._(IconData(58994, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookHeadphones = LucideIconData._(IconData(58695, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookHeart = LucideIconData._(IconData(58696, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bookImage = LucideIconData._(IconData(58697, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -491,6 +494,7 @@ class LucideIcons {
   static const IconData circleEllipsis = LucideIconData._(IconData(58182, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleEqual = LucideIconData._(IconData(58368, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleEuro = LucideIconData._(IconData(59167, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleExclamationPoint = LucideIconData._(IconData(57463, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingArrowUp = LucideIconData._(IconData(58904, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingPlay = LucideIconData._(IconData(59304, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingPlus = LucideIconData._(IconData(58812, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -583,6 +587,7 @@ class LucideIcons {
   static const IconData clockArrowRight = LucideIconData._(IconData(59150, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clockArrowUp = LucideIconData._(IconData(58881, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clockCheck = LucideIconData._(IconData(59038, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData clockExclamationPoint = LucideIconData._(IconData(58922, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clockFading = LucideIconData._(IconData(58954, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clockPlus = LucideIconData._(IconData(58983, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData clock = LucideIconData._(IconData(57479, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -593,6 +598,7 @@ class LucideIcons {
   static const IconData cloudCog = LucideIconData._(IconData(58122, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cloudDownload = LucideIconData._(IconData(57481, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cloudDrizzle = LucideIconData._(IconData(57482, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData cloudExclamationPoint = LucideIconData._(IconData(58931, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cloudFog = LucideIconData._(IconData(57876, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cloudHail = LucideIconData._(IconData(57483, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cloudLightning = LucideIconData._(IconData(57484, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1275,10 +1281,12 @@ class LucideIcons {
   static const IconData luggage = LucideIconData._(IconData(58058, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mSquare = LucideIconData._(IconData(58627, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData magnet = LucideIconData._(IconData(58037, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData mailAlert = LucideIconData._(IconData(58215, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailBadge = LucideIconData._(IconData(59188, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailCheck = LucideIconData._(IconData(58209, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailClock = LucideIconData._(IconData(59198, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailDot = LucideIconData._(IconData(59294, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData mailExclamationPoint = LucideIconData._(IconData(58215, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailMinus = LucideIconData._(IconData(58210, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailOpen = LucideIconData._(IconData(58211, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailPen = LucideIconData._(IconData(59214, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1291,6 +1299,7 @@ class LucideIcons {
   static const IconData mail = LucideIconData._(IconData(57615, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mailbox = LucideIconData._(IconData(58324, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mails = LucideIconData._(IconData(58217, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData mango = LucideIconData._(IconData(59443, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mapMinus = LucideIconData._(IconData(59014, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mapPinCheckInside = LucideIconData._(IconData(58896, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData mapPinCheck = LucideIconData._(IconData(58895, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1328,10 +1337,12 @@ class LucideIcons {
   static const IconData menuSquare = LucideIconData._(IconData(58451, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData menu = LucideIconData._(IconData(57621, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData merge = LucideIconData._(IconData(58431, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData messageCircleAlert = LucideIconData._(IconData(58730, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleCheck = LucideIconData._(IconData(59066, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleCode = LucideIconData._(IconData(58722, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleDashedCheck = LucideIconData._(IconData(59206, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleDashed = LucideIconData._(IconData(58723, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData messageCircleExclamationPoint = LucideIconData._(IconData(58730, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleHeart = LucideIconData._(IconData(58724, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleMore = LucideIconData._(IconData(58725, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleOff = LucideIconData._(IconData(58726, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1343,11 +1354,13 @@ class LucideIcons {
   static const IconData messageCircleWarning = LucideIconData._(IconData(58730, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircleX = LucideIconData._(IconData(58731, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageCircle = LucideIconData._(IconData(57622, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData messageSquareAlert = LucideIconData._(IconData(58742, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareCheck = LucideIconData._(IconData(59067, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareCode = LucideIconData._(IconData(58732, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareDashed = LucideIconData._(IconData(58379, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareDiff = LucideIconData._(IconData(58733, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareDot = LucideIconData._(IconData(58734, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData messageSquareExclamationPoint = LucideIconData._(IconData(58742, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareHeart = LucideIconData._(IconData(58735, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareLock = LucideIconData._(IconData(58924, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData messageSquareMore = LucideIconData._(IconData(58736, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1460,6 +1473,7 @@ class LucideIcons {
   static const IconData nutOff = LucideIconData._(IconData(58268, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData nut = LucideIconData._(IconData(58267, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData octagonAlert = LucideIconData._(IconData(57639, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData octagonExclamationPoint = LucideIconData._(IconData(57639, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData octagonMinus = LucideIconData._(IconData(58919, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData octagonPause = LucideIconData._(IconData(57883, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData octagonX = LucideIconData._(IconData(57640, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1736,6 +1750,7 @@ class LucideIcons {
   static const IconData searchAlert = LucideIconData._(IconData(59111, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData searchCheck = LucideIconData._(IconData(58538, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData searchCode = LucideIconData._(IconData(58539, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData searchExclamationPoint = LucideIconData._(IconData(59111, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData searchSlash = LucideIconData._(IconData(58540, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData searchX = LucideIconData._(IconData(58541, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData search = LucideIconData._(IconData(57681, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1767,6 +1782,7 @@ class LucideIcons {
   static const IconData shieldCogCorner = LucideIconData._(IconData(59112, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldCog = LucideIconData._(IconData(59113, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldEllipsis = LucideIconData._(IconData(58646, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData shieldExclamationPoint = LucideIconData._(IconData(57854, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldHalf = LucideIconData._(IconData(58647, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldHouse = LucideIconData._(IconData(59297, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData shieldKeyhole = LucideIconData._(IconData(59170, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2126,6 +2142,7 @@ class LucideIcons {
   static const IconData trendingUp = LucideIconData._(IconData(57745, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData triangleAlert = LucideIconData._(IconData(57747, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData triangleDashed = LucideIconData._(IconData(58941, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData triangleExclamationPoint = LucideIconData._(IconData(57747, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData triangleRight = LucideIconData._(IconData(58605, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData triangle = LucideIconData._(IconData(57746, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trianglesCenterlineDashedHorizontal = LucideIconData._(IconData(58206, fontFamily: _fontFamily, fontPackage: _fontPackage));
