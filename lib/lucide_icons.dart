@@ -496,6 +496,7 @@ class LucideIcons {
   static const IconData circleEuro = LucideIconData._(IconData(59167, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleExclamationPoint = LucideIconData._(IconData(57463, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingArrowUp = LucideIconData._(IconData(58904, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData circleFadingCheck = LucideIconData._(IconData(59444, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingPlay = LucideIconData._(IconData(59304, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleFadingPlus = LucideIconData._(IconData(58812, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData circleGauge = LucideIconData._(IconData(58593, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1479,6 +1480,7 @@ class LucideIcons {
   static const IconData octagonX = LucideIconData._(IconData(57640, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData octagon = LucideIconData._(IconData(57638, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData omega = LucideIconData._(IconData(58905, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData opacity = LucideIconData._(IconData(59445, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData option = LucideIconData._(IconData(57848, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData orbit = LucideIconData._(IconData(58343, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData origami = LucideIconData._(IconData(58851, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1487,7 +1489,9 @@ class LucideIcons {
   static const IconData packageCheck = LucideIconData._(IconData(57958, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData packageMinus = LucideIconData._(IconData(57959, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData packageOpen = LucideIconData._(IconData(58060, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData packagePen = LucideIconData._(IconData(59446, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData packagePlus = LucideIconData._(IconData(57960, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData packageQuestionMark = LucideIconData._(IconData(59447, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData packageSearch = LucideIconData._(IconData(57961, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData packageX = LucideIconData._(IconData(57962, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData package = LucideIconData._(IconData(57641, fontFamily: _fontFamily, fontPackage: _fontPackage));
