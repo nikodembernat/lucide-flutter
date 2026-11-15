@@ -379,6 +379,7 @@ class LucideIcons {
   static const IconData candy = LucideIconData._(IconData(58257, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cannabisOff = LucideIconData._(IconData(59104, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cannabis = LucideIconData._(IconData(58836, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData cap = LucideIconData._(IconData(59476, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData captionsOff = LucideIconData._(IconData(58817, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData captions = LucideIconData._(IconData(58276, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData carBattery = LucideIconData._(IconData(59189, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1026,6 +1027,7 @@ class LucideIcons {
   static const IconData graduationCap = LucideIconData._(IconData(57908, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData grape = LucideIconData._(IconData(58194, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData graphHub = LucideIconData._(IconData(59317, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData graphRing = LucideIconData._(IconData(59477, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData graphStar = LucideIconData._(IconData(59308, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData grid2X2Check = LucideIconData._(IconData(58852, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData grid2X2Plus = LucideIconData._(IconData(58920, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1189,6 +1191,7 @@ class LucideIcons {
   static const IconData layoutDashboard = LucideIconData._(IconData(57793, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutFreeform = LucideIconData._(IconData(59171, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutGridCircles = LucideIconData._(IconData(59280, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData layoutGridPlus = LucideIconData._(IconData(59478, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutGrid = LucideIconData._(IconData(57599, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutList = LucideIconData._(IconData(57817, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData layoutPanelLeft = LucideIconData._(IconData(58480, fontFamily: _fontFamily, fontPackage: _fontPackage));
