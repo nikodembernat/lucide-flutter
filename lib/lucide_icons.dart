@@ -1181,6 +1181,7 @@ class LucideIcons {
   static const IconData iterationCcw = LucideIconData._(IconData(58403, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData iterationCw = LucideIconData._(IconData(58404, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ivBag = LucideIconData._(IconData(59248, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData jacket = LucideIconData._(IconData(59513, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData japaneseYen = LucideIconData._(IconData(57596, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData joystick = LucideIconData._(IconData(58197, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData kanbanSquareDashed = LucideIconData._(IconData(57708, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1547,6 +1548,7 @@ class LucideIcons {
   static const IconData packageX = LucideIconData._(IconData(57962, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData package = LucideIconData._(IconData(57641, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData paintBucket = LucideIconData._(IconData(58086, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData paintGun = LucideIconData._(IconData(59514, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData paintRoller = LucideIconData._(IconData(58782, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData paintbrush2 = LucideIconData._(IconData(58088, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData paintbrushVertical = LucideIconData._(IconData(58088, fontFamily: _fontFamily, fontPackage: _fontPackage));
