@@ -737,6 +737,7 @@ class LucideIcons {
   static const IconData dessert = LucideIconData._(IconData(58555, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diagramFlowHorizontal = LucideIconData._(IconData(59439, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diagramFlowVertical = LucideIconData._(IconData(59440, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData diagramSankey = LucideIconData._(IconData(59515, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diameter = LucideIconData._(IconData(58662, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diamondMinus = LucideIconData._(IconData(58849, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diamondPercent = LucideIconData._(IconData(58651, fontFamily: _fontFamily, fontPackage: _fontPackage));
