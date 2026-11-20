@@ -315,6 +315,7 @@ class LucideIcons {
   static const IconData bot = LucideIconData._(IconData(57787, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bottleWine = LucideIconData._(IconData(59003, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bowArrow = LucideIconData._(IconData(58974, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData boxDashed = LucideIconData._(IconData(59515, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData boxSelect = LucideIconData._(IconData(57803, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData box = LucideIconData._(IconData(57441, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData boxesLinked = LucideIconData._(IconData(59332, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -494,6 +495,7 @@ class LucideIcons {
   static const IconData chevronsToAxisVertical = LucideIconData._(IconData(59500, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chevronsUpDown = LucideIconData._(IconData(57873, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData chevronsUp = LucideIconData._(IconData(57460, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData chocolateBar = LucideIconData._(IconData(59516, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData church = LucideIconData._(IconData(58337, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cigaretteOff = LucideIconData._(IconData(58055, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cigarette = LucideIconData._(IconData(58054, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -737,7 +739,7 @@ class LucideIcons {
   static const IconData dessert = LucideIconData._(IconData(58555, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diagramFlowHorizontal = LucideIconData._(IconData(59439, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diagramFlowVertical = LucideIconData._(IconData(59440, fontFamily: _fontFamily, fontPackage: _fontPackage));
-  static const IconData diagramSankey = LucideIconData._(IconData(59515, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData diagramSankey = LucideIconData._(IconData(59517, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diameter = LucideIconData._(IconData(58662, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diamondMinus = LucideIconData._(IconData(58849, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData diamondPercent = LucideIconData._(IconData(58651, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -971,10 +973,12 @@ class LucideIcons {
   static const IconData folderKey = LucideIconData._(IconData(58165, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderLock = LucideIconData._(IconData(58166, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderMinus = LucideIconData._(IconData(57560, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData folderNetwork = LucideIconData._(IconData(59518, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderOpenDot = LucideIconData._(IconData(58567, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderOpen = LucideIconData._(IconData(57927, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderOutput = LucideIconData._(IconData(58167, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderPen = LucideIconData._(IconData(58168, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData folderPlusCorner = LucideIconData._(IconData(59519, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderPlus = LucideIconData._(IconData(57561, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderRoot = LucideIconData._(IconData(58568, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData folderSearch2 = LucideIconData._(IconData(58170, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1715,6 +1719,7 @@ class LucideIcons {
   static const IconData rectangleEllipsis = LucideIconData._(IconData(57887, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleGoggles = LucideIconData._(IconData(58966, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleHorizontal = LucideIconData._(IconData(58230, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData rectangleLandscapePlay = LucideIconData._(IconData(59520, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleVertical = LucideIconData._(IconData(58231, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData recycle = LucideIconData._(IconData(58089, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData redo2 = LucideIconData._(IconData(58016, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2285,6 +2290,7 @@ class LucideIcons {
   static const IconData userPlus = LucideIconData._(IconData(57762, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData userRoundArrowLeft = LucideIconData._(IconData(59156, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData userRoundCheck = LucideIconData._(IconData(58473, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData userRoundClock = LucideIconData._(IconData(59521, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData userRoundCog = LucideIconData._(IconData(58474, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData userRoundExclamationPoint = LucideIconData._(IconData(59452, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData userRoundGroup = LucideIconData._(IconData(59237, fontFamily: _fontFamily, fontPackage: _fontPackage));
