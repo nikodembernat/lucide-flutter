@@ -69,6 +69,7 @@ class LucideIcons {
   static const IconData anvil = LucideIconData._(IconData(58752, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData aperture = LucideIconData._(IconData(57408, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData appWindowMac = LucideIconData._(IconData(58834, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData appWindowPlus = LucideIconData._(IconData(59526, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData appWindow = LucideIconData._(IconData(58406, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData apple = LucideIconData._(IconData(58190, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData archiveArrowDown = LucideIconData._(IconData(59331, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2057,6 +2058,7 @@ class LucideIcons {
   static const IconData squarePi = LucideIconData._(IconData(58504, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePilcrow = LucideIconData._(IconData(58507, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePlay = LucideIconData._(IconData(58497, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePlusCorner = LucideIconData._(IconData(59527, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePlus = LucideIconData._(IconData(57715, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePower = LucideIconData._(IconData(58705, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareRadical = LucideIconData._(IconData(58819, fontFamily: _fontFamily, fontPackage: _fontPackage));
