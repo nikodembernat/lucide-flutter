@@ -68,8 +68,11 @@ class LucideIcons {
   static const IconData antenna = LucideIconData._(IconData(58594, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData anvil = LucideIconData._(IconData(58752, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData aperture = LucideIconData._(IconData(57408, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData appWindowMacMinus = LucideIconData._(IconData(59526, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData appWindowMacPlus = LucideIconData._(IconData(59527, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData appWindowMac = LucideIconData._(IconData(58834, fontFamily: _fontFamily, fontPackage: _fontPackage));
-  static const IconData appWindowPlus = LucideIconData._(IconData(59526, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData appWindowMinus = LucideIconData._(IconData(59528, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData appWindowPlus = LucideIconData._(IconData(59529, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData appWindow = LucideIconData._(IconData(58406, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData apple = LucideIconData._(IconData(58190, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData archiveArrowDown = LucideIconData._(IconData(59331, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -316,6 +319,7 @@ class LucideIcons {
   static const IconData bot = LucideIconData._(IconData(57787, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bottleWine = LucideIconData._(IconData(59003, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData bowArrow = LucideIconData._(IconData(58974, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData bowlChopsticks = LucideIconData._(IconData(59543, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData boxDashed = LucideIconData._(IconData(59515, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData boxSelect = LucideIconData._(IconData(57803, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData box = LucideIconData._(IconData(57441, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -666,6 +670,8 @@ class LucideIcons {
   static const IconData coffee = LucideIconData._(IconData(57494, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData cog = LucideIconData._(IconData(58123, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData coins = LucideIconData._(IconData(57495, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData columns2PlusLeft = LucideIconData._(IconData(59530, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData columns2PlusRight = LucideIconData._(IconData(59531, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData columns2 = LucideIconData._(IconData(57496, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData columns3Cog = LucideIconData._(IconData(58977, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData columns3 = LucideIconData._(IconData(57497, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -806,6 +812,7 @@ class LucideIcons {
   static const IconData eighthNote = LucideIconData._(IconData(58186, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData eighthNotes = LucideIconData._(IconData(57634, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData eject = LucideIconData._(IconData(59187, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData elevator = LucideIconData._(IconData(59544, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipse = LucideIconData._(IconData(59058, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsisVertical = LucideIconData._(IconData(57527, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData ellipsis = LucideIconData._(IconData(57526, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -908,6 +915,7 @@ class LucideIcons {
   static const IconData fileStack = LucideIconData._(IconData(58529, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileSymlink = LucideIconData._(IconData(58151, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileTerminal = LucideIconData._(IconData(58152, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData fileTextSparkles = LucideIconData._(IconData(59532, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileText = LucideIconData._(IconData(57548, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileType2 = LucideIconData._(IconData(58221, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData fileTypeCorner = LucideIconData._(IconData(58221, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1054,6 +1062,7 @@ class LucideIcons {
   static const IconData globe2 = LucideIconData._(IconData(57843, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeBan = LucideIconData._(IconData(59441, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeCheck = LucideIconData._(IconData(59132, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData globeClock = LucideIconData._(IconData(59545, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeCode = LucideIconData._(IconData(59245, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeLock = LucideIconData._(IconData(58829, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData globeOff = LucideIconData._(IconData(59061, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1172,6 +1181,7 @@ class LucideIcons {
   static const IconData imageOff = LucideIconData._(IconData(57792, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData imagePlay = LucideIconData._(IconData(58847, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData imagePlus = LucideIconData._(IconData(57847, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData imageSparkles = LucideIconData._(IconData(59533, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData imageUp = LucideIconData._(IconData(58827, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData imageUpscale = LucideIconData._(IconData(58935, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData image = LucideIconData._(IconData(57590, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1319,6 +1329,7 @@ class LucideIcons {
   static const IconData listTodo = LucideIconData._(IconData(58563, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData listTree = LucideIconData._(IconData(58376, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData listVideo = LucideIconData._(IconData(58082, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData listXCorner = LucideIconData._(IconData(59534, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData listX = LucideIconData._(IconData(57920, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData list = LucideIconData._(IconData(57606, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData loader2 = LucideIconData._(IconData(57610, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1656,6 +1667,7 @@ class LucideIcons {
   static const IconData pipette = LucideIconData._(IconData(57659, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData pizza = LucideIconData._(IconData(58196, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData planeLanding = LucideIconData._(IconData(58317, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData planeOff = LucideIconData._(IconData(59535, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData planeTakeoff = LucideIconData._(IconData(58318, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData plane = LucideIconData._(IconData(57822, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData plantPot = LucideIconData._(IconData(59256, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1723,6 +1735,8 @@ class LucideIcons {
   static const IconData rectangleCircle = LucideIconData._(IconData(58995, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleEllipsis = LucideIconData._(IconData(57887, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleGoggles = LucideIconData._(IconData(58966, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData rectangleHorizontalPlay = LucideIconData._(IconData(59520, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData rectangleHorizontalPlus = LucideIconData._(IconData(59536, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleHorizontal = LucideIconData._(IconData(58230, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleLandscapePlay = LucideIconData._(IconData(59520, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rectangleVertical = LucideIconData._(IconData(58231, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1768,6 +1782,8 @@ class LucideIcons {
   static const IconData routeOff = LucideIconData._(IconData(58687, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData route = LucideIconData._(IconData(58686, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData router = LucideIconData._(IconData(58303, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData rows2PlusBottom = LucideIconData._(IconData(59537, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData rows2PlusTop = LucideIconData._(IconData(59538, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rows2 = LucideIconData._(IconData(58425, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rows3 = LucideIconData._(IconData(58762, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData rows4 = LucideIconData._(IconData(58763, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -1816,6 +1832,7 @@ class LucideIcons {
   static const IconData screenShareOff = LucideIconData._(IconData(57680, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData screenShare = LucideIconData._(IconData(57679, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData screw = LucideIconData._(IconData(59296, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData screwdriver = LucideIconData._(IconData(59539, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scrollText = LucideIconData._(IconData(58463, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData scroll = LucideIconData._(IconData(58093, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData searchAlert = LucideIconData._(IconData(59111, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2058,7 +2075,7 @@ class LucideIcons {
   static const IconData squarePi = LucideIconData._(IconData(58504, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePilcrow = LucideIconData._(IconData(58507, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePlay = LucideIconData._(IconData(58497, fontFamily: _fontFamily, fontPackage: _fontPackage));
-  static const IconData squarePlusCorner = LucideIconData._(IconData(59527, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData squarePlusCorner = LucideIconData._(IconData(59540, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePlus = LucideIconData._(IconData(57715, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squarePower = LucideIconData._(IconData(58705, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData squareRadical = LucideIconData._(IconData(58819, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2095,6 +2112,7 @@ class LucideIcons {
   static const IconData starX = LucideIconData._(IconData(59146, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData star = LucideIconData._(IconData(57718, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData stars = LucideIconData._(IconData(58386, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData steeringWheel = LucideIconData._(IconData(59546, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData stepBack = LucideIconData._(IconData(58345, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData stepForward = LucideIconData._(IconData(58346, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData stethoscope = LucideIconData._(IconData(58097, fontFamily: _fontFamily, fontPackage: _fontPackage));
@@ -2225,11 +2243,13 @@ class LucideIcons {
   static const IconData trailer = LucideIconData._(IconData(59202, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trainFrontTunnel = LucideIconData._(IconData(58631, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trainFront = LucideIconData._(IconData(58630, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData trainHighSpeed = LucideIconData._(IconData(59541, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trainTrack = LucideIconData._(IconData(58632, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData train = LucideIconData._(IconData(58025, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData tramFront = LucideIconData._(IconData(58025, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData transgender = LucideIconData._(IconData(58948, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trash2 = LucideIconData._(IconData(57742, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData trashLeaf = LucideIconData._(IconData(59542, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trashOff = LucideIconData._(IconData(59235, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData trash = LucideIconData._(IconData(57741, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData treeDeciduous = LucideIconData._(IconData(58099, fontFamily: _fontFamily, fontPackage: _fontPackage));
