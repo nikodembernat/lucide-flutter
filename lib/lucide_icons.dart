@@ -325,6 +325,7 @@ class LucideIcons {
   static const IconData box = LucideIconData._(IconData(57441, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData boxesLinked = LucideIconData._(IconData(59332, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData boxes = LucideIconData._(IconData(58064, fontFamily: _fontFamily, fontPackage: _fontPackage));
+  static const IconData bracesSigma = LucideIconData._(IconData(59547, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData braces = LucideIconData._(IconData(58218, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData brackets = LucideIconData._(IconData(58435, fontFamily: _fontFamily, fontPackage: _fontPackage));
   static const IconData brainCircuit = LucideIconData._(IconData(58311, fontFamily: _fontFamily, fontPackage: _fontPackage));
